@@ -1,12 +1,7 @@
 ---
 name: deep-intel
 version: 1.0.0
-description: >
-  Context-aware exhaustive research skill. Given any topic,
-  automatically identifies all research angles, runs parallel
-  searches, fetches full pages not snippets, cross-references
-  findings, and delivers a strategic intelligence brief filtered
-  through the user personal context, goals, and constraints.
+description: Context-aware exhaustive research. Reads USER.md and MEMORY.md first, decomposes topic into 8+ research angles, fetches full pages, cross-references findings, delivers strategic brief filtered through your goals and constraints.
 author: lous-creations
 tags: [research, intelligence, agents, strategy, automation]
 requires: [web_search, web_fetch, memory]
@@ -16,10 +11,10 @@ requires: [web_search, web_fetch, memory]
 
 ## What This Skill Does
 
-Runs a complete multi-layer research mission on any topic and
-delivers a strategic intelligence brief tailored to YOUR situation.
-Reads USER.md and MEMORY.md first so every finding is filtered
-through your goals, constraints, and context before delivery.
+Runs a complete multi-layer research mission on any topic and delivers a
+strategic intelligence brief tailored to YOUR situation. Not a generic
+research tool. Reads USER.md and MEMORY.md first so every finding is
+filtered through your goals, constraints, and context before delivery.
 
 ## Before Starting
 
@@ -31,16 +26,16 @@ Ask the user:
 ## Research Process
 
 ### Phase 0 — Load User Context
-- Read MEMORY.md and USER.md before any search
-- Extract: goals, constraints, location, stack, budget, projects
-- Filter every finding through this context
+Read MEMORY.md and USER.md before any search.
+Extract goals, constraints, location, stack, budget, active projects.
+Filter every finding through this context throughout.
 
 ### Phase 1 — Topic Decomposition
-Identify ALL research angles:
-- Core ecosystem (names, websites, repos, people)
+Identify ALL research angles automatically:
+- Core ecosystem: names, websites, repos, people
 - Technical architecture and how it was built
 - Community projects and user-made tools
-- Strategies and use cases (real numbers only)
+- Strategies and use cases with real numbers only
 - Hidden features and undocumented capabilities
 - Security risks and known failures
 - Real people with similar constraints and what they achieved
@@ -49,56 +44,68 @@ Identify ALL research angles:
 - Market gaps nobody has filled yet
 
 ### Phase 2 — Parallel Search Execution
+Run a separate search for EACH angle identified above.
+Rules:
 - Minimum 8 searches per topic
-- web_fetch full pages for top 2-3 results per search
+- Use web_fetch on top 2-3 results per search — full page not snippet
 - Cross-reference findings across angles
+- Flag contradictions between sources
 - Prioritize primary sources over aggregators
+- Include current date in queries for fast-moving topics
 
 ### Phase 3 — Context Filtering
-- Remove anything not relevant to user goals
-- Flag anything conflicting with user constraints
+Before writing the report, filter ALL findings through user context:
+- Remove anything not relevant to their goals
+- Flag anything conflicting with their constraints
+- Elevate findings that directly address their situation
 - Note anything requiring resources the user does not have
 
 ### Phase 4 — Intelligence Brief Structure
-1. ECOSYSTEM MAP
-2. HOW IT WORKS
-3. WHAT PEOPLE ARE DOING
-4. WHAT PEOPLE ARE MISSING
-5. PEOPLE LIKE YOU
-6. FREE TOOLS AVAILABLE
-7. RISKS AND FAILURES
-8. MARKET GAPS
-9. YOUR STRATEGIC OPPORTUNITY
+Deliver in this exact order:
+1. ECOSYSTEM MAP — all players, names, repos, websites
+2. HOW IT WORKS — technical architecture, co-founder level depth
+3. WHAT PEOPLE ARE DOING — real strategies with real numbers
+4. WHAT PEOPLE ARE MISSING — underused tools and hidden features
+5. PEOPLE LIKE YOU — cases matching user constraints exactly
+6. FREE TOOLS AVAILABLE — complete zero-cost stack for this topic
+7. RISKS AND FAILURES — what went wrong for others
+8. MARKET GAPS — what nobody has built yet
+9. YOUR STRATEGIC OPPORTUNITY — 3 specific actions for THIS user
 
 ## Best Practices
 
-- Always read USER.md and MEMORY.md FIRST
-- Fetch full pages not just snippets
-- Run minimum 8-12 separate searches
-- Section 9 is mandatory — never skip it
-- Real numbers only (stars, users, dollars, dates)
+- Always read USER.md and MEMORY.md FIRST before any search
+- Fetch full pages not just search snippets
+- Run minimum 8-12 separate searches per topic
+- Cross-reference findings across multiple sources
+- Section 9 YOUR STRATEGIC OPPORTUNITY is mandatory — never skip it
+- Use real numbers only: stars, users, dollars, dates — no vague claims
+- Flag when a finding contradicts another finding
+- Note which findings require resources the user does not have
 
 ## Common Pitfalls
 
 | Pitfall | Fix |
 |---|---|
-| Stopping after 2-3 searches | Run minimum 8 angle searches |
-| Using snippets only | Always web_fetch full pages |
-| Generic output | Read USER.md first |
-| Missing opportunity section | Section 9 is mandatory |
-| Aggregator sources only | Find primary sources |
+| Stopping after 2-3 searches | Run minimum 8 separate angle searches |
+| Using snippets only | Always web_fetch full pages for top results |
+| Generic output ignoring user context | Read USER.md first, filter everything |
+| Missing the opportunity section | Section 9 is mandatory, never skip |
+| Aggregator sources only | Always find and fetch primary sources |
+| No cross-referencing | Explicitly compare findings across angles |
 
 ## Trigger Phrases
 
-- "Deep research [topic]"
-- "Full intel on [topic]"
-- "Research everything about [topic] for my situation"
-- "Go deep on [topic]"
-- "Understand [topic] from every angle"
+- Deep research [topic]
+- Full intel on [topic]
+- Research everything about [topic] for my situation
+- Go deep on [topic]
+- Understand [topic] from every angle
+- Complete investigation of [topic]
 
 ## Related Skills
 
-- openclaw-setup-expert
-- agent-income-expert
-- free-stack-builder
-- dev-memory
+- openclaw-setup-expert — set up the agent that runs this skill
+- agent-income-expert — monetize findings from deep-intel research
+- free-stack-builder — build the zero-cost infrastructure to run it
+- dev-memory — persistent developer context across sessions
