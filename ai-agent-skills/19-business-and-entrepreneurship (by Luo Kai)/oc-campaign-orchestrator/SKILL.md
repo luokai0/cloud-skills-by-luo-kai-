@@ -2,7 +2,7 @@
 name: oc-campaign-orchestrator
 version: 1.0.0
 description: Multi-channel follow-up campaign orchestrator.
-author: lous-creations
+author: luo-kai
 tags: [campaign-orchestrator, openclaw, community]
 source: https://clawskills.sh/skills/campaign-orchestrator
 ---

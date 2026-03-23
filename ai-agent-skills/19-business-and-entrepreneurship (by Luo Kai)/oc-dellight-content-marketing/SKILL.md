@@ -2,7 +2,7 @@
 name: oc-dellight-content-marketing
 version: 1.0.0
 description: CMO reports to CRO (Reign), dotted line to CEO (Arthur Dell).
-author: lous-creations
+author: luo-kai
 tags: [dellight-content-marketing, openclaw, community]
 source: https://clawskills.sh/skills/dellight-content-marketing
 ---

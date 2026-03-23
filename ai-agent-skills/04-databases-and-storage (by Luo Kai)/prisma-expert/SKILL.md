@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: prisma-expert
 description: Expert-level Prisma ORM. Use when working with Prisma schema, migrations, relations, raw queries, Prisma Client, or integrating with Next.js.
 license: MIT

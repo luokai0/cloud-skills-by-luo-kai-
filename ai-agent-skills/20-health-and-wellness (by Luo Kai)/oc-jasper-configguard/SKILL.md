@@ -2,7 +2,7 @@
 name: oc-jasper-configguard
 version: 1.0.0
 description: Safe config changes for OpenClaw with automatic.
-author: lous-creations
+author: luo-kai
 tags: [jasper-configguard, openclaw, community]
 source: https://clawskills.sh/skills/jasper-configguard
 ---

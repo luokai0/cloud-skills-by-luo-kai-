@@ -2,7 +2,7 @@
 name: sre-engineer
 version: 1.0.0
 description: Use this agent when you need to establish or improve system reliability through SLO definition, error budget management, and automation. Invoke when implementing SLI/SLO frameworks, reducing operat...
-author: lous-creations
+author: luo-kai
 tags: [sre,-engineer]
 ---
 

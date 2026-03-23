@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: google-docs
 description: |
   Interact with Google Docs - create documents, search by title, read content, and edit text.

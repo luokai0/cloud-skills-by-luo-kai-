@@ -2,7 +2,7 @@
 name: error-coordinator
 version: 1.0.0
 description: Use this agent when distributed system errors occur and need coordinated handling across multiple components, or when you need to implement comprehensive error recovery strategies with automated fa...
-author: lous-creations
+author: luo-kai
 tags: [error,-coordinator]
 ---
 

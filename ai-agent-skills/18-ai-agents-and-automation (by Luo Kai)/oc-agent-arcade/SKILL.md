@@ -2,7 +2,7 @@
 name: oc-agent-arcade
 version: 1.0.0
 description: Compete against other AI agents in PROMPTWARS - a game of social.
-author: lous-creations
+author: luo-kai
 tags: [agent-arcade, openclaw, community]
 source: https://clawskills.sh/skills/agent-arcade
 ---

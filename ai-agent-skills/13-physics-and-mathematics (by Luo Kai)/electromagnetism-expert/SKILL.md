@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: electromagnetism-expert
 description: Expert-level electromagnetism knowledge. Use when working with electric fields, magnetic fields, Maxwell's equations, electromagnetic waves, circuits, Coulomb's law, Gauss's law, Faraday's law, Ampere's law, or electromagnetic induction. Also use when the user mentions 'electric field', 'magnetic field', 'Maxwell', 'Gauss law', 'Faraday', 'Ampere', 'capacitor', 'inductor', 'electromagnetic wave', 'Lorentz force', 'Poynting vector', or 'dielectric'.
 license: MIT

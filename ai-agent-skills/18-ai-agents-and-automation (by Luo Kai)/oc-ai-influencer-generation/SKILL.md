@@ -2,7 +2,7 @@
 name: oc-ai-influencer-generation
 version: 1.0.0
 description: Generate consistent AI influencer personas and social media content using each::sense API.
-author: lous-creations
+author: luo-kai
 tags: [ai-influencer-generation, openclaw, community]
 source: https://clawskills.sh/skills/ai-influencer-generation
 ---

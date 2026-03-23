@@ -2,7 +2,7 @@
 name: task-distributor
 version: 1.0.0
 description: Use when distributing tasks across multiple agents or workers, managing queues, and balancing workloads to maximize throughput while respecting priorities and deadlines.
-author: lous-creations
+author: luo-kai
 tags: [task,-distributor]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-mnemon
 version: 1.0.0
 description: Persistent memory CLI for LLM agents.
-author: lous-creations
+author: luo-kai
 tags: [mnemon, openclaw, community]
 source: https://clawskills.sh/skills/mnemon
 ---

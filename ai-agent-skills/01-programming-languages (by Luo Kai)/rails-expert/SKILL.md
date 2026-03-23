@@ -2,7 +2,7 @@
 name: rails-expert
 version: 1.0.0
 description: Use when building or modernizing Rails applications requiring full-stack development, Hotwire reactivity, real-time features, or Rails-idiomatic patterns for maximum productivity.
-author: lous-creations
+author: luo-kai
 tags: [rails,-expert]
 ---
 

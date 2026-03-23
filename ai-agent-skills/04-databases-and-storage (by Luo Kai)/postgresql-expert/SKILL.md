@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: postgresql-expert
 description: Expert-level PostgreSQL. Use when writing complex SQL queries, designing schemas, working with indexes, CTEs, window functions, JSONB, full-text search, stored procedures, performance tuning, or pg extensions. Also use when the user mentions 'slow query', 'EXPLAIN', 'index', 'migration', 'schema design', 'normalization', 'JOIN', 'window function', 'CTE', or 'JSONB'.
 license: MIT

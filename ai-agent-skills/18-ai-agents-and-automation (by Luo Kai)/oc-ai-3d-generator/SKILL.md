@@ -2,7 +2,7 @@
 name: oc-ai-3d-generator
 version: 1.0.0
 description: Génération automatique de modèles 3D détaillés à partir de descriptions textuelles.
-author: lous-creations
+author: luo-kai
 tags: [ai-3d-generator, openclaw, community]
 source: https://clawskills.sh/skills/ai-3d-generator
 ---

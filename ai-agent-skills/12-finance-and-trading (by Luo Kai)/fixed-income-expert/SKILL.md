@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: fixed-income-expert
 description: Expert-level fixed income and bond market knowledge. Use when working with bonds, duration, yield curves, credit spreads, bond pricing, interest rate risk, corporate bonds, government bonds, municipal bonds, MBS, or fixed income portfolio management. Also use when the user mentions 'bond yield', 'duration', 'convexity', 'credit spread', 'investment grade', 'high yield', 'Treasury', 'coupon', 'YTM', 'DV01', 'spread duration', or 'bond ladder'.
 license: MIT

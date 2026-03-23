@@ -2,7 +2,7 @@
 name: oc-gmail-secretary
 version: 1.0.0
 description: Gmail triage assistant using Haiku LLM for classification, label application, and draft replies (uses gog CLI.
-author: lous-creations
+author: luo-kai
 tags: [gmail-secretary, openclaw, community]
 source: https://clawskills.sh/skills/gmail-secretary
 ---

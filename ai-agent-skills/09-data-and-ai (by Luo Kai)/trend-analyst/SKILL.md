@@ -2,7 +2,7 @@
 name: trend-analyst
 version: 1.0.0
 description: Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.
-author: lous-creations
+author: luo-kai
 tags: [trend,-analyst]
 ---
 

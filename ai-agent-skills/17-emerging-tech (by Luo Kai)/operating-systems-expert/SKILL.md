@@ -2,7 +2,7 @@
 name: operating-systems-expert
 version: 1.0.0
 description: Expert-level operating systems covering process management, memory management, file systems, synchronization, scheduling, virtualization, and OS security.
-author: luokai25
+author: luo-kai
 tags: [operating systems, processes, memory, file systems, scheduling, Linux]
 ---
 

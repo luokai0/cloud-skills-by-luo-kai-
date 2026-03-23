@@ -2,7 +2,7 @@
 name: oc-beads
 version: 1.0.0
 description: Git-backed issue tracker for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [beads, openclaw, community]
 source: https://clawskills.sh/skills/beads
 ---

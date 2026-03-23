@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: mongodb-expert
 description: Expert-level MongoDB. Use when designing document schemas, aggregation pipelines, indexes, change streams, Atlas Search, or Mongoose ODM.
 license: MIT

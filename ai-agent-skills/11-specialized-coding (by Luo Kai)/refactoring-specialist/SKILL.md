@@ -2,7 +2,7 @@
 name: refactoring-specialist
 version: 1.0.0
 description: Use when you need to transform poorly structured, complex, or duplicated code into clean, maintainable systems while preserving all existing behavior.
-author: lous-creations
+author: luo-kai
 tags: [refactoring,-specialist]
 ---
 

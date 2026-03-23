@@ -2,7 +2,7 @@
 name: test-automator
 version: 1.0.0
 description: Use this agent when you need to build, implement, or enhance automated test frameworks, create test scripts, or integrate testing into CI/CD pipelines.
-author: lous-creations
+author: luo-kai
 tags: [test,-automator]
 ---
 

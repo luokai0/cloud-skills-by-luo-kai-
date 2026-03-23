@@ -2,7 +2,7 @@
 name: oc-crunch-coordinate
 version: 1.0.0
 description: Use when managing Crunch coordinators, competitions (crunches), rewards, checkpoints, staking, or cruncher accounts.
-author: lous-creations
+author: luo-kai
 tags: [crunch-coordinate, openclaw, community]
 source: https://clawskills.sh/skills/crunch-coordinate
 ---

@@ -2,7 +2,7 @@
 name: oc-ct-health-guardian
 version: 1.0.0
 description: Proactive health monitoring for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [ct-health-guardian, openclaw, community]
 source: https://clawskills.sh/skills/ct-health-guardian
 ---

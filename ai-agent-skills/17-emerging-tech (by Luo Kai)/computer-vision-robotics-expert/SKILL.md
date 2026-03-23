@@ -2,7 +2,7 @@
 name: computer-vision-robotics-expert
 version: 1.0.0
 description: Expert-level computer vision for robotics covering camera models, feature detection, object detection, pose estimation, visual SLAM, and deep learning for perception.
-author: luokai25
+author: luo-kai
 tags: [computer vision, robotics, SLAM, object detection, pose estimation, deep learning]
 ---
 

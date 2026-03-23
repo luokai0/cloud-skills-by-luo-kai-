@@ -2,7 +2,7 @@
 name: oc-email-marketing-2
 version: 1.0.0
 description: Build and execute email marketing campaigns for a solopreneur business.
-author: lous-creations
+author: luo-kai
 tags: [email-marketing-2, openclaw, community]
 source: https://clawskills.sh/skills/email-marketing-2
 ---

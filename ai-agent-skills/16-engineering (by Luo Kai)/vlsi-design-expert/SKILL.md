@@ -2,7 +2,7 @@
 name: vlsi-design-expert
 version: 1.0.0
 description: Expert-level VLSI design covering CMOS logic, custom layout, standard cell design, physical design flow, DRC, LVS, and advanced process nodes.
-author: luokai25
+author: luo-kai
 tags: [VLSI, CMOS, layout, standard cells, physical design, DRC, LVS]
 ---
 

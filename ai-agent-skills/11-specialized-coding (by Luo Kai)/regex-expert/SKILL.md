@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: regex-expert
 description: Expert-level regular expressions. Use when writing complex regex, lookaheads, capture groups, non-greedy matching, or debugging regex across languages.
 license: MIT

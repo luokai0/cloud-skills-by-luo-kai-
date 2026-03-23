@@ -2,7 +2,7 @@
 name: oc-agent-linguo
 version: 1.0.0
 description: Efficient Agent Communication Protocol Language.
-author: lous-creations
+author: luo-kai
 tags: [agent-linguo, openclaw, community]
 source: https://clawskills.sh/skills/agent-linguo
 ---

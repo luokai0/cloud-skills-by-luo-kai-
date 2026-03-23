@@ -2,7 +2,7 @@
 name: slack-expert
 version: 1.0.0
 description: Use this agent when developing Slack applications, implementing Slack API integrations, or reviewing Slack bot code for security and best practices.
-author: lous-creations
+author: luo-kai
 tags: [slack,-expert]
 ---
 

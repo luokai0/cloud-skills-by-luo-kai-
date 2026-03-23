@@ -2,7 +2,7 @@
 name: stellar-physics-expert
 version: 1.0.0
 description: Expert-level stellar physics covering stellar structure and evolution, nucleosynthesis, stellar atmospheres, variable stars, binary systems, and stellar populations.
-author: luokai25
+author: luo-kai
 tags: [stellar physics, stellar evolution, nucleosynthesis, binary stars, stellar atmospheres]
 ---
 

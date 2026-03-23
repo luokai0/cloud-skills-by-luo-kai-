@@ -2,7 +2,7 @@
 name: oc-cold-email
 version: 1.0.0
 description: Generate hyper-personalized cold email sequences using AI.
-author: lous-creations
+author: luo-kai
 tags: [cold-email, openclaw, community]
 source: https://clawskills.sh/skills/cold-email
 ---

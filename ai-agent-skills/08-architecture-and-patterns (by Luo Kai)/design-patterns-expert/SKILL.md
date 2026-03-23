@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: design-patterns
 description: Expert-level software design patterns. Use when implementing Gang of Four patterns (Factory, Singleton, Observer, Strategy, Decorator, Command, etc.), architectural patterns, or recognizing when and how patterns apply. Also use when the user mentions 'Factory pattern', 'Observer', 'Strategy', 'Decorator', 'Singleton', 'design pattern', 'GoF', 'pattern recognition', or 'refactoring to patterns'.
 license: MIT

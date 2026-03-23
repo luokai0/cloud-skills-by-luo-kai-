@@ -2,7 +2,7 @@
 name: rust-engineer
 version: 1.0.0
 description: Use when building Rust systems where memory safety, ownership patterns, zero-cost abstractions, and performance optimization are critical for systems programming, embedded development, async applic...
-author: lous-creations
+author: luo-kai
 tags: [rust,-engineer]
 ---
 

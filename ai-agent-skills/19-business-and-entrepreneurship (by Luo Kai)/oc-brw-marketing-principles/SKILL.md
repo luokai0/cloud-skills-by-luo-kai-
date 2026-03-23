@@ -2,7 +2,7 @@
 name: oc-brw-marketing-principles
 version: 1.0.0
 description: Apply timeless marketing and business principles to any problem.
-author: lous-creations
+author: luo-kai
 tags: [brw-marketing-principles, openclaw, community]
 source: https://clawskills.sh/skills/brw-marketing-principles
 ---

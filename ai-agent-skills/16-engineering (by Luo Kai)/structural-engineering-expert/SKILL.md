@@ -2,7 +2,7 @@
 name: structural-engineering-expert
 version: 1.0.0
 description: Expert-level structural engineering covering structural analysis, steel and concrete design, load combinations, deflection, connections, and building codes.
-author: luokai25
+author: luo-kai
 tags: [structural engineering, steel design, concrete design, loads, connections, codes]
 ---
 

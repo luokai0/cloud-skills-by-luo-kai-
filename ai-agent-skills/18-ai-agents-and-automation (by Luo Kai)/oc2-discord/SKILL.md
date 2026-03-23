@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: discord
 description: "Discord ops via the message tool (channel=discord)."
 metadata: { "openclaw": { "emoji": "🎮", "requires": { "config": ["channels.discord.token"] } } }

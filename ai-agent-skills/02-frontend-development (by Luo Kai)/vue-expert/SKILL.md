@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: vue-expert
 description: Expert-level Vue.js development. Use when building Vue apps, working with Composition API, Pinia, Vue Router, or Nuxt.js.
 license: MIT

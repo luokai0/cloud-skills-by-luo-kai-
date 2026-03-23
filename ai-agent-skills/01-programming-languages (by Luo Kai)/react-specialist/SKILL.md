@@ -2,7 +2,7 @@
 name: react-specialist
 version: 1.0.0
 description: Use when optimizing existing React applications for performance, implementing advanced React 18+ features, or solving complex state management and architectural challenges within React codebases.
-author: lous-creations
+author: luo-kai
 tags: [react,-specialist]
 ---
 

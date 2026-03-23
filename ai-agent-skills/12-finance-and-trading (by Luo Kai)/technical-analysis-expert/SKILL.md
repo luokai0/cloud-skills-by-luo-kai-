@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: technical-analysis-expert
 description: Expert-level technical analysis. Use when analyzing charts, identifying patterns, using indicators, reading candlesticks, finding support/resistance, drawing trendlines, or building technical trading systems. Also use when the user mentions 'candlestick', 'support', 'resistance', 'breakout', 'chart pattern', 'head and shoulders', 'fibonacci', 'trendline', 'volume analysis', or 'price action'.
 license: MIT

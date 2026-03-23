@@ -2,7 +2,7 @@
 name: oc-anthrovision-telegram-body-scan
 version: 1.0.0
 description: Run end-to-end body-scan measurement flow in Telegram using AnthroVision bridge tools.
-author: lous-creations
+author: luo-kai
 tags: [anthrovision-telegram-body-scan, openclaw, community]
 source: https://clawskills.sh/skills/anthrovision-telegram-body-scan
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: performance-optimization
 description: Expert-level performance optimization. Use when profiling apps, identifying bottlenecks, optimizing algorithms, memory, throughput, or latency.
 license: MIT

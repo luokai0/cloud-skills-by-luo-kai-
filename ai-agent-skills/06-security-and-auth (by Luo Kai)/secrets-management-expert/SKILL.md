@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: secrets-management
 description: Expert-level secrets management. Use when working with HashiCorp Vault, AWS Secrets Manager, secret rotation, GitOps secrets, or preventing leakage.
 license: MIT

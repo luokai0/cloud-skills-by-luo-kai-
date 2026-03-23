@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: domain-driven-design
 description: Expert-level Domain-Driven Design (DDD). Use when applying DDD principles, identifying bounded contexts, aggregates, entities, value objects, domain events, repositories, application services, or ubiquitous language. Also use when the user mentions 'bounded context', 'aggregate', 'value object', 'domain event', 'ubiquitous language', 'context map', 'DDD', 'domain model', or 'aggregate root'.
 license: MIT

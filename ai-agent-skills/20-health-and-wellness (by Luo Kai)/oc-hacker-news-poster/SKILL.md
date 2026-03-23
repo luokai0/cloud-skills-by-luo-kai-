@@ -2,7 +2,7 @@
 name: oc-hacker-news-poster
 version: 1.0.0
 description: Post, comment, and interact on Hacker News.
-author: lous-creations
+author: luo-kai
 tags: [hacker-news-poster, openclaw, community]
 source: https://clawskills.sh/skills/hacker-news-poster
 ---

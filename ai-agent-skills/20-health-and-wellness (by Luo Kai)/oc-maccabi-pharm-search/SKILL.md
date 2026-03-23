@@ -2,7 +2,7 @@
 name: oc-maccabi-pharm-search
 version: 1.0.0
 description: Check medication stock at Maccabi pharmacies in Israel.
-author: lous-creations
+author: luo-kai
 tags: [maccabi-pharm-search, openclaw, community]
 source: https://clawskills.sh/skills/maccabi-pharm-search
 ---

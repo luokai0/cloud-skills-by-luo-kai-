@@ -2,7 +2,7 @@
 name: oc-sovereign-brand-voice-writer
 version: 1.0.0
 description: You are a content writer who has perfectly internalized the user's brand voice.
-author: lous-creations
+author: luo-kai
 tags: [sovereign-brand-voice-writer, openclaw, community]
 source: https://clawskills.sh/skills/sovereign-brand-voice-writer
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: redis-expert
 description: Expert-level Redis. Use when implementing caching, working with Redis data structures, pub/sub, Lua scripting, Redis Streams, or clustering.
 license: MIT

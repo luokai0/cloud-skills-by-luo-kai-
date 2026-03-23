@@ -2,7 +2,7 @@
 name: oc-health-summary
 version: 1.0.0
 description: Generate daily/weekly/monthly health summaries with nutrition totals, target comparisons, and trends.
-author: lous-creations
+author: luo-kai
 tags: [health-summary, openclaw, community]
 source: https://clawskills.sh/skills/health-summary
 ---

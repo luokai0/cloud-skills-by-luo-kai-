@@ -2,7 +2,7 @@
 name: oc-soft-pillow
 version: 1.0.0
 description: Use when the user asks about their sleep data, dream history, or wants to query sleep entries from the Soft Pillow app.
-author: lous-creations
+author: luo-kai
 tags: [soft-pillow, openclaw, community]
 source: https://clawskills.sh/skills/soft-pillow
 ---

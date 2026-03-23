@@ -2,7 +2,7 @@
 name: spring-boot-engineer
 version: 1.0.0
 description: Use this agent when building enterprise Spring Boot 3+ applications requiring microservices architecture, cloud-native deployment, or reactive programming patterns.
-author: lous-creations
+author: luo-kai
 tags: [spring,-boot,-engineer]
 ---
 

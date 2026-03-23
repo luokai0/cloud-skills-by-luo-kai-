@@ -2,7 +2,7 @@
 name: oc-pump-fun
 version: 1.0.0
 description: Buy, sell, and launch tokens on Pump.fun using the PumpPortal API.
-author: lous-creations
+author: luo-kai
 tags: [pump-fun, openclaw, community]
 source: https://clawskills.sh/skills/pump-fun
 ---

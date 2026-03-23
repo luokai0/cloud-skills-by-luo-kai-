@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: game-dev-expert
 description: Expert-level game development. Use when building games with Unity, Unreal, Godot, implementing physics, AI, rendering, shaders, or multiplayer networking.
 license: MIT

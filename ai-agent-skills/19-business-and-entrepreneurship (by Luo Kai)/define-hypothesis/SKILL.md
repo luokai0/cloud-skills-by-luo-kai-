@@ -1,6 +1,6 @@
 <!-- PM-Skills | https://github.com/product-on-purpose/pm-skills | Apache 2.0 -->
 ---
-author: lous-creations
+author: luo-kai
 name: define-hypothesis
 description: Defines a testable hypothesis with clear success metrics and validation approach. Use when forming assumptions to test, designing experiments, or aligning team on what success looks like.
 phase: define

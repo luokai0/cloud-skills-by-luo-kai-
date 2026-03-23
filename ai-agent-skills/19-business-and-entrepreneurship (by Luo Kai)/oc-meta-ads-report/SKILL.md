@@ -2,7 +2,7 @@
 name: oc-meta-ads-report
 version: 1.0.0
 description: A powerful toolkit to monitor your Meta (Facebook/Instagram) advertising performance directly through chat.
-author: lous-creations
+author: luo-kai
 tags: [meta-ads-report, openclaw, community]
 source: https://clawskills.sh/skills/meta-ads-report
 ---

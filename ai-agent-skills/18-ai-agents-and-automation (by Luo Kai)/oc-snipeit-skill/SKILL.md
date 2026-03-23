@@ -2,7 +2,7 @@
 name: oc-snipeit-skill
 version: 1.0.0
 description: Interact with Snipe-IT asset management via REST API.
-author: lous-creations
+author: luo-kai
 tags: [snipeit-skill, openclaw, community]
 source: https://clawskills.sh/skills/snipeit-skill
 ---

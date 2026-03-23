@@ -2,7 +2,7 @@
 name: photonics-expert
 version: 1.0.0
 description: Expert-level photonics covering guided wave optics, laser physics, nonlinear optics, optical communications, integrated photonics, and quantum photonics.
-author: luokai25
+author: luo-kai
 tags: [photonics, lasers, fiber optics, integrated photonics, nonlinear optics]
 ---
 

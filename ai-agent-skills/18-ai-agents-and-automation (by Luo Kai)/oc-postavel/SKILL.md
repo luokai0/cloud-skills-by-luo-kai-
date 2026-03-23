@@ -2,7 +2,7 @@
 name: oc-postavel
 version: 1.0.0
 description: Connect to Postavel social media management platform via MCP (Model Context Protocol)
-author: lous-creations
+author: luo-kai
 tags: [postavel, openclaw, community]
 source: https://clawskills.sh/skills/postavel
 ---

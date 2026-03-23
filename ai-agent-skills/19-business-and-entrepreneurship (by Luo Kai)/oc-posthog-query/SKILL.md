@@ -2,7 +2,7 @@
 name: oc-posthog-query
 version: 1.0.0
 description: Run SQL queries against PostHog product analytics data using the PostHog CLI.
-author: lous-creations
+author: luo-kai
 tags: [posthog-query, openclaw, community]
 source: https://clawskills.sh/skills/posthog-query
 ---

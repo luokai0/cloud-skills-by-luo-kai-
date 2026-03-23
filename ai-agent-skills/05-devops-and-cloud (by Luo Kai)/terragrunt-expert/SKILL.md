@@ -2,7 +2,7 @@
 name: terragrunt-expert
 version: 1.0.0
 description: Expert Terragrunt specialist mastering infrastructure orchestration, DRY configurations, and multi-environment deployments. Masters stacks, units, dependency management, and scalable IaC patterns w...
-author: lous-creations
+author: luo-kai
 tags: [terragrunt,-expert]
 ---
 

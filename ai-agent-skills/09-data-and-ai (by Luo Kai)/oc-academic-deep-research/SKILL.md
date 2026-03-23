@@ -2,7 +2,7 @@
 name: oc-academic-deep-research
 version: 1.0.0
 description: Transparent, rigorous research with full.
-author: lous-creations
+author: luo-kai
 tags: [academic-deep-research, openclaw, community]
 source: https://clawskills.sh/skills/academic-deep-research
 ---

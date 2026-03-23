@@ -1,6 +1,6 @@
 <!-- PM-Skills | https://github.com/product-on-purpose/pm-skills | Apache 2.0 -->
 ---
-author: lous-creations
+author: luo-kai
 name: define-jtbd-canvas
 description: Creates a Jobs to be Done canvas capturing the functional, emotional, and social dimensions of a customer job. Use when deeply understanding customer motivations, designing for jobs, or reframing product positioning.
 phase: define

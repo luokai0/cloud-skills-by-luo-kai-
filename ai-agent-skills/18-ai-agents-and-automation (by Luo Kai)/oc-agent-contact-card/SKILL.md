@@ -2,7 +2,7 @@
 name: oc-agent-contact-card
 version: 1.0.0
 description: Discover and create Agent Contact Cards - a vCard-like.
-author: lous-creations
+author: luo-kai
 tags: [agent-contact-card, openclaw, community]
 source: https://clawskills.sh/skills/agent-contact-card
 ---

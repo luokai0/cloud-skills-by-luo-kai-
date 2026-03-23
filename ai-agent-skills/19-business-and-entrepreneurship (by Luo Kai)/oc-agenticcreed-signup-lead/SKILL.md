@@ -2,7 +2,7 @@
 name: oc-agenticcreed-signup-lead
 version: 1.0.0
 description: Create a signup lead in the AgenticCreed system using the public HTTP endpoint.
-author: lous-creations
+author: luo-kai
 tags: [agenticcreed-signup-lead, openclaw, community]
 source: https://clawskills.sh/skills/agenticcreed-signup-lead
 ---

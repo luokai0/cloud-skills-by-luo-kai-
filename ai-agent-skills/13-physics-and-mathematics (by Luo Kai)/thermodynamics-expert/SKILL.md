@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: thermodynamics-expert
 description: Expert-level thermodynamics knowledge. Use when working with heat, temperature, entropy, thermodynamic laws, heat engines, refrigerators, phase transitions, statistical mechanics, or thermodynamic cycles. Also use when the user mentions 'entropy', 'enthalpy', 'Carnot', 'heat engine', 'thermodynamic cycle', 'ideal gas', 'phase transition', 'Gibbs free energy', 'specific heat', 'thermal equilibrium', or 'second law'.
 license: MIT

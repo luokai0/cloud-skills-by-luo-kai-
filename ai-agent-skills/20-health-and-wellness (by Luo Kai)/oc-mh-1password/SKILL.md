@@ -2,7 +2,7 @@
 name: oc-mh-1password
 version: 1.0.0
 description: Set up and use 1Password CLI (op)
-author: lous-creations
+author: luo-kai
 tags: [mh-1password, openclaw, community]
 source: https://clawskills.sh/skills/mh-1password
 ---

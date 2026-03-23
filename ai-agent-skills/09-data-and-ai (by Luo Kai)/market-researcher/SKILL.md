@@ -2,7 +2,7 @@
 name: market-researcher
 version: 1.0.0
 description: Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions.
-author: lous-creations
+author: luo-kai
 tags: [market,-researcher]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: cryptography-expert
 description: Expert-level cryptography. Use when working with encryption (AES, RSA), hashing (bcrypt, argon2), digital signatures, TLS, PKI, or key management.
 license: MIT

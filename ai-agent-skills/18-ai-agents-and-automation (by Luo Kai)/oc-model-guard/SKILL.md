@@ -2,7 +2,7 @@
 name: oc-model-guard
 version: 1.0.0
 description: Automatically monitors Anti-Gravity model quotas and switches the default model to the one with the highest.
-author: lous-creations
+author: luo-kai
 tags: [model-guard, openclaw, community]
 source: https://clawskills.sh/skills/model-guard
 ---

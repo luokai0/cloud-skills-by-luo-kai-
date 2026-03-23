@@ -2,7 +2,7 @@
 name: oc-sui
 version: 1.0.0
 description: Answer questions about Sui blockchain ecosystem, concepts, tokenomics, validators, staking, and general knowledge.
-author: lous-creations
+author: luo-kai
 tags: [sui, openclaw, community]
 source: https://clawskills.sh/skills/sui
 ---

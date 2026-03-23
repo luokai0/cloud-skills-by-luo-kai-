@@ -2,7 +2,7 @@
 name: oc-feed-diet
 version: 1.0.0
 description: Audit your information diet across HN and RSS feeds — beautiful reports with category breakdowns, ASCII charts.
-author: lous-creations
+author: luo-kai
 tags: [feed-diet, openclaw, community]
 source: https://clawskills.sh/skills/feed-diet
 ---

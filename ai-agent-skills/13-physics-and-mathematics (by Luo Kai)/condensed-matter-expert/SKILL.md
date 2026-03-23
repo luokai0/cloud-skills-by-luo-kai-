@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: condensed-matter-expert
 description: Expert-level condensed matter physics knowledge. Use when working with crystal structure, band theory, semiconductors, superconductivity, magnetism, phase transitions, Fermi liquids, topological materials, or strongly correlated systems. Also use when the user mentions 'band gap', 'Fermi energy', 'semiconductor', 'superconductor', 'phonon', 'crystal lattice', 'Brillouin zone', 'Bloch theorem', 'Hall effect', 'magnetism', 'phase transition', or 'topological insulator'.
 license: MIT

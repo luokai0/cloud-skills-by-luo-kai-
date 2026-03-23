@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: gcp-expert
 description: Expert-level Google Cloud. Use when working with Cloud Run, GKE, BigQuery, Cloud Functions, Pub/Sub, Firestore, or designing GCP architectures.
 license: MIT

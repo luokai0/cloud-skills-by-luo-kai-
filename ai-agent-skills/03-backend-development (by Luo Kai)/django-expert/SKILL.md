@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: django-expert
 description: Expert-level Django. Use when building Django apps, working with ORM queries, migrations, DRF, signals, middleware, or Django admin.
 license: MIT

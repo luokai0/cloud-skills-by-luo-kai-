@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: nginx-expert
 description: Expert-level Nginx configuration. Use when writing Nginx configs, setting up reverse proxies, load balancing, SSL/TLS termination, rate limiting, caching, virtual hosts, or debugging Nginx issues. Also use when the user mentions 'Nginx', 'server block', 'proxy_pass', 'upstream', 'rate limit', 'SSL certificate', 'Let's Encrypt', '502 bad gateway', or 'nginx.conf'.
 license: MIT

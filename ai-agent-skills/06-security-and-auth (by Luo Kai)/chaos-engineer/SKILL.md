@@ -2,7 +2,7 @@
 name: chaos-engineer
 version: 1.0.0
 description: Use this agent when you need to design and execute controlled failure experiments, validate system resilience before incidents occur, or conduct game day exercises to test your teams incident respo...
-author: lous-creations
+author: luo-kai
 tags: [chaos,-engineer]
 ---
 

@@ -2,7 +2,7 @@
 name: evolutionary-biology-expert
 version: 1.0.0
 description: Expert-level evolutionary biology covering natural selection, genetic drift, molecular evolution, phylogenetics, speciation, macroevolution, and the modern synthesis.
-author: luokai25
+author: luo-kai
 tags: [evolution, natural selection, phylogenetics, speciation, adaptation, genetics]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-tokenguard
 version: 1.0.0
 description: API cost guardian for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [tokenguard, openclaw, community]
 source: https://clawskills.sh/skills/tokenguard
 ---

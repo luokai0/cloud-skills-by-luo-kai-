@@ -2,7 +2,7 @@
 name: oc-dr-soul
 version: 1.0.0
 description: Give your agents soul.
-author: lous-creations
+author: luo-kai
 tags: [dr-soul, openclaw, community]
 source: https://clawskills.sh/skills/dr-soul
 ---

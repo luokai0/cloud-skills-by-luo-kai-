@@ -2,7 +2,7 @@
 name: oc-agentic-paper-digest-skill
 version: 1.0.0
 description: Fetches and summarizes recent arXiv.
-author: lous-creations
+author: luo-kai
 tags: [agentic-paper-digest-skill, openclaw, community]
 source: https://clawskills.sh/skills/agentic-paper-digest-skill
 ---

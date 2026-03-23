@@ -2,7 +2,7 @@
 name: oc-colorpool-skills
 version: 1.0.0
 description: ColorPool DEX — Chromia's decentralized exchange for token swaps, liquidity pools, and balance management.
-author: lous-creations
+author: luo-kai
 tags: [colorpool-skills, openclaw, community]
 source: https://clawskills.sh/skills/colorpool-skills
 ---

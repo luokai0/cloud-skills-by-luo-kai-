@@ -2,7 +2,7 @@
 name: seo-specialist
 version: 1.0.0
 description: Use this agent when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement.
-author: lous-creations
+author: luo-kai
 tags: [seo,-specialist]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-clovercli
 version: 1.0.0
 description: CLI for Clover POS API — inventory, orders, payments, customers, employees, discounts, and analytics.
-author: lous-creations
+author: luo-kai
 tags: [clovercli, openclaw, community]
 source: https://clawskills.sh/skills/clovercli
 ---

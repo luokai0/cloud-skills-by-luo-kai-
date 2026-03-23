@@ -2,7 +2,7 @@
 name: path-planning-expert
 version: 1.0.0
 description: Expert-level robot path planning covering configuration space, sampling-based planners, graph search, trajectory optimization, and motion planning under uncertainty.
-author: luokai25
+author: luo-kai
 tags: [path planning, motion planning, RRT, PRM, trajectory optimization, SLAM]
 ---
 

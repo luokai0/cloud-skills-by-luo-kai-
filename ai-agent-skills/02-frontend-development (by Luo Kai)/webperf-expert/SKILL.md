@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: webperf-expert
 description: Expert-level web performance optimization. Use when optimizing Core Web Vitals, bundle size, code splitting, lazy loading, image optimization, or CDN configuration.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-agent-autonomy-kit
 version: 1.0.0
 description: Stop waiting for prompts.
-author: lous-creations
+author: luo-kai
 tags: [agent-autonomy-kit, openclaw, community]
 source: https://clawskills.sh/skills/agent-autonomy-kit
 ---

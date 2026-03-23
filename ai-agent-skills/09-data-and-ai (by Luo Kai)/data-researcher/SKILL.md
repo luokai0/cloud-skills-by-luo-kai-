@@ -2,7 +2,7 @@
 name: data-researcher
 version: 1.0.0
 description: Use this agent when you need to discover, collect, and validate data from multiple sources to fuel analysis and decision-making. Invoke this agent for identifying data sources, gathering raw datase...
-author: lous-creations
+author: luo-kai
 tags: [data,-researcher]
 ---
 

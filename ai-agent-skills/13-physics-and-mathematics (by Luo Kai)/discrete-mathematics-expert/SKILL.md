@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: discrete-mathematics-expert
 description: Expert-level discrete mathematics knowledge. Use when working with logic, set theory, combinatorics, graph theory, relations, functions, induction, recursion, boolean algebra, or discrete probability. Also use when the user mentions 'combinatorics', 'permutations', 'combinations', 'pigeonhole principle', 'inclusion-exclusion', 'generating functions', 'recurrence relations', 'graph theory', 'trees', 'logic', 'propositional calculus', or 'boolean algebra'.
 license: MIT

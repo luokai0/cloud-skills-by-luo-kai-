@@ -2,7 +2,7 @@
 name: environmental-engineering-expert
 version: 1.0.0
 description: Expert-level environmental engineering covering water treatment, wastewater treatment, air quality, solid waste, site remediation, and environmental regulations.
-author: luokai25
+author: luo-kai
 tags: [environmental engineering, water treatment, wastewater, air quality, remediation]
 ---
 

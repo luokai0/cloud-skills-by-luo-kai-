@@ -2,7 +2,7 @@
 name: oc-context-gatekeeper
 version: 1.0.0
 description: Keeps the conversation token-friendly by summarizing recent exchanges, surfacing pending actions, and delivering.
-author: lous-creations
+author: luo-kai
 tags: [context-gatekeeper, openclaw, community]
 source: https://clawskills.sh/skills/context-gatekeeper
 ---

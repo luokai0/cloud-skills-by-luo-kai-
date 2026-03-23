@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: flutter-expert
 description: Expert-level Flutter development. Use when building Flutter apps, working with widgets, state management (Riverpod, BLoC, Provider), platform channels, animations, or deploying Flutter apps to iOS and Android. Also use when the user mentions 'Flutter', 'Widget', 'Riverpod', 'BLoC', 'Dart', 'go_router', 'flutter pub', 'pubspec.yaml', 'hot reload', or 'platform channel'.
 license: MIT

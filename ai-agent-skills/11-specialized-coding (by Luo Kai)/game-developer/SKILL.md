@@ -2,7 +2,7 @@
 name: game-developer
 version: 1.0.0
 description: Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms.
-author: lous-creations
+author: luo-kai
 tags: [game,-developer]
 ---
 

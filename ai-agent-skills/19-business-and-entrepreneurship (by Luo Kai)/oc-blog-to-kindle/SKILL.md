@@ -2,7 +2,7 @@
 name: oc-blog-to-kindle
 version: 1.0.0
 description: Scrape blogs/essay sites and compile into Kindle-friendly.
-author: lous-creations
+author: luo-kai
 tags: [blog-to-kindle, openclaw, community]
 source: https://clawskills.sh/skills/blog-to-kindle
 ---

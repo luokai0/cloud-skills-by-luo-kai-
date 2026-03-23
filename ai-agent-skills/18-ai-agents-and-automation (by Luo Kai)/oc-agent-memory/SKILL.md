@@ -2,7 +2,7 @@
 name: oc-agent-memory
 version: 1.0.0
 description: Persistent memory system for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [agent-memory, openclaw, community]
 source: https://clawskills.sh/skills/agent-memory
 ---

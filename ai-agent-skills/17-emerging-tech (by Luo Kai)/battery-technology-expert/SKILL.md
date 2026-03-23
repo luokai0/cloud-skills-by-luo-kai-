@@ -2,7 +2,7 @@
 name: battery-technology-expert
 version: 1.0.0
 description: Expert-level battery technology covering electrochemistry, lithium-ion battery physics, battery management systems, degradation mechanisms, and next-generation battery chemistries.
-author: luokai25
+author: luo-kai
 tags: [batteries, lithium-ion, BMS, degradation, energy storage, electrochemistry]
 ---
 

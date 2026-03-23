@@ -2,7 +2,7 @@
 name: agent-wallet-expert
 version: 1.0.0
 description: Set up autonomous agent wallets using Virtuals Protocol ACP, Coinbase AgentKit, and x402 commerce protocol. Covers agent identity, wallet creation, agent-to-agent payments, and earning income from the agent economy without human intervention.
-author: lous-creations
+author: luo-kai
 tags: [agent-wallet, ACP, x402, coinbase, virtuals-protocol, agent-economy]
 ---
 

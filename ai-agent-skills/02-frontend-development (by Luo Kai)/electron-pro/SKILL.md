@@ -2,7 +2,7 @@
 name: electron-pro
 version: 1.0.0
 description: Use this agent when building Electron desktop applications that require native OS integration, cross-platform distribution, security hardening, and performance optimization. Use electron-pro for co...
-author: lous-creations
+author: luo-kai
 tags: [electron,-pro]
 ---
 

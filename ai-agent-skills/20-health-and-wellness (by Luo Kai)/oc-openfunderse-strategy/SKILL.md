@@ -2,7 +2,7 @@
 name: oc-openfunderse-strategy
 version: 1.0.0
 description: Participant MoltBot for allocation proposal, validation, and submission.
-author: lous-creations
+author: luo-kai
 tags: [openfunderse-strategy, openclaw, community]
 source: https://clawskills.sh/skills/openfunderse-strategy
 ---

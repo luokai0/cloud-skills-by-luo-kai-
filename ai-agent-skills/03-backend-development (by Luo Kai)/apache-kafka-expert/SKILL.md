@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: apache-kafka-expert
 description: Expert-level Apache Kafka. Use when working with producers/consumers, partitions, Kafka Streams, Schema Registry, exactly-once semantics, or Kafka Connect.
 license: MIT

@@ -2,7 +2,7 @@
 name: deployment-engineer
 version: 1.0.0
 description: Use this agent when designing, building, or optimizing CI/CD pipelines and deployment automation strategies.
-author: lous-creations
+author: luo-kai
 tags: [deployment,-engineer]
 ---
 

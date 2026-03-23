@@ -2,7 +2,7 @@
 name: oc-picqer-fulfillment
 version: 1.0.0
 description: JSON-only API for dashboard data.
-author: lous-creations
+author: luo-kai
 tags: [picqer-fulfillment, openclaw, community]
 source: https://clawskills.sh/skills/picqer-fulfillment
 ---

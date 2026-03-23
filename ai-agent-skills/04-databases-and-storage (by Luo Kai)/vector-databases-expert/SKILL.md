@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: vector-databases
 description: Expert-level vector database development. Use when working with Pinecone, Weaviate, Qdrant, pgvector, Chroma, FAISS, implementing semantic search, hybrid search, ANN algorithms, or embedding storage and retrieval. Also use when the user mentions 'vector database', 'pgvector', 'Pinecone', 'semantic search', 'embedding storage', 'HNSW', 'ANN', 'similarity search', 'RAG retrieval', or 'nearest neighbor'.
 license: MIT

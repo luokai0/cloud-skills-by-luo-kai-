@@ -2,7 +2,7 @@
 name: database-optimizer
 version: 1.0.0
 description: Use this agent when you need to analyze slow queries, optimize database performance across multiple systems, or implement indexing strategies to improve query execution.
-author: lous-creations
+author: luo-kai
 tags: [database,-optimizer]
 ---
 

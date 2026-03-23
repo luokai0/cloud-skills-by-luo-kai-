@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: terraform-expert
 description: Expert-level Terraform IaC. Use when writing Terraform configs, providers, modules, state management, workspaces, remote backends, Terragrunt, or managing cloud infrastructure. Also use when the user mentions 'tfstate', 'terraform plan', 'terraform apply', 'module', 'provider', 'backend', 'Terragrunt', or 'infrastructure as code'.
 license: MIT

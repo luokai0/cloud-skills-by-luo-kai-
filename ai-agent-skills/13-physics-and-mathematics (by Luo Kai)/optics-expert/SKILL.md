@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: optics-expert
 description: Expert-level optics knowledge. Use when working with geometric optics, wave optics, interference, diffraction, polarization, lasers, fiber optics, optical instruments, or photonics. Also use when the user mentions 'reflection', 'refraction', 'Snell law', 'lens', 'mirror', 'interference', 'diffraction', 'polarization', 'laser', 'fiber optic', 'holography', 'aberration', or 'optical instrument'.
 license: MIT

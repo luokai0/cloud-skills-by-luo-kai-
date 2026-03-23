@@ -2,7 +2,7 @@
 name: oc-cold-outreach
 version: 1.0.0
 description: Generate high-converting cold outreach (email, SMS, LinkedIn DM) using battle-tested frameworks from Hormozi's.
-author: lous-creations
+author: luo-kai
 tags: [cold-outreach, openclaw, community]
 source: https://clawskills.sh/skills/cold-outreach
 ---

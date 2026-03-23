@@ -2,7 +2,7 @@
 name: oc-garmin-health
 version: 1.0.0
 description: Talk to your Garmin data naturally - "what.
-author: lous-creations
+author: luo-kai
 tags: [garmin-health, openclaw, community]
 source: https://clawskills.sh/skills/garmin-health
 ---

@@ -2,7 +2,7 @@
 name: oc-hle-reasoning-wrapper
 version: 1.0.0
 description: Wraps HLE benchmark questions in a structured Chain-of-Thought (CoT) reasoning process.
-author: lous-creations
+author: luo-kai
 tags: [hle-reasoning-wrapper, openclaw, community]
 source: https://clawskills.sh/skills/hle-reasoning-wrapper
 ---

@@ -2,7 +2,7 @@
 name: radio-astronomy-expert
 version: 1.0.0
 description: Expert-level radio astronomy covering radio telescopes, interferometry, VLBI, pulsars, spectral line observations, fast radio bursts, and aperture synthesis imaging.
-author: luokai25
+author: luo-kai
 tags: [radio astronomy, interferometry, VLBI, pulsars, spectral lines, FRBs]
 ---
 

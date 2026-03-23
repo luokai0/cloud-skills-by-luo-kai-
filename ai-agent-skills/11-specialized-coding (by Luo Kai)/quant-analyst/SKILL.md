@@ -2,7 +2,7 @@
 name: quant-analyst
 version: 1.0.0
 description: Use this agent when you need to develop quantitative trading strategies, build financial models with rigorous mathematical foundations, or conduct advanced risk analytics for derivatives and portfo...
-author: lous-creations
+author: luo-kai
 tags: [quant,-analyst]
 ---
 

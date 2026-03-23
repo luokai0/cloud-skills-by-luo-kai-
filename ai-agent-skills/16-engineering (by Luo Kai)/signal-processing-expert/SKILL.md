@@ -2,7 +2,7 @@
 name: signal-processing-expert
 version: 1.0.0
 description: Expert-level signal processing covering Fourier analysis, sampling theory, digital filters, FFT, spectral estimation, and adaptive filtering.
-author: luokai25
+author: luo-kai
 tags: [signal processing, Fourier, FFT, digital filters, sampling, spectral analysis]
 ---
 

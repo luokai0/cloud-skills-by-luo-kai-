@@ -2,7 +2,7 @@
 name: oc-reef-copywriting
 version: 1.0.0
 description: Write landing pages, product descriptions, ads, and sales copy using proven direct-response frameworks.
-author: lous-creations
+author: luo-kai
 tags: [reef-copywriting, openclaw, community]
 source: https://clawskills.sh/skills/reef-copywriting
 ---

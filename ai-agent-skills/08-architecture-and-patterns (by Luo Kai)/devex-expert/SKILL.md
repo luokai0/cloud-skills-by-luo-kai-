@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: devex-expert
 description: Expert-level developer experience. Use when improving workflows, ESLint, Prettier, pre-commit hooks, monorepo tooling, Turborepo, Nx, or developer docs.
 license: MIT

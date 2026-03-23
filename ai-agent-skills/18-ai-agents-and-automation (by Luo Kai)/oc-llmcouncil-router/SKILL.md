@@ -2,7 +2,7 @@
 name: oc-llmcouncil-router
 version: 1.0.0
 description: Route any prompt to the best-performing LLM using peer-reviewed council rankings from LLM Council.
-author: lous-creations
+author: luo-kai
 tags: [llmcouncil-router, openclaw, community]
 source: https://clawskills.sh/skills/llmcouncil-router
 ---

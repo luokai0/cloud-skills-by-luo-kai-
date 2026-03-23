@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: jest-expert
 description: Expert-level Jest and React Testing Library. Use when writing Jest tests, mocking modules, async testing, RTL queries, or testing React components.
 license: MIT

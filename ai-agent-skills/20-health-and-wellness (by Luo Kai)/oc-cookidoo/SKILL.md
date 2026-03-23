@@ -2,7 +2,7 @@
 name: oc-cookidoo
 version: 1.0.0
 description: Access Cookidoo (Thermomix) recipes, shopping lists, and meal planning.
-author: lous-creations
+author: luo-kai
 tags: [cookidoo, openclaw, community]
 source: https://clawskills.sh/skills/cookidoo
 ---

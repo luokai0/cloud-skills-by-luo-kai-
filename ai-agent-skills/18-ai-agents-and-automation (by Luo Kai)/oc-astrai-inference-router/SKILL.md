@@ -2,7 +2,7 @@
 name: oc-astrai-inference-router
 version: 1.0.0
 description: Route all LLM calls through Astrai for 40%+ cost savings with intelligent routing and privacy controls.
-author: lous-creations
+author: luo-kai
 tags: [astrai-inference-router, openclaw, community]
 source: https://clawskills.sh/skills/astrai-inference-router
 ---

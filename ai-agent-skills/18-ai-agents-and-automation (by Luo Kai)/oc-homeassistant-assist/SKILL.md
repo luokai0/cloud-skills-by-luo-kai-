@@ -2,7 +2,7 @@
 name: oc-homeassistant-assist
 version: 1.0.0
 description: Control Home Assistant smart home devices using the Assist (Conversation) API.
-author: lous-creations
+author: luo-kai
 tags: [homeassistant-assist, openclaw, community]
 source: https://clawskills.sh/skills/homeassistant-assist
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: elasticsearch-expert
 description: Expert-level Elasticsearch. Use when designing indexes, writing search queries, aggregations, relevance tuning, mappings, or working with Kibana.
 license: MIT

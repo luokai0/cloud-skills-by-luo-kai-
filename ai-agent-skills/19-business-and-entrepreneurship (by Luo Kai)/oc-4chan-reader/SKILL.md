@@ -2,7 +2,7 @@
 name: oc-4chan-reader
 version: 1.0.0
 description: Browse 4chan boards and extract thread discussions.
-author: lous-creations
+author: luo-kai
 tags: [4chan-reader, openclaw, community]
 source: https://clawskills.sh/skills/4chan-reader
 ---

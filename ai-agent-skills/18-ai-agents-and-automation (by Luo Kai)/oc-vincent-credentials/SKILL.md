@@ -2,7 +2,7 @@
 name: oc-vincent-credentials
 version: 1.0.0
 description: Use this skill to securely store credentials (API keys, passwords, tokens) and write them to .env files.
-author: lous-creations
+author: luo-kai
 tags: [vincent-credentials, openclaw, community]
 source: https://clawskills.sh/skills/vincent-credentials
 ---

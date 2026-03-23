@@ -2,7 +2,7 @@
 name: oc-recipe-finder
 version: 1.0.0
 description: Find recipes by ingredients, cuisine, or dietary preferences using TheMealDB free API.
-author: lous-creations
+author: luo-kai
 tags: [recipe-finder, openclaw, community]
 source: https://clawskills.sh/skills/recipe-finder
 ---

@@ -2,7 +2,7 @@
 name: ecology-expert
 version: 1.0.0
 description: Expert-level ecology covering population ecology, community ecology, ecosystem ecology, food webs, energy flow, nutrient cycling, biodiversity, and conservation biology.
-author: luokai25
+author: luo-kai
 tags: [ecology, ecosystems, populations, biodiversity, conservation, food webs]
 ---
 

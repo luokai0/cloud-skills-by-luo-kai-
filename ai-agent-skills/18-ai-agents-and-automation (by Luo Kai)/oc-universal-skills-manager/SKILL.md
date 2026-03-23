@@ -2,7 +2,7 @@
 name: oc-universal-skills-manager
 version: 1.0.0
 description: The master coordinator for AI skills.
-author: lous-creations
+author: luo-kai
 tags: [universal-skills-manager, openclaw, community]
 source: https://clawskills.sh/skills/universal-skills-manager
 ---

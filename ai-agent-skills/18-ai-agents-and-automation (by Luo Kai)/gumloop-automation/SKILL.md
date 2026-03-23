@@ -2,7 +2,7 @@
 name: gumloop-automation
 version: 1.0.0
 description: Design and build Gumloop automation pipelines for passive income. Covers daily content pipelines, Google Drive integration, trigger setup, AI writing nodes, scheduling at 8AM, connecting to Gumroad for product sales, and monitoring pipeline health.
-author: lous-creations
+author: luo-kai
 tags: [gumloop, automation, pipeline, content, gumroad, income, google-drive]
 ---
 

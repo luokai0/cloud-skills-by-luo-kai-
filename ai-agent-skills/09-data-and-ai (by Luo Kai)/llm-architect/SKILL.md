@@ -2,7 +2,7 @@
 name: llm-architect
 version: 1.0.0
 description: Use when designing LLM systems for production, implementing fine-tuning or RAG architectures, optimizing inference serving infrastructure, or managing multi-model deployments.
-author: lous-creations
+author: luo-kai
 tags: [llm,-architect]
 ---
 

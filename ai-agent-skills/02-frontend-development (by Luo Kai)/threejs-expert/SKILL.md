@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: threejs-expert
 description: Expert-level Three.js and WebGL. Use when building 3D scenes, working with geometries, materials, shaders, GLSL, WebGL, or react-three-fiber.
 license: MIT

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: pytest-expert
 description: Expert-level pytest. Use when writing pytest tests, fixtures, parametrize, conftest.py, pytest-mock, pytest-asyncio, or structuring Python test suites.
 license: MIT

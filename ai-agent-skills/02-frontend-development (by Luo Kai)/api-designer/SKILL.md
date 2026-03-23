@@ -2,7 +2,7 @@
 name: api-designer
 version: 1.0.0
 description: Use this agent when designing new APIs, creating API specifications, or refactoring existing API architecture for scalability and developer experience. Invoke when you need REST/GraphQL endpoint de...
-author: lous-creations
+author: luo-kai
 tags: [api,-designer]
 ---
 

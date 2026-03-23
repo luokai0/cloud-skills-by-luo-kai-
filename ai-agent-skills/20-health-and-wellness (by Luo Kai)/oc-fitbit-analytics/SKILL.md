@@ -2,7 +2,7 @@
 name: oc-fitbit-analytics
 version: 1.0.0
 description: Fitbit health and fitness data integration.
-author: lous-creations
+author: luo-kai
 tags: [fitbit-analytics, openclaw, community]
 source: https://clawskills.sh/skills/fitbit-analytics
 ---

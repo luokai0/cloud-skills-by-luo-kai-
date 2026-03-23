@@ -2,7 +2,7 @@
 name: websocket-engineer
 version: 1.0.0
 description: Use this agent when implementing real-time bidirectional communication features using WebSockets, Socket.IO, or similar technologies at scale.
-author: lous-creations
+author: luo-kai
 tags: [websocket,-engineer]
 ---
 

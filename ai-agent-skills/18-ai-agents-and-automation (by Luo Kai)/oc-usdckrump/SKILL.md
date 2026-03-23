@@ -2,7 +2,7 @@
 name: oc-usdckrump
 version: 1.0.0
 description: Pay with USDC Krump (USDC.k) via x402 on Story Aeneid EVVM.
-author: lous-creations
+author: luo-kai
 tags: [usdckrump, openclaw, community]
 source: https://clawskills.sh/skills/usdckrump
 ---

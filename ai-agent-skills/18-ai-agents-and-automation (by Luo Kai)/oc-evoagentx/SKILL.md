@@ -2,7 +2,7 @@
 name: oc-evoagentx
 version: 1.0.0
 description: EvoAgentX - Self-evolving AI agents framework integration.
-author: lous-creations
+author: luo-kai
 tags: [evoagentx, openclaw, community]
 source: https://clawskills.sh/skills/evoagentx
 ---

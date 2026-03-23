@@ -2,7 +2,7 @@
 name: oc-acestep-lyrics-transcription
 version: 1.0.0
 description: Transcribe audio to timestamped lyrics using OpenAI Whisper or ElevenLabs Scribe API.
-author: lous-creations
+author: luo-kai
 tags: [acestep-lyrics-transcription, openclaw, community]
 source: https://clawskills.sh/skills/acestep-lyrics-transcription
 ---

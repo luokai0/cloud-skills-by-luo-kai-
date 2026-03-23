@@ -2,7 +2,7 @@
 name: cad-design-expert
 version: 1.0.0
 description: Expert-level CAD design covering parametric modeling, assembly design, drawing creation, FEA simulation, design for manufacturing, and PLM workflows.
-author: luokai25
+author: luo-kai
 tags: [CAD, parametric modeling, SolidWorks, FEA, assembly, drawing, PLM]
 ---
 

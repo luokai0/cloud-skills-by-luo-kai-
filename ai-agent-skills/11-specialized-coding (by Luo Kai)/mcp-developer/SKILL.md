@@ -2,7 +2,7 @@
 name: mcp-developer
 version: 1.0.0
 description: Use this agent when you need to build, debug, or optimize Model Context Protocol (MCP) servers and clients that connect AI systems to external tools and data sources.
-author: lous-creations
+author: luo-kai
 tags: [mcp,-developer]
 ---
 

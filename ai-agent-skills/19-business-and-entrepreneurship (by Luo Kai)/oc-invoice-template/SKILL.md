@@ -2,7 +2,7 @@
 name: oc-invoice-template
 version: 1.0.0
 description: Free simple invoice generator.
-author: lous-creations
+author: luo-kai
 tags: [invoice-template, openclaw, community]
 source: https://clawskills.sh/skills/invoice-template
 ---

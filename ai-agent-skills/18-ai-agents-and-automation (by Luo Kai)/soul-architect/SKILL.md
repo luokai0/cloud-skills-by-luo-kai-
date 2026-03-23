@@ -2,7 +2,7 @@
 name: soul-architect
 version: 1.0.0
 description: Design the complete identity stack for any AI agent. Creates SOUL.md, IDENTITY.md, AGENTS.md, USER.md, and HEARTBEAT.md files tailored to the agent purpose. Covers personality design, behavioral rules, workflow procedures, memory initialization, and cross-model testing.
-author: lous-creations
+author: luo-kai
 tags: [soul, identity, agents, openclaw, personality, design, SOUL.md]
 ---
 

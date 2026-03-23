@@ -2,7 +2,7 @@
 name: algorithms-cs-expert
 version: 1.0.0
 description: Expert-level algorithms and complexity theory covering sorting, searching, graph algorithms, dynamic programming, greedy algorithms, NP-completeness, and algorithm design paradigms.
-author: luokai25
+author: luo-kai
 tags: [algorithms, complexity, graphs, dynamic programming, sorting]
 ---
 

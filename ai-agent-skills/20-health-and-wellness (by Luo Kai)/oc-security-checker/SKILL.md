@@ -2,7 +2,7 @@
 name: oc-security-checker
 version: 1.0.0
 description: Security scanner for Python skills before publishing to ClawHub.
-author: lous-creations
+author: luo-kai
 tags: [security-checker, openclaw, community]
 source: https://clawskills.sh/skills/security-checker
 ---

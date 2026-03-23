@@ -2,7 +2,7 @@
 name: oc-ai-humanizer
 version: 1.0.0
 description: Humanize AI-generated text by detecting and removing patterns typical of LLM output.
-author: lous-creations
+author: luo-kai
 tags: [ai-humanizer, openclaw, community]
 source: https://clawskills.sh/skills/ai-humanizer
 ---

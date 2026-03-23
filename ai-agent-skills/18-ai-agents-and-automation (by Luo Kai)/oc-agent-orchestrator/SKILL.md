@@ -2,7 +2,7 @@
 name: oc-agent-orchestrator
 version: 1.0.0
 description: Meta-agent skill for orchestrating complex tasks.
-author: lous-creations
+author: luo-kai
 tags: [agent-orchestrator, openclaw, community]
 source: https://clawskills.sh/skills/agent-orchestrator
 ---

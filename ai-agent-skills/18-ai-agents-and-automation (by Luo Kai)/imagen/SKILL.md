@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: imagen
 description: |
   Generate images using Google Gemini's image generation capabilities.

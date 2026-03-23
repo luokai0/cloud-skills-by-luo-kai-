@@ -2,7 +2,7 @@
 name: oc-revenue-model-design
 version: 1.0.0
 description: Design a revenue model for a solopreneur business — how money flows in, from whom, and on what cadence.
-author: lous-creations
+author: luo-kai
 tags: [revenue-model-design, openclaw, community]
 source: https://clawskills.sh/skills/revenue-model-design
 ---

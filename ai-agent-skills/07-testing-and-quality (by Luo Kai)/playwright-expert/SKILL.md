@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: playwright-expert
 description: Expert-level Playwright. Use when writing e2e tests, page object model, fixtures, visual regression, API mocking, or CI integration.
 license: MIT

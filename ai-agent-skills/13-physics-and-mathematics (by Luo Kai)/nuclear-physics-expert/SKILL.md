@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: nuclear-physics-expert
 description: Expert-level nuclear physics knowledge. Use when working with nuclear structure, radioactive decay, nuclear reactions, fission, fusion, binding energy, nuclear models, radiation, or nuclear applications. Also use when the user mentions 'radioactive decay', 'half life', 'binding energy', 'fission', 'fusion', 'alpha decay', 'beta decay', 'gamma decay', 'nuclear reaction', 'cross section', 'Q value', 'nuclear reactor', or 'radiation dose'.
 license: MIT

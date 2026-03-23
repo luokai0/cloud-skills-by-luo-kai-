@@ -2,7 +2,7 @@
 name: oc-aerobase-skill
 version: 1.0.0
 description: Search, score, and compare flights with jetlag impact analysis.
-author: lous-creations
+author: luo-kai
 tags: [aerobase-skill, openclaw, community]
 source: https://clawskills.sh/skills/aerobase-skill
 ---

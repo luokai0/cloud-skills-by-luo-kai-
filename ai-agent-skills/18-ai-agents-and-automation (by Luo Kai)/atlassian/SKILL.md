@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: atlassian
 description: |
   Manage Jira issues and Confluence wiki pages in Atlassian Cloud.

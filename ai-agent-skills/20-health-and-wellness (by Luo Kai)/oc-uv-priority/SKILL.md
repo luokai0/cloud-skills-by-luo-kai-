@@ -2,7 +2,7 @@
 name: oc-uv-priority
 version: 1.0.0
 description: Prioritize uv over pip for all Python package management and execution.
-author: lous-creations
+author: luo-kai
 tags: [uv-priority, openclaw, community]
 source: https://clawskills.sh/skills/uv-priority
 ---

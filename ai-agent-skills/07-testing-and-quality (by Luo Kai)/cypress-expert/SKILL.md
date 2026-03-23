@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: cypress-expert
 description: Expert-level Cypress. Use when writing Cypress tests, custom commands, intercepts, component testing, or CI/CD integration.
 license: MIT

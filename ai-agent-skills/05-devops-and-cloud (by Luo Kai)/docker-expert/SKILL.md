@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: docker-expert
 description: Expert-level Docker and containerization. Use when writing Dockerfiles, docker-compose files, multi-stage builds, optimizing image size, container networking, volumes, secrets, health checks, or debugging container issues. Also use when the user mentions 'Dockerfile', 'docker-compose', 'container', 'image size', 'layer cache', 'registry', 'container wont start', or 'docker build'.
 license: MIT

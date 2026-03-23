@@ -2,7 +2,7 @@
 name: oc-yumstock
 version: 1.0.0
 description: Macro-gated US stock analysis combining technical indicators, fundamentals, and macro environment with weighted.
-author: lous-creations
+author: luo-kai
 tags: [yumstock, openclaw, community]
 source: https://clawskills.sh/skills/yumstock
 ---

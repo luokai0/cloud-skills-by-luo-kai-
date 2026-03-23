@@ -2,7 +2,7 @@
 name: powershell-7-expert
 version: 1.0.0
 description: Use when building cross-platform cloud automation scripts, Azure infrastructure orchestration, or CI/CD pipelines requiring PowerShell 7+ with modern .NET interop, idempotent operations, and enterp...
-author: lous-creations
+author: luo-kai
 tags: [powershell,-7,-expert]
 ---
 

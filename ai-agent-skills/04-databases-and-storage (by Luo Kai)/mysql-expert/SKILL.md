@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: mysql-expert
 description: Expert-level MySQL/MariaDB. Use when writing MySQL queries, designing schemas, indexes, stored procedures, replication, or MySQL performance optimization.
 license: MIT

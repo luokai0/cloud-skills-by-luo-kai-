@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: ios-expert
 description: Expert-level iOS development with SwiftUI and UIKit. Use when building iOS apps, working with SwiftUI views, UIKit, Auto Layout, Core Data, networking, push notifications, App Store submission, or Xcode debugging. Also use when the user mentions 'SwiftUI', 'UIKit', '@State', 'Core Data', 'App Store Connect', 'Xcode', 'TestFlight', 'Swift', 'iOS build error', or 'simulator'.
 license: MIT

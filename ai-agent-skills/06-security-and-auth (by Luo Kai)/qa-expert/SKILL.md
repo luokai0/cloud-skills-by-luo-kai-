@@ -2,7 +2,7 @@
 name: qa-expert
 version: 1.0.0
 description: Use this agent when you need comprehensive quality assurance strategy, test planning across the entire development cycle, or quality metrics analysis to improve overall software quality.
-author: lous-creations
+author: luo-kai
 tags: [qa,-expert]
 ---
 

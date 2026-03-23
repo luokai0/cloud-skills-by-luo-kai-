@@ -1,28 +1,24 @@
 # 🧠 AI Agent Skills by Luo Kai
 
-> **977 skills** across **20 categories** — the most comprehensive AI agent skill repository on GitHub.
+> **977 skills** across **20 categories** — comprehensive AI agent skill repository.
 
 [![Skills Count](https://img.shields.io/badge/skills-977%2B-blue?style=for-the-badge)](https://github.com/luokai0/cloud-skills-by-luo-kai-)
-[![Categories](https://img.shields.io/badge/categories-20-green?style=for-the-badge)](https://github.com/luokai0/cloud-skills-by-luo-kai-)
-[![Author](https://img.shields.io/badge/author-Lous%20Creations-purple?style=for-the-badge)](https://github.com/luokai0)
+[![Author](https://img.shields.io/badge/author-Luo%20Kai-purple?style=for-the-badge)](https://github.com/luokai0)
 [![Updated](https://img.shields.io/badge/updated-March%2023%202026-orange?style=for-the-badge)](https://github.com/luokai0/cloud-skills-by-luo-kai-)
 
 ---
 
 ## 🚀 What Are Agent Skills?
 
-Agent Skills are `SKILL.md` files that teach AI agents how to perform specific tasks. They load on demand, cost almost no context, and work across **25+ platforms**:
+Agent Skills are SKILL.md files that teach AI agents how to perform specific tasks. Load on demand, minimal context cost, work across 25+ platforms.
 
-**Claude Code · Claude.ai · Cursor · GitHub Copilot · Windsurf · OpenAI Codex · Gemini CLI · Cline · Amp · Manus · and more**
+**Claude Code · Claude.ai · Cursor · GitHub Copilot · Windsurf · OpenAI Codex · Gemini CLI · Cline · Amp · and more**
 
-Install any skill:
-```
-/learn @luokai0/<skill-name>
-```
+
 
 ---
 
-## 📁 Skill Categories
+## 📁 Categories
 
 | # | Category | Skills | Description |
 |---|----------|--------|-------------|
@@ -51,71 +47,33 @@ Install any skill:
 
 ## 📊 Stats
 
-- **Total Skills:** 977
+- **Total:** 977 skills
 - **Categories:** 20
-- **Last Updated:** March 23, 2026
-- **Sources:** Lous Creations originals + VoltAgent · OpenClaw · agentskill.sh · GTM Skills · PM Skills · Crypto Skills · Google Gemini · HuggingFace
+- **Updated:** March 23, 2026
+- **Author:** Luo Kai (luo-kai on every skill)
+- **Sources:** Originals + VoltAgent · OpenClaw · agentskill.sh · GTM/PM/Crypto community repos
 
 ---
 
-## 🔧 How to Use
+## 🔧 Usage
 
-### With Claude Code
-```bash
-cp -r <skill-folder> .claude/skills/
-# or globally
-cp -r <skill-folder> ~/.claude/skills/
-```
 
-### With Cursor
-```bash
-cp -r <skill-folder> .cursor/skills/
-```
-
-### With any compatible agent
-```
-/learn @luokai0/<skill-name>
-```
 
 ---
 
 ## ✨ Featured Skills
 
-| Skill | Category | What It Does |
-|-------|----------|--------------|
-| `agent-income-expert` | ai-agents | 6 proven income streams, zero budget |
-| `oc2-gh-issues` | specialized-coding | Auto-fix GitHub issues with sub-agents |
-| `gumloop-automation` | ai-agents | Daily content pipeline to Gumroad |
-| `rag-systems-expert` | data-ai | Production RAG with reranking |
-| `prompt-engineering-expert` | ai-agents | CoT, few-shot, structured outputs |
-| `gtm-positioning-icp` | business | ICP and go-to-market positioning |
-| `startup-strategy-expert` | business | Lean canvas and pitch deck framework |
-| `penetration-testing-expert` | security | OWASP, IDOR, JWT, bug bounty |
-| `crypto-trading-strategist` | finance | On-chain research to live trading |
-| `pm-deliver-prd` | business | Product Requirements Document |
-
----
-
-## 🗂️ Skill Format
-
-```markdown
----
-name: skill-name
-version: 1.0.0
-description: What this skill does. Use when...
-author: lous-creations
-tags: [tag1, tag2]
----
-
-# Skill Title
-
-## Before Starting
-## Core Expertise Areas
-## Key Patterns
-## Best Practices
-## Common Pitfalls
-## Related Skills
-```
+| Skill | What It Does |
+|-------|--------------|
+|  | 6 income streams for AI agents, zero budget |
+|  | Auto-fix GitHub issues with parallel sub-agents |
+|  | Daily content pipeline to Gumroad |
+|  | Production RAG with chunking, embedding, reranking |
+|  | CoT, few-shot, structured outputs, evals |
+|  | ICP definition and go-to-market positioning |
+|  | Lean canvas and pitch deck framework |
+|  | OWASP, IDOR, JWT attacks, bug bounty |
+|  | On-chain research to live trading |
 
 ---
 
@@ -123,11 +81,9 @@ tags: [tag1, tag2]
 
 **Luo Kai** · [Lous Creations](https://github.com/luokai0)
 
-> Building autonomous AI systems and the tools that power them.
+> All skills authored by Luo Kai. Building autonomous AI systems and income-generating agents.
 
 - Repo: [github.com/luokai0/cloud-skills-by-luo-kai-](https://github.com/luokai0/cloud-skills-by-luo-kai-)
 - New URL: [github.com/luokai0/ai-agent-skills-by-luo-kai](https://github.com/luokai0/ai-agent-skills-by-luo-kai)
 
----
-
-MIT License · Free to use, modify, and distribute.
+MIT License

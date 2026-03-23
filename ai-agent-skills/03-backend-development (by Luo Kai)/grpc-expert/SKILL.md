@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: grpc-expert
 description: Expert-level gRPC and Protocol Buffers. Use when designing gRPC services, writing .proto files, streaming RPCs, or high-performance microservice communication.
 license: MIT

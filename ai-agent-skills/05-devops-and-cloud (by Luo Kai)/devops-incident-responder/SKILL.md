@@ -2,7 +2,7 @@
 name: devops-incident-responder
 version: 1.0.0
 description: Use when actively responding to production incidents, diagnosing critical service failures, or conducting incident postmortems to implement permanent fixes and preventative measures.
-author: lous-creations
+author: luo-kai
 tags: [devops,-incident,-responder]
 ---
 

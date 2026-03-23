@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: compiler-expert
 description: Expert-level compiler design. Use when building parsers, lexers, ASTs, interpreters, bytecode compilers, LLVM, type systems, or implementing DSLs.
 license: MIT

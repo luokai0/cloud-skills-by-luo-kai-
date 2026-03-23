@@ -2,7 +2,7 @@
 name: oc-hackathon-manager
 version: 1.0.0
 description: Track hackathon deadlines, manage submission checklists, and monitor progress.
-author: lous-creations
+author: luo-kai
 tags: [hackathon-manager, openclaw, community]
 source: https://clawskills.sh/skills/hackathon-manager
 ---

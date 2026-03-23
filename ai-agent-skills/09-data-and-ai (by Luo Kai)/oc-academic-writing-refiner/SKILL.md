@@ -2,7 +2,7 @@
 name: oc-academic-writing-refiner
 version: 1.0.0
 description: Refine academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI.
-author: lous-creations
+author: luo-kai
 tags: [academic-writing-refiner, openclaw, community]
 source: https://clawskills.sh/skills/academic-writing-refiner
 ---

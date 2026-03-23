@@ -2,7 +2,7 @@
 name: thermodynamics-mech-expert
 version: 1.0.0
 description: Expert-level engineering thermodynamics covering laws of thermodynamics, thermodynamic cycles, steam power plants, refrigeration, gas dynamics, and combustion.
-author: luokai25
+author: luo-kai
 tags: [thermodynamics, Rankine cycle, Brayton cycle, refrigeration, combustion, entropy]
 ---
 

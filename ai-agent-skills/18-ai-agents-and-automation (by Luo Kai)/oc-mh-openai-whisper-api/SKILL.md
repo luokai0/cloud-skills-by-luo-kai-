@@ -2,7 +2,7 @@
 name: oc-mh-openai-whisper-api
 version: 1.0.0
 description: Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
-author: lous-creations
+author: luo-kai
 tags: [mh-openai-whisper-api, openclaw, community]
 source: https://clawskills.sh/skills/mh-openai-whisper-api
 ---

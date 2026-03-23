@@ -2,7 +2,7 @@
 name: process-control-expert
 version: 1.0.0
 description: Expert-level process control covering feedback and feedforward control, PID tuning, advanced process control, control loop design, and process safety instrumentation.
-author: luokai25
+author: luo-kai
 tags: [process control, PID, feedback, feedforward, APC, DCS, safety instrumentation]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: tax-investing-expert
 description: Expert-level tax strategy for investors and traders. Use when working with capital gains tax, tax-loss harvesting, retirement accounts, asset location, wash sale rules, trader tax status, depreciation, 1031 exchanges, estate planning, or tax-efficient investing. Also use when the user mentions 'capital gains', 'tax-loss harvesting', 'wash sale', 'Roth IRA', '401k', 'asset location', 'cost basis', 'AMT', 'qualified dividends', 'tax bracket', 'step-up basis', or 'backdoor Roth'.
 license: MIT

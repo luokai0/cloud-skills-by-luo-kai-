@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: portfolio-management-expert
 description: Expert-level portfolio management and asset allocation. Use when working with portfolio construction, asset allocation, rebalancing, diversification, factor exposure, ETF selection, retirement planning, or long-term wealth building. Also use when the user mentions 'asset allocation', 'rebalancing', 'diversification', 'ETF', 'index fund', '60/40 portfolio', 'modern portfolio theory', 'passive investing', 'wealth management', or 'retirement portfolio'.
 license: MIT

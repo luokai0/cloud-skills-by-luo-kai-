@@ -2,7 +2,7 @@
 name: propulsion-expert
 version: 1.0.0
 description: Expert-level aerospace propulsion covering gas turbine engines, rocket propulsion, thermodynamic cycles, nozzle design, and propellant chemistry.
-author: luokai25
+author: luo-kai
 tags: [propulsion, gas turbine, rockets, Brayton cycle, nozzles, thrust]
 ---
 

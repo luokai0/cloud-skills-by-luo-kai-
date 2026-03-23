@@ -2,7 +2,7 @@
 name: black-holes-expert
 version: 1.0.0
 description: Expert-level black hole physics covering formation, spacetime structure, accretion disks, jets, Hawking radiation, gravitational waves from mergers, and observational evidence.
-author: luokai25
+author: luo-kai
 tags: [black holes, general relativity, accretion, gravitational waves, Hawking radiation]
 ---
 

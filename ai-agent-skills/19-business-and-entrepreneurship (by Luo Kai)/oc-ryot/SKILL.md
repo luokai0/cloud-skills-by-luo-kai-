@@ -2,7 +2,7 @@
 name: oc-ryot
 version: 1.0.0
 description: Complete Ryot media tracker with progress tracking, reviews, collections, analytics, calendar, and automated.
-author: lous-creations
+author: luo-kai
 tags: [ryot, openclaw, community]
 source: https://clawskills.sh/skills/ryot
 ---

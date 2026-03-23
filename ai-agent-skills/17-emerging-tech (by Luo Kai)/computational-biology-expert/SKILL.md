@@ -2,7 +2,7 @@
 name: computational-biology-expert
 version: 1.0.0
 description: Expert-level computational biology covering molecular dynamics simulation, protein structure prediction, systems biology, network analysis, and machine learning in biology.
-author: luokai25
+author: luo-kai
 tags: [computational biology, molecular dynamics, protein structure, systems biology, ML]
 ---
 

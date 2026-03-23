@@ -2,7 +2,7 @@
 name: oc-agent-brain
 version: 1.0.0
 description: Local-first persistent memory for AI agents with SQLite storage, orchestrated retrieve/extract loops, hybrid.
-author: lous-creations
+author: luo-kai
 tags: [agent-brain, openclaw, community]
 source: https://clawskills.sh/skills/agent-brain
 ---

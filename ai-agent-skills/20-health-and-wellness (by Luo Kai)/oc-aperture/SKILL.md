@@ -2,7 +2,7 @@
 name: oc-aperture
 version: 1.0.0
 description: Install and run Aperture, the L402 Lightning reverse proxy from Lightning Labs.
-author: lous-creations
+author: luo-kai
 tags: [aperture, openclaw, community]
 source: https://clawskills.sh/skills/aperture
 ---

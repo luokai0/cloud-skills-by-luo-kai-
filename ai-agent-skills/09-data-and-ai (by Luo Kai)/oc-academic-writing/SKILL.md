@@ -2,7 +2,7 @@
 name: oc-academic-writing
 version: 1.0.0
 description: You are an academic writing expert specializing in scholarly papers, literature reviews, research methodology.
-author: lous-creations
+author: luo-kai
 tags: [academic-writing, openclaw, community]
 source: https://clawskills.sh/skills/academic-writing
 ---

@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: sherpa-onnx-tts
 description: Local text-to-speech via sherpa-onnx (offline, no cloud)
 metadata:

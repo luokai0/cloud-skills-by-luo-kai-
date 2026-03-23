@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: green-chemistry-expert
 description: Expert-level green chemistry knowledge. Use when working with sustainable synthesis, atom economy, solvent selection, catalysis, renewable feedstocks, waste reduction, life cycle assessment, or the 12 principles of green chemistry. Also use when the user mentions 'atom economy', 'E-factor', 'green solvent', 'catalysis', 'renewable feedstock', 'waste minimization', 'sustainable chemistry', 'life cycle assessment', 'PMI', 'solvent selection guide', or 'benign by design'.
 license: MIT

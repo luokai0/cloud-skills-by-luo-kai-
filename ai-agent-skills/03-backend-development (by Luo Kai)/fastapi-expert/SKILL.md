@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: fastapi-expert
 description: Expert-level FastAPI. Use when building Python APIs, working with Pydantic models, dependency injection, async endpoints, or OpenAPI docs.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-diet-tracker
 version: 1.0.0
 description: Tracks daily diet and calculates nutrition information.
-author: lous-creations
+author: luo-kai
 tags: [diet-tracker, openclaw, community]
 source: https://clawskills.sh/skills/diet-tracker
 ---

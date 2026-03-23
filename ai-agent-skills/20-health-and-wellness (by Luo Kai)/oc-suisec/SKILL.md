@@ -2,7 +2,7 @@
 name: oc-suisec
 version: 1.0.0
 description: Sui Secure - Pre-simulate transactions via sui client call --dry-run and sui client ptb --dry-run, compare results.
-author: lous-creations
+author: luo-kai
 tags: [suisec, openclaw, community]
 source: https://clawskills.sh/skills/suisec
 ---

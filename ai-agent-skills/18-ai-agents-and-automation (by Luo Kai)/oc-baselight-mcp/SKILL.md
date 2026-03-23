@@ -2,7 +2,7 @@
 name: oc-baselight-mcp
 version: 1.0.0
 description: Connects to the Baselight MCP (Model Context Protocol)
-author: lous-creations
+author: luo-kai
 tags: [baselight-mcp, openclaw, community]
 source: https://clawskills.sh/skills/baselight-mcp
 ---

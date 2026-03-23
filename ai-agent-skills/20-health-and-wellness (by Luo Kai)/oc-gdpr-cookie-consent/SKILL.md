@@ -2,7 +2,7 @@
 name: oc-gdpr-cookie-consent
 version: 1.0.0
 description: Complete reference guide for AI agents to help.
-author: lous-creations
+author: luo-kai
 tags: [gdpr-cookie-consent, openclaw, community]
 source: https://clawskills.sh/skills/gdpr-cookie-consent
 ---

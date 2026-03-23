@@ -2,7 +2,7 @@
 name: oc-ai-agent-card-payments
 version: 1.0.0
 description: Virtual card payments for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [ai-agent-card-payments, openclaw, community]
 source: https://clawskills.sh/skills/ai-agent-card-payments
 ---

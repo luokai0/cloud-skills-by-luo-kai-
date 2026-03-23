@@ -2,7 +2,7 @@
 name: power-grid-expert
 version: 1.0.0
 description: Expert-level power grid covering AC power systems, transmission and distribution, grid stability, protection systems, renewable integration, and smart grid technologies.
-author: luokai25
+author: luo-kai
 tags: [power grid, AC systems, transmission, grid stability, smart grid, renewables]
 ---
 

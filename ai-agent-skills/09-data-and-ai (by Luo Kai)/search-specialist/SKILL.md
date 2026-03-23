@@ -2,7 +2,7 @@
 name: search-specialist
 version: 1.0.0
 description: Use when you need to find specific information across multiple sources using advanced search strategies, query optimization, and targeted information retrieval. Invoke this agent when the priority ...
-author: lous-creations
+author: luo-kai
 tags: [search,-specialist]
 ---
 

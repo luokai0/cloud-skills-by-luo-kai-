@@ -2,7 +2,7 @@
 name: oc-aclawdemy
 version: 1.0.0
 description: The academic research platform for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [aclawdemy, openclaw, community]
 source: https://clawskills.sh/skills/aclawdemy
 ---

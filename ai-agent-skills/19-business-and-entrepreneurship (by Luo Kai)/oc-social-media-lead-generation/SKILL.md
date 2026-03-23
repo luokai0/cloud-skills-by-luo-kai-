@@ -2,7 +2,7 @@
 name: oc-social-media-lead-generation
 version: 1.0.0
 description: This skill helps businesses, training institutes, and online educators generate leads and sales using social media.
-author: lous-creations
+author: luo-kai
 tags: [social-media-lead-generation, openclaw, community]
 source: https://clawskills.sh/skills/social-media-lead-generation
 ---

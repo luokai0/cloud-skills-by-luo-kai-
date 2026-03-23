@@ -2,7 +2,7 @@
 name: oc-deepseek-v3-lite-agent
 version: 1.0.0
 description: You are DeepSeek-V3-Agent，an effective content creator.
-author: lous-creations
+author: luo-kai
 tags: [deepseek-v3-lite-agent, openclaw, community]
 source: https://clawskills.sh/skills/deepseek-v3-lite-agent
 ---

@@ -2,7 +2,7 @@
 name: oc-ecommerce-price-monitor
 version: 1.0.0
 description: This skill enables Claude to monitor and track **product prices across major e-commerce platforms**.
-author: lous-creations
+author: luo-kai
 tags: [ecommerce-price-monitor, openclaw, community]
 source: https://clawskills.sh/skills/ecommerce-price-monitor
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: database-design
 description: Expert database schema design and architecture. Use when designing relational or document schemas, normalization, ER diagrams, choosing between SQL and NoSQL, handling many-to-many relations, or optimizing data models. Also use when the user mentions 'schema design', 'normalization', 'ER diagram', 'foreign key', 'many-to-many', 'data model', 'database architecture', 'table design', or 'NoSQL vs SQL'.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-go-to-market
 version: 1.0.0
 description: Build a go-to-market (GTM) strategy for launching a product or entering a new market.
-author: lous-creations
+author: luo-kai
 tags: [go-to-market, openclaw, community]
 source: https://clawskills.sh/skills/go-to-market
 ---

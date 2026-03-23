@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: cicd-expert
 description: Expert-level CI/CD pipeline development. Use when building GitHub Actions, GitLab CI, Jenkins, CircleCI, or ArgoCD pipelines, implementing automated testing, deployment strategies (blue/green, canary), or release automation. Also use when the user mentions 'GitHub Actions', 'pipeline', 'CI/CD', 'deployment strategy', 'blue-green', 'canary', 'rollback', 'automated testing', or 'release automation'.
 license: MIT

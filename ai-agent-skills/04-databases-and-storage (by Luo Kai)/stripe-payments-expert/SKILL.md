@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: stripe-payments-expert
 description: Expert-level Stripe. Use when integrating payments, Payment Intents, subscriptions, webhooks, Stripe Connect, billing portal, or handling payment edge cases.
 license: MIT

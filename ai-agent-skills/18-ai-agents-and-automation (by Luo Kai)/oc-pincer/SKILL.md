@@ -2,7 +2,7 @@
 name: oc-pincer
 version: 1.0.0
 description: Security-first wrapper for installing agent skills.
-author: lous-creations
+author: luo-kai
 tags: [pincer, openclaw, community]
 source: https://clawskills.sh/skills/pincer
 ---

@@ -2,7 +2,7 @@
 name: backend-developer
 version: 1.0.0
 description: Use this agent when building server-side APIs, microservices, and backend systems that require robust architecture, scalability planning, and production-ready implementation.
-author: lous-creations
+author: luo-kai
 tags: [backend,-developer]
 ---
 

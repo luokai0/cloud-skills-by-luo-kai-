@@ -2,7 +2,7 @@
 name: oc-gm3-alertworthy-feed
 version: 1.0.0
 description: Read-only access to the GM3 Alertworthy feed, providing real-time token market data for analysis agents.
-author: lous-creations
+author: luo-kai
 tags: [gm3-alertworthy-feed, openclaw, community]
 source: https://clawskills.sh/skills/gm3-alertworthy-feed
 ---

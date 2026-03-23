@@ -2,7 +2,7 @@
 name: oc-blog-writer
 version: 1.0.0
 description: This skill should be used when writing blog posts, articles.
-author: lous-creations
+author: luo-kai
 tags: [blog-writer, openclaw, community]
 source: https://clawskills.sh/skills/blog-writer
 ---

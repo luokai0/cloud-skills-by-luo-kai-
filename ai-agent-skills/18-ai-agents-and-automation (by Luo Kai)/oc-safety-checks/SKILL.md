@@ -2,7 +2,7 @@
 name: oc-safety-checks
 version: 1.0.0
 description: Verify before you trust — model pinning, fallbacks, and runtime safety validation.
-author: lous-creations
+author: luo-kai
 tags: [safety-checks, openclaw, community]
 source: https://clawskills.sh/skills/safety-checks
 ---

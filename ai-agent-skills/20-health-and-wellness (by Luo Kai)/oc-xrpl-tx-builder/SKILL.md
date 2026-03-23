@@ -2,7 +2,7 @@
 name: oc-xrpl-tx-builder
 version: 1.0.0
 description: Build and sign XRP Ledger transactions.
-author: lous-creations
+author: luo-kai
 tags: [xrpl-tx-builder, openclaw, community]
 source: https://clawskills.sh/skills/xrpl-tx-builder
 ---

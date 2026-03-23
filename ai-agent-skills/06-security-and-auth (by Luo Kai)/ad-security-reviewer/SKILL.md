@@ -2,7 +2,7 @@
 name: ad-security-reviewer
 version: 1.0.0
 description: Use this agent when you need to audit Active Directory security posture, evaluate privilege escalation risks, review identity delegation patterns, or assess authentication protocol hardening.
-author: lous-creations
+author: luo-kai
 tags: [ad,-security,-reviewer]
 ---
 

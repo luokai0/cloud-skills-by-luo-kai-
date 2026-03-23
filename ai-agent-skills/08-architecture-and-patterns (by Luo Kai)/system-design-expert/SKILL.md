@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: system-design
 description: Expert-level system design and software architecture. Use when designing large-scale systems, discussing scalability, availability, consistency, load balancing, caching, message queues, databases, or drawing architecture diagrams. Also use when the user mentions 'design a system', 'how would you scale', 'architecture review', 'trade-offs', 'CAP theorem', 'bottleneck', 'high availability', or 'distributed system'.
 license: MIT

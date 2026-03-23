@@ -2,7 +2,7 @@
 name: clinical-engineering-expert
 version: 1.0.0
 description: Expert-level clinical engineering covering medical equipment management, hospital technology systems, healthcare IT integration, safety standards, and health technology assessment.
-author: luokai25
+author: luo-kai
 tags: [clinical engineering, medical equipment, hospital technology, safety, HTA, maintenance]
 ---
 

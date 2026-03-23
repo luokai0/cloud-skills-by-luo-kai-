@@ -2,7 +2,7 @@
 name: metals-expert
 version: 1.0.0
 description: Expert-level metals engineering covering crystal structure, phase diagrams, strengthening mechanisms, steel metallurgy, aluminum alloys, and failure analysis.
-author: luokai25
+author: luo-kai
 tags: [metals, steel, aluminum, phase diagrams, strengthening, failure analysis, metallurgy]
 ---
 

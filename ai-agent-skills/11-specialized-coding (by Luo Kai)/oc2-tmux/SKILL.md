@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: tmux
 description: Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output.
 metadata:

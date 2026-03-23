@@ -2,7 +2,7 @@
 name: robot-dynamics-expert
 version: 1.0.0
 description: Expert-level robot dynamics covering equations of motion, Newton-Euler and Lagrangian formulations, inertia parameters, friction modeling, and dynamic simulation.
-author: luokai25
+author: luo-kai
 tags: [robotics, dynamics, Lagrangian, Newton-Euler, inertia, torque control]
 ---
 

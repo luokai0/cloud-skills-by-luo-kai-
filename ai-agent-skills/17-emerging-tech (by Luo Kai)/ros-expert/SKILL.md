@@ -2,7 +2,7 @@
 name: ros-expert
 version: 1.0.0
 description: Expert-level ROS and ROS2 covering architecture, nodes, topics, services, actions, launch files, tf2 transforms, Nav2 navigation, and MoveIt motion planning.
-author: luokai25
+author: luo-kai
 tags: [ROS, ROS2, robotics, navigation, MoveIt, transforms, nodes]
 ---
 

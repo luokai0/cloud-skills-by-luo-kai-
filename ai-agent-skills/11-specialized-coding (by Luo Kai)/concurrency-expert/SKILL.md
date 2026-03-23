@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: concurrency-expert
 description: Expert-level concurrency and parallelism. Use when working with threads, async/await, coroutines, race conditions, deadlocks, mutexes, semaphores, actor models, parallel algorithms, or concurrent data structures. Also use when the user mentions 'race condition', 'deadlock', 'mutex', 'async/await', 'thread pool', 'concurrent', 'parallel', 'atomics', 'lock-free', or 'goroutine'.
 license: MIT

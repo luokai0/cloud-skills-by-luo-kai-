@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: google-sheets
 description: |
   Read and write Google Sheets spreadsheets - get content, update cells, append rows, fetch specific ranges,

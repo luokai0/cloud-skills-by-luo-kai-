@@ -2,7 +2,7 @@
 name: oc-n2-stitch-mcp
 version: 1.0.0
 description: Resilient MCP proxy for Google Stitch — 3-layer safety (auto-retry, token refresh, TCP drop recovery).
-author: lous-creations
+author: luo-kai
 tags: [n2-stitch-mcp, openclaw, community]
 source: https://clawskills.sh/skills/n2-stitch-mcp
 ---

@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: trading-strategist
 description: Provides trading strategies for cryptocurrencies based on Binance market data, calculated technical analysis indicators, and aggregated market sentiment from crypto RSS news feeds. Use when users ask for trading advice, strategy recommendations, or analysis combining price data, TA, and sentiment for crypto assets like ETH, BTC, or altcoins.
 ---

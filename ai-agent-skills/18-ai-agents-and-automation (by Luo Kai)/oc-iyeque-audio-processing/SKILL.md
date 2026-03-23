@@ -2,7 +2,7 @@
 name: oc-iyeque-audio-processing
 version: 1.0.0
 description: Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
-author: lous-creations
+author: luo-kai
 tags: [iyeque-audio-processing, openclaw, community]
 source: https://clawskills.sh/skills/iyeque-audio-processing
 ---

@@ -2,7 +2,7 @@
 name: microservices-architect
 version: 1.0.0
 description: Use when designing distributed system architecture, decomposing monolithic applications into independent microservices, or establishing communication patterns between services at scale.
-author: lous-creations
+author: luo-kai
 tags: [microservices,-architect]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: complex-analysis-expert
 description: Expert-level complex analysis knowledge. Use when working with complex functions, holomorphic functions, Cauchy's theorem, contour integration, Laurent series, residues, conformal mappings, or analytic continuation. Also use when the user mentions 'holomorphic', 'analytic', 'Cauchy theorem', 'residue', 'contour integral', 'Laurent series', 'conformal map', 'Riemann mapping', 'Mobius transformation', 'harmonic function', 'entire function', or 'meromorphic'.
 license: MIT

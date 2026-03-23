@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: spectroscopy-expert
 description: Expert-level spectroscopy knowledge. Use when working with NMR, IR, Raman, UV-Vis, mass spectrometry, fluorescence, X-ray, electron spectroscopy, or any spectroscopic technique for structure determination or chemical analysis. Also use when the user mentions 'NMR spectroscopy', 'chemical shift', 'coupling constant', 'IR absorption', 'Raman scattering', 'UV-Vis absorption', 'fluorescence', 'XPS', 'EPR', 'mass spectrum', 'fragmentation', or 'spectral interpretation'.
 license: MIT

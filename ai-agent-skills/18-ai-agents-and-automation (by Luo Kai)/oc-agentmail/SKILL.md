@@ -2,7 +2,7 @@
 name: oc-agentmail
 version: 1.0.0
 description: API-first email platform designed for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [agentmail, openclaw, community]
 source: https://clawskills.sh/skills/agentmail
 ---

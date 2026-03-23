@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: differential-equations-expert
 description: Expert-level differential equations knowledge. Use when working with ordinary differential equations, partial differential equations, systems of ODEs, Laplace transforms, Fourier methods, boundary value problems, stability analysis, or numerical methods for ODEs. Also use when the user mentions 'ODE', 'PDE', 'initial value problem', 'boundary value problem', 'Laplace transform', 'separation of variables', 'eigenvalue problem', 'heat equation', 'wave equation', 'Laplace equation', 'stability', or 'phase plane'.
 license: MIT

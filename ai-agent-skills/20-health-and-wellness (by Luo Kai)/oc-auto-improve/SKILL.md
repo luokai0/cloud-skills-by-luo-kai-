@@ -2,7 +2,7 @@
 name: oc-auto-improve
 version: 1.0.0
 description: Automatische Selbst-Verbesserung durch Fehler-Lernen und Pattern-Erkennung.
-author: lous-creations
+author: luo-kai
 tags: [auto-improve, openclaw, community]
 source: https://clawskills.sh/skills/auto-improve
 ---

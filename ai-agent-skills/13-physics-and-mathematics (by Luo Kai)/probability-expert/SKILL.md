@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: probability-expert
 description: Expert-level probability theory knowledge. Use when working with probability spaces, random variables, distributions, expectation, variance, conditional probability, stochastic processes, Markov chains, martingales, or measure-theoretic probability. Also use when the user mentions 'sample space', 'random variable', 'expected value', 'variance', 'conditional probability', 'independence', 'Markov chain', 'Poisson process', 'moment generating function', 'law of large numbers', 'central limit theorem', or 'stochastic process'.
 license: MIT

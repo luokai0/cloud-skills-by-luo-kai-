@@ -2,7 +2,7 @@
 name: oc-agent-docs
 version: 1.0.0
 description: Create documentation optimized for AI agent consumption.
-author: lous-creations
+author: luo-kai
 tags: [agent-docs, openclaw, community]
 source: https://clawskills.sh/skills/agent-docs
 ---

@@ -2,7 +2,7 @@
 name: biomedical-imaging-expert
 version: 1.0.0
 description: Expert-level biomedical imaging covering X-ray, CT, MRI, ultrasound, nuclear medicine, optical imaging, and image processing for clinical and research applications.
-author: luokai25
+author: luo-kai
 tags: [biomedical imaging, MRI, CT, ultrasound, X-ray, PET, image processing]
 ---
 

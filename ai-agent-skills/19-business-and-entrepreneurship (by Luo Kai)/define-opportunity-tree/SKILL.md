@@ -1,6 +1,6 @@
 <!-- PM-Skills | https://github.com/product-on-purpose/pm-skills | Apache 2.0 -->
 ---
-author: lous-creations
+author: luo-kai
 name: define-opportunity-tree
 description: Creates an opportunity solution tree mapping desired outcomes to opportunities and potential solutions. Use for outcome-driven product discovery, prioritization, or communicating product strategy.
 phase: define

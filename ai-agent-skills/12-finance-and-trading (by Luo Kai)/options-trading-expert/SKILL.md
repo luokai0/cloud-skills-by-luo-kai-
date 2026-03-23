@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: options-trading-expert
 description: Expert-level options trading knowledge. Use when working with options contracts, Greeks, pricing models, hedging strategies, spreads, iron condors, straddles, covered calls, or volatility trading. Also use when the user mentions 'call', 'put', 'strike price', 'expiry', 'delta', 'theta', 'implied volatility', 'premium', 'spread', 'assignment', or 'Black-Scholes'.
 license: MIT

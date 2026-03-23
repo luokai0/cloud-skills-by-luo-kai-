@@ -2,7 +2,7 @@
 name: oc-affiliatematic
 version: 1.0.0
 description: Integrate AI-powered Amazon affiliate product recommendations.
-author: lous-creations
+author: luo-kai
 tags: [affiliatematic, openclaw, community]
 source: https://clawskills.sh/skills/affiliatematic
 ---

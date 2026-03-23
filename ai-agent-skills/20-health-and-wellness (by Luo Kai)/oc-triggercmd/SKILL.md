@@ -2,7 +2,7 @@
 name: oc-triggercmd
 version: 1.0.0
 description: Control TRIGGERcmd computers remotely by listing and running commands via the TRIGGERcmd REST API.
-author: lous-creations
+author: luo-kai
 tags: [triggercmd, openclaw, community]
 source: https://clawskills.sh/skills/triggercmd
 ---

@@ -2,7 +2,7 @@
 name: computer-graphics-expert
 version: 1.0.0
 description: Expert-level computer graphics covering the rendering pipeline, rasterization, ray tracing, shaders, transformations, lighting models, and GPU programming.
-author: luokai25
+author: luo-kai
 tags: [computer graphics, rendering, shaders, ray tracing, OpenGL, WebGL, GLSL]
 ---
 

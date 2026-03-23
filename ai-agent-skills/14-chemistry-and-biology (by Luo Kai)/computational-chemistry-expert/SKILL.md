@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: computational-chemistry-expert
 description: Expert-level computational chemistry knowledge. Use when working with molecular dynamics, density functional theory, force fields, quantum chemistry calculations, molecular docking, free energy calculations, or cheminformatics. Also use when the user mentions 'DFT', 'molecular dynamics', 'force field', 'AMBER', 'GROMACS', 'Gaussian', 'basis set', 'geometry optimization', 'molecular docking', 'free energy perturbation', 'QSAR', or 'cheminformatics'.
 license: MIT

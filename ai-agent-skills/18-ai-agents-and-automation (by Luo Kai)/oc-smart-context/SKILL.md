@@ -2,7 +2,7 @@
 name: oc-smart-context
 version: 1.0.0
 description: Token-efficient agent behavior — response sizing, context pruning, tool efficiency, and delegation.
-author: lous-creations
+author: luo-kai
 tags: [smart-context, openclaw, community]
 source: https://clawskills.sh/skills/smart-context
 ---

@@ -2,7 +2,7 @@
 name: oc-gep-immune-auditor
 version: 1.0.0
 description: Security audit agent for GEP/EvoMap ecosystem.
-author: lous-creations
+author: luo-kai
 tags: [gep-immune-auditor, openclaw, community]
 source: https://clawskills.sh/skills/gep-immune-auditor
 ---

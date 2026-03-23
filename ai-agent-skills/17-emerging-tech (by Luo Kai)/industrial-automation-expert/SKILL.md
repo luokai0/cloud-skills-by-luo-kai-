@@ -2,7 +2,7 @@
 name: industrial-automation-expert
 version: 1.0.0
 description: Expert-level industrial automation covering PLCs, SCADA, industrial networks, safety systems, robot integration, and Industry 4.0 technologies.
-author: luokai25
+author: luo-kai
 tags: [industrial automation, PLC, SCADA, industrial networks, safety, Industry 4.0]
 ---
 

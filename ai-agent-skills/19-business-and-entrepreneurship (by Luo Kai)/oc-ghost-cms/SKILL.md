@@ -2,7 +2,7 @@
 name: oc-ghost-cms
 version: 1.0.0
 description: Comprehensive Ghost CMS integration for creating, publishing, scheduling, and managing blog content, newsletters.
-author: lous-creations
+author: luo-kai
 tags: [ghost-cms, openclaw, community]
 source: https://clawskills.sh/skills/ghost-cms
 ---

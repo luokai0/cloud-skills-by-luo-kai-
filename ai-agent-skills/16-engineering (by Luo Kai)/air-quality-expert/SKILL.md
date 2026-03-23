@@ -2,7 +2,7 @@
 name: air-quality-expert
 version: 1.0.0
 description: Expert-level air quality engineering covering pollutant sources, atmospheric dispersion, air quality standards, emission controls, and air quality modeling.
-author: luokai25
+author: luo-kai
 tags: [air quality, dispersion modeling, emissions, pollutants, air quality standards]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-wallet-api
 version: 1.0.0
 description: Interact with the BudgetBakers Wallet API for personal finance data.
-author: lous-creations
+author: luo-kai
 tags: [wallet-api, openclaw, community]
 source: https://clawskills.sh/skills/wallet-api
 ---

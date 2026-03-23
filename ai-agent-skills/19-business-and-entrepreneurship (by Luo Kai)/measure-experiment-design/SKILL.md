@@ -1,6 +1,6 @@
 <!-- PM-Skills | https://github.com/product-on-purpose/pm-skills | Apache 2.0 -->
 ---
-author: lous-creations
+author: luo-kai
 name: measure-experiment-design
 description: Designs an A/B test or experiment with clear hypothesis, variants, success metrics, sample size, and duration. Use when planning experiments to validate product changes or test hypotheses.
 phase: measure

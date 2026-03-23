@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: azure-expert
 description: Expert-level Azure. Use when working with App Service, AKS, Azure Functions, Cosmos DB, Azure SQL, Service Bus, or designing Azure architectures.
 license: MIT

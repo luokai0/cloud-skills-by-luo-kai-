@@ -2,7 +2,7 @@
 name: oc-ag-model-usage
 version: 1.0.0
 description: Use CodexBar CLI local cost usage to summarize.
-author: lous-creations
+author: luo-kai
 tags: [ag-model-usage, openclaw, community]
 source: https://clawskills.sh/skills/ag-model-usage
 ---

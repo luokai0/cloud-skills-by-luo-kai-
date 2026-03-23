@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: plasma-physics-expert
 description: Expert-level plasma physics knowledge. Use when working with plasma state, Debye shielding, plasma oscillations, magnetohydrodynamics, plasma confinement, fusion plasmas, space plasmas, plasma waves, or plasma instabilities. Also use when the user mentions 'plasma', 'Debye length', 'plasma frequency', 'MHD', 'magnetic confinement', 'tokamak', 'plasma instability', 'Alfven wave', 'Langmuir probe', 'ionosphere', or 'solar wind'.
 license: MIT

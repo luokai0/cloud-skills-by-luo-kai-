@@ -2,7 +2,7 @@
 name: oc-prism-scanner
 version: 1.0.0
 description: Instant rug pull detection for any token.
-author: lous-creations
+author: luo-kai
 tags: [prism-scanner, openclaw, community]
 source: https://clawskills.sh/skills/prism-scanner
 ---

@@ -2,7 +2,7 @@
 name: heat-transfer-expert
 version: 1.0.0
 description: Expert-level heat transfer covering conduction, convection, radiation, heat exchangers, fins, transient heat transfer, and computational heat transfer.
-author: luokai25
+author: luo-kai
 tags: [heat transfer, conduction, convection, radiation, heat exchangers, fins]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: monitoring-expert
 description: Expert-level observability and monitoring. Use when setting up Prometheus, Grafana, Datadog, OpenTelemetry, distributed tracing, structured logging, alerting, SLOs/SLAs, or diagnosing production incidents. Also use when the user mentions 'Prometheus', 'Grafana', 'OpenTelemetry', 'distributed tracing', 'SLO', 'alerting', 'metrics', 'logs', 'traces', or 'production incident'.
 license: MIT

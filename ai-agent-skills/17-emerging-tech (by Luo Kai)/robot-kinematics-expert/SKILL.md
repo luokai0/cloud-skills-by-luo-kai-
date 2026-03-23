@@ -2,7 +2,7 @@
 name: robot-kinematics-expert
 version: 1.0.0
 description: Expert-level robot kinematics covering forward and inverse kinematics, Denavit-Hartenberg parameters, workspace analysis, singularities, and Jacobian-based methods.
-author: luokai25
+author: luo-kai
 tags: [robotics, kinematics, DH parameters, inverse kinematics, Jacobian]
 ---
 

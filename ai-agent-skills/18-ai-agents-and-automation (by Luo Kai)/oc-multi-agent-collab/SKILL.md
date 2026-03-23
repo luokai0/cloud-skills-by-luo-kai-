@@ -2,7 +2,7 @@
 name: oc-multi-agent-collab
 version: 1.0.0
 description: Universal multi-agent collaboration methodology for Claude Code.
-author: lous-creations
+author: luo-kai
 tags: [multi-agent-collab, openclaw, community]
 source: https://clawskills.sh/skills/multi-agent-collab
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: finance-trading-expert
 description: Expert-level finance and trading knowledge. Use when working with stock analysis, technical indicators, portfolio management, risk management, options, derivatives, crypto, forex, valuation models, or trading strategies. Also use when the user mentions 'moving average', 'RSI', 'P/E ratio', 'options', 'hedge', 'volatility', 'DCF', 'arbitrage', 'candlestick', 'order book', or 'alpha'.
 license: MIT

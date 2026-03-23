@@ -2,7 +2,7 @@
 name: oc-solo-metrics-track
 version: 1.0.0
 description: Set up PostHog metrics plan with event funnel, KPI benchmarks, and kill/iterate/scale decision thresholds.
-author: lous-creations
+author: luo-kai
 tags: [solo-metrics-track, openclaw, community]
 source: https://clawskills.sh/skills/solo-metrics-track
 ---

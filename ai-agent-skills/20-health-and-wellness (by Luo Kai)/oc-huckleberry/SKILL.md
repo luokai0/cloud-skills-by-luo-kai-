@@ -2,7 +2,7 @@
 name: oc-huckleberry
 version: 1.0.0
 description: Track baby sleep, feeding, diapers, and growth via the Huckleberry.
-author: lous-creations
+author: luo-kai
 tags: [huckleberry, openclaw, community]
 source: https://clawskills.sh/skills/huckleberry
 ---

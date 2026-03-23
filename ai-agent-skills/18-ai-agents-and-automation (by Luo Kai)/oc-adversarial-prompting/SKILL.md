@@ -2,7 +2,7 @@
 name: oc-adversarial-prompting
 version: 1.0.0
 description: Adversarial analysis to critique, fix.
-author: lous-creations
+author: luo-kai
 tags: [adversarial-prompting, openclaw, community]
 source: https://clawskills.sh/skills/adversarial-prompting
 ---

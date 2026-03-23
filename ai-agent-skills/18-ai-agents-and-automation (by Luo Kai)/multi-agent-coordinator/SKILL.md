@@ -2,7 +2,7 @@
 name: multi-agent-coordinator
 version: 1.0.0
 description: Use when coordinating multiple concurrent agents that need to communicate, share state, synchronize work, and handle distributed failures across a system.
-author: lous-creations
+author: luo-kai
 tags: [multi,-agent,-coordinator]
 ---
 

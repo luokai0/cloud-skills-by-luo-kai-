@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: aws-expert
 description: Expert-level AWS cloud development. Use when working with EC2, S3, Lambda, RDS, DynamoDB, ECS, API Gateway, CloudFront, SQS, SNS, IAM, CDK, or CloudFormation. Also use when the user mentions 'Lambda', 'S3 bucket', 'IAM role', 'CDK', 'CloudFormation', 'DynamoDB', 'ECS', 'VPC', 'API Gateway', 'cost optimization', or any AWS service name.
 license: MIT

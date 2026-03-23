@@ -2,7 +2,7 @@
 name: oc-agent-ethos
 version: 1.0.0
 description: Extended ethos and mental models for Clanky.
-author: lous-creations
+author: luo-kai
 tags: [agent-ethos, openclaw, community]
 source: https://clawskills.sh/skills/agent-ethos
 ---

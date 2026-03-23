@@ -2,7 +2,7 @@
 name: oc-switch-modes
 version: 1.0.0
 description: Switch between AI models dynamically to optimize costs and performance.
-author: lous-creations
+author: luo-kai
 tags: [switch-modes, openclaw, community]
 source: https://clawskills.sh/skills/switch-modes
 ---

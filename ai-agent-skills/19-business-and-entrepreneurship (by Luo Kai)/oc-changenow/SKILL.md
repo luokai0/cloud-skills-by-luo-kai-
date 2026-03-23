@@ -2,7 +2,7 @@
 name: oc-changenow
 version: 1.0.0
 description: Perform instant crypto swaps via ChangeNOW and earn affiliate commissions.
-author: lous-creations
+author: luo-kai
 tags: [changenow, openclaw, community]
 source: https://clawskills.sh/skills/changenow
 ---

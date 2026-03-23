@@ -2,7 +2,7 @@
 name: frontend-developer
 version: 1.0.0
 description: Use when building complete frontend applications across React, Vue, and Angular frameworks requiring multi-framework expertise and full-stack integration.
-author: lous-creations
+author: luo-kai
 tags: [frontend,-developer]
 ---
 

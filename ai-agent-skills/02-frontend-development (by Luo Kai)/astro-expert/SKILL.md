@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: astro-expert
 description: Expert-level Astro framework. Use when building Astro sites, working with islands architecture, content collections, SSR adapters, or ViewTransitions.
 license: MIT

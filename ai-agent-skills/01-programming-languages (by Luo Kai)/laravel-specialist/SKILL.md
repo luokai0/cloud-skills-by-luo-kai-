@@ -2,7 +2,7 @@
 name: laravel-specialist
 version: 1.0.0
 description: Use when building Laravel 10+ applications, architecting Eloquent models with complex relationships, implementing queue systems for async processing, or optimizing API performance.
-author: lous-creations
+author: luo-kai
 tags: [laravel,-specialist]
 ---
 

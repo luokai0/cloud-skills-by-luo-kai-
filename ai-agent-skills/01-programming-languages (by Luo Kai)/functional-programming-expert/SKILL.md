@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: functional-programming
 description: Expert-level functional programming. Use when applying immutability, pure functions, currying, composition, monads, fp-ts, Ramda, or refactoring to FP style.
 license: MIT

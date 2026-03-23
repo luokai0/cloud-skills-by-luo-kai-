@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: particle-physics-expert
 description: Expert-level particle physics knowledge. Use when working with the Standard Model, quarks, leptons, bosons, fundamental forces, Feynman diagrams, quantum field theory, particle accelerators, or particle detectors. Also use when the user mentions 'Standard Model', 'quark', 'lepton', 'boson', 'Higgs', 'gluon', 'neutrino', 'antimatter', 'Feynman diagram', 'QCD', 'QED', 'electroweak', 'LHC', or 'particle accelerator'.
 license: MIT

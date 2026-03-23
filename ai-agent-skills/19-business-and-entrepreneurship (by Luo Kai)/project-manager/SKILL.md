@@ -2,7 +2,7 @@
 name: project-manager
 version: 1.0.0
 description: Use this agent when you need to establish project plans, track execution progress, manage risks, control budget/schedule, and coordinate stakeholders across complex initiatives.
-author: lous-creations
+author: luo-kai
 tags: [project,-manager]
 ---
 

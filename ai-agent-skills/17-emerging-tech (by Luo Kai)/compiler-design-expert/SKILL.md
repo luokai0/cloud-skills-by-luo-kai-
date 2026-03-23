@@ -2,7 +2,7 @@
 name: compiler-design-expert
 version: 1.0.0
 description: Expert-level compiler design covering lexical analysis, parsing, semantic analysis, intermediate representations, optimization passes, and code generation.
-author: luokai25
+author: luo-kai
 tags: [compilers, parsing, AST, optimization, code generation, LLVM]
 ---
 

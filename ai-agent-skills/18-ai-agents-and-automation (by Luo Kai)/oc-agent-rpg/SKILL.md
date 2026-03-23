@@ -2,7 +2,7 @@
 name: oc-agent-rpg
 version: 1.0.0
 description: This skill transforms the agent into a Roleplay Game Master (GM) or Character with long-term memory.
-author: lous-creations
+author: luo-kai
 tags: [agent-rpg, openclaw, community]
 source: https://clawskills.sh/skills/agent-rpg
 ---

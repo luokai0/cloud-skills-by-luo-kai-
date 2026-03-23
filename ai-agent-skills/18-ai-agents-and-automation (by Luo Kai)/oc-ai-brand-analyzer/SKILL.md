@@ -2,7 +2,7 @@
 name: oc-ai-brand-analyzer
 version: 1.0.0
 description: Analyze brands to generate comprehensive brand.
-author: lous-creations
+author: luo-kai
 tags: [ai-brand-analyzer, openclaw, community]
 source: https://clawskills.sh/skills/ai-brand-analyzer
 ---

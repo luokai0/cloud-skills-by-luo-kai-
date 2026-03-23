@@ -2,7 +2,7 @@
 name: genomics-expert
 version: 1.0.0
 description: Expert-level genomics covering whole genome sequencing, genome assembly, annotation, comparative genomics, functional genomics, single-cell genomics, and multi-omics integration.
-author: luokai25
+author: luo-kai
 tags: [genomics, sequencing, NGS, assembly, annotation, omics]
 ---
 

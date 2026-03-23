@@ -2,7 +2,7 @@
 name: oc-intervals-icu
 version: 1.0.0
 description: Complete guide for accessing and managing training data.
-author: lous-creations
+author: luo-kai
 tags: [intervals-icu, openclaw, community]
 source: https://clawskills.sh/skills/intervals-icu
 ---

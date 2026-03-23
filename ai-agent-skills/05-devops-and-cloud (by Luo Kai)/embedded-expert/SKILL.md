@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: embedded-expert
 description: Expert-level embedded systems. Use when writing firmware in C/C++, microcontrollers, RTOS, GPIO, I2C/SPI/UART, or bare-metal programming.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-aisa-market-skill
 version: 1.0.0
 description: Query real-time and historical financial data across equities and crypto—prices, market moves, metrics, and trends.
-author: lous-creations
+author: luo-kai
 tags: [aisa-market-skill, openclaw, community]
 source: https://clawskills.sh/skills/aisa-market-skill
 ---

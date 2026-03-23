@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: hedge-fund-strategies-expert
 description: Expert-level hedge fund strategies and alternative investments. Use when working with long/short equity, global macro, event driven, relative value, managed futures, arbitrage, activist investing, or fund structure. Also use when the user mentions 'long/short', 'global macro', 'event driven', 'merger arbitrage', 'convertible arb', 'managed futures', 'CTA', 'activist investor', 'short selling', 'alpha generation', 'fund of funds', or 'hedge fund structure'.
 license: MIT

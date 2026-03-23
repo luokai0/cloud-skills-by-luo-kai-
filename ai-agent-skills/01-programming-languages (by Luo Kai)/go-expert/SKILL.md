@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: go-expert
 description: Expert-level Go programming. Use when writing Go code, working with goroutines, channels, interfaces, error handling patterns, Go modules, testing, benchmarking, or building Go services and CLIs. Also use when the user mentions 'goroutine', 'channel', 'defer', 'interface', 'go test', 'go mod', 'context', 'panic/recover', or 'Go compile error'.
 license: MIT

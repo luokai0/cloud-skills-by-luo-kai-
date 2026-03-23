@@ -2,7 +2,7 @@
 name: oc-bring-recipes
 version: 1.0.0
 description: Use when user wants to browse recipe inspirations.
-author: lous-creations
+author: luo-kai
 tags: [bring-recipes, openclaw, community]
 source: https://clawskills.sh/skills/bring-recipes
 ---

@@ -2,7 +2,7 @@
 name: oc-britebooth-procurement
 version: 1.0.0
 description: Read-only assistant for BriteBooth.com.
-author: lous-creations
+author: luo-kai
 tags: [britebooth-procurement, openclaw, community]
 source: https://clawskills.sh/skills/britebooth-procurement
 ---

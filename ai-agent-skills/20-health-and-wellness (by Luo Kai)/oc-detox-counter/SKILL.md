@@ -2,7 +2,7 @@
 name: oc-detox-counter
 version: 1.0.0
 description: Track any detox with customizable counters, symptom logging.
-author: lous-creations
+author: luo-kai
 tags: [detox-counter, openclaw, community]
 source: https://clawskills.sh/skills/detox-counter
 ---

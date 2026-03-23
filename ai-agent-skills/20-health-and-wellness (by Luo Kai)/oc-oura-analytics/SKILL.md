@@ -2,7 +2,7 @@
 name: oc-oura-analytics
 version: 1.0.0
 description: Oura Ring data integration and analytics.
-author: lous-creations
+author: luo-kai
 tags: [oura-analytics, openclaw, community]
 source: https://clawskills.sh/skills/oura-analytics
 ---

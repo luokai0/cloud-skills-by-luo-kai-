@@ -2,7 +2,7 @@
 name: meteorology-expert
 version: 1.0.0
 description: Expert-level meteorology covering atmospheric dynamics, thermodynamics, synoptic meteorology, mesoscale systems, numerical weather prediction, and climate dynamics.
-author: luokai25
+author: luo-kai
 tags: [meteorology, atmosphere, weather, NWP, climate, thermodynamics]
 ---
 

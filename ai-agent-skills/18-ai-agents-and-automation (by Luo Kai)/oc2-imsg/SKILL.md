@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: imsg
 description: iMessage/SMS CLI for listing chats, history, and sending messages via Messages.app.
 homepage: https://imsg.to

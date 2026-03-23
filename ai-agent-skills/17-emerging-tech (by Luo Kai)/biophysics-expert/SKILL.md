@@ -2,7 +2,7 @@
 name: biophysics-expert
 version: 1.0.0
 description: Expert-level biophysics covering single molecule techniques, membrane biophysics, protein mechanics, motor proteins, ion channels, and biological imaging methods.
-author: luokai25
+author: luo-kai
 tags: [biophysics, single molecule, membrane, protein mechanics, ion channels, imaging]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-ar-filter-generation
 version: 1.0.0
 description: Generate AR filters and face effects using each::sense AI.
-author: lous-creations
+author: luo-kai
 tags: [ar-filter-generation, openclaw, community]
 source: https://clawskills.sh/skills/ar-filter-generation
 ---

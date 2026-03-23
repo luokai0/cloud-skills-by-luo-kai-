@@ -2,7 +2,7 @@
 name: oc-ai-conversation-summary
 version: 1.0.0
 description: Generate summaries for conversation.
-author: lous-creations
+author: luo-kai
 tags: [ai-conversation-summary, openclaw, community]
 source: https://clawskills.sh/skills/ai-conversation-summary
 ---

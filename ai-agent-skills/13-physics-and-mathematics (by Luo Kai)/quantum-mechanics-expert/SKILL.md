@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: quantum-mechanics-expert
 description: Expert-level quantum mechanics knowledge. Use when working with wave functions, Schrodinger equation, quantum states, operators, uncertainty principle, quantum tunneling, spin, angular momentum, perturbation theory, or quantum entanglement. Also use when the user mentions 'wave function', 'Schrodinger', 'Heisenberg', 'quantum state', 'eigenvalue', 'superposition', 'tunneling', 'spin', 'Hilbert space', 'Dirac notation', 'commutator', or 'quantum measurement'.
 license: MIT

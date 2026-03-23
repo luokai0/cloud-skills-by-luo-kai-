@@ -2,7 +2,7 @@
 name: oc-analytics-and-advisory-intelligence
 version: 1.0.0
 description: Cross-client analytics for Greek accounting firms.
-author: lous-creations
+author: luo-kai
 tags: [analytics-and-advisory-intelligence, openclaw, community]
 source: https://clawskills.sh/skills/analytics-and-advisory-intelligence
 ---

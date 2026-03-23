@@ -2,7 +2,7 @@
 name: embedded-systems
 version: 1.0.0
 description: Use when developing firmware for resource-constrained microcontrollers, implementing RTOS-based applications, or optimizing real-time systems where hardware constraints, latency guarantees, and rel...
-author: lous-creations
+author: luo-kai
 tags: [embedded,-systems]
 ---
 

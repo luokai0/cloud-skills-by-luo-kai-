@@ -2,7 +2,7 @@
 name: azure-infra-engineer
 version: 1.0.0
 description: Use when designing, deploying, or managing Azure infrastructure with focus on network architecture, Entra ID integration, PowerShell automation, and Bicep IaC.
-author: lous-creations
+author: luo-kai
 tags: [azure,-infra,-engineer]
 ---
 

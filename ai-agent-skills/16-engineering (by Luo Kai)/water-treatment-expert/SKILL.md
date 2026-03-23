@@ -2,7 +2,7 @@
 name: water-treatment-expert
 version: 1.0.0
 description: Expert-level water treatment covering drinking water treatment, wastewater treatment, industrial water systems, membrane processes, and water reuse.
-author: luokai25
+author: luo-kai
 tags: [water treatment, drinking water, wastewater, membranes, disinfection, water reuse]
 ---
 

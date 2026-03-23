@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: rust-expert
 description: Expert-level Rust programming. Use when writing Rust code, working with the borrow checker, lifetimes, ownership, traits, async Rust, error handling with Result/Option, cargo, crates, unsafe code, or systems-level Rust. Also use when the user mentions 'borrow checker', 'lifetime', 'ownership', 'cargo', 'trait', 'impl', 'clippy', 'unsafe', 'tokio', or 'Rust compile error'.
 license: MIT

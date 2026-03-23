@@ -2,7 +2,7 @@
 name: it-ops-orchestrator
 version: 1.0.0
 description: Use for orchestrating complex IT operations tasks that span multiple domains (PowerShell automation, .NET development, infrastructure management, Azure, M365) by intelligently routing work to speci...
-author: lous-creations
+author: luo-kai
 tags: [it,-ops,-orchestrator]
 ---
 

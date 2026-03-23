@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: polymer-chemistry-expert
 description: Expert-level polymer chemistry knowledge. Use when working with polymerization mechanisms, polymer structure, molecular weight, mechanical properties, thermal analysis, rubber elasticity, polymer processing, or biopolymers. Also use when the user mentions 'polymerization', 'monomer', 'molecular weight', 'glass transition', 'crystallinity', 'elastomer', 'thermoplastic', 'thermoset', 'chain growth', 'step growth', 'living polymerization', or 'polymer blend'.
 license: MIT

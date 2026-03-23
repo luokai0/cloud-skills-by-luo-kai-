@@ -2,7 +2,7 @@
 name: environmental-remediation-expert
 version: 1.0.0
 description: Expert-level environmental remediation covering site characterization, risk assessment, remediation technology selection, in-situ and ex-situ treatment, and regulatory closure.
-author: luokai25
+author: luo-kai
 tags: [remediation, site characterization, risk assessment, in-situ treatment, contaminated sites]
 ---
 

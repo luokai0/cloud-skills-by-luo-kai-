@@ -2,7 +2,7 @@
 name: oc-feast
 version: 1.0.0
 description: Comprehensive meal planning system with cultural themes, authentic recipes,.
-author: lous-creations
+author: luo-kai
 tags: [feast, openclaw, community]
 source: https://clawskills.sh/skills/feast
 ---

@@ -2,7 +2,7 @@
 name: oc-rv-measure
 version: 1.0.0
 description: Quantifies R_V contraction signatures in AI models.
-author: lous-creations
+author: luo-kai
 tags: [rv-measure, openclaw, community]
 source: https://clawskills.sh/skills/rv-measure
 ---

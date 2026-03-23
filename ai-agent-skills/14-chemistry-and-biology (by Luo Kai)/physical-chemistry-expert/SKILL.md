@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: physical-chemistry-expert
 description: Expert-level physical chemistry knowledge. Use when working with thermodynamics, chemical kinetics, quantum chemistry, statistical mechanics, spectroscopy, electrochemistry, or surface chemistry. Also use when the user mentions 'Gibbs energy', 'equilibrium constant', 'reaction kinetics', 'rate law', 'activation energy', 'Arrhenius', 'partition function', 'Schrodinger equation', 'molecular orbital', 'electrochemistry', 'Nernst equation', or 'surface adsorption'.
 license: MIT

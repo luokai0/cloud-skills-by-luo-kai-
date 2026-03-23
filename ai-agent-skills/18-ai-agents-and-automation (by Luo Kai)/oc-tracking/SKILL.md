@@ -2,7 +2,7 @@
 name: oc-tracking
 version: 1.0.0
 description: Track tokens on Base chain via GMGN.AI.
-author: lous-creations
+author: luo-kai
 tags: [tracking, openclaw, community]
 source: https://clawskills.sh/skills/tracking
 ---

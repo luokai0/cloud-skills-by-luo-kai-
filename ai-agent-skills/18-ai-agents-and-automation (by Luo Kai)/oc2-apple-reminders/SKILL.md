@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: apple-reminders
 description: Manage Apple Reminders via remindctl CLI (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output.
 homepage: https://github.com/steipete/remindctl

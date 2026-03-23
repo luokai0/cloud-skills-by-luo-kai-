@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: csharp-expert
 description: Expert-level C# and .NET programming. Use when writing C# code, working with LINQ, async/await, ASP.NET Core, Entity Framework, or building .NET applications.
 license: MIT

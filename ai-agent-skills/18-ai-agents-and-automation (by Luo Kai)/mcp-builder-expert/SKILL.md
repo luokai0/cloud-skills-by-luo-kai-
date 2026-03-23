@@ -2,7 +2,7 @@
 name: mcp-builder-expert
 version: 1.0.0
 description: Build Model Context Protocol servers to connect any API or service to any AI agent. Covers TypeScript and Python implementations, tool design, authentication, deployment, and publishing to MCP registries.
-author: lous-creations
+author: luo-kai
 tags: [mcp, tools, api, integration, agents, typescript, python]
 ---
 

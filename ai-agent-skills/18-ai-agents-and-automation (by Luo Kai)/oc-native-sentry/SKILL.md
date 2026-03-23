@@ -2,7 +2,7 @@
 name: oc-native-sentry
 version: 1.0.0
 description: Read Sentry issues, events, and production errors via the Sentry REST API.
-author: lous-creations
+author: luo-kai
 tags: [native-sentry, openclaw, community]
 source: https://clawskills.sh/skills/native-sentry
 ---

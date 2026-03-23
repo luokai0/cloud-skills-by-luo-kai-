@@ -10,6 +10,7 @@ metadata:
   category: problem-framing
   frameworks: [triple-diamond, lean-startup, design-thinking]
   author: lous-creations
+author: luo-kai
 ---
 # Opportunity Solution Tree
 

@@ -2,7 +2,7 @@
 name: oc-norman-tax-report
 version: 1.0.0
 description: Review and manage German tax reports including VAT (Umsatzsteuer), income tax prepayments, and Finanzamt submissions.
-author: lous-creations
+author: luo-kai
 tags: [norman-tax-report, openclaw, community]
 source: https://clawskills.sh/skills/norman-tax-report
 ---

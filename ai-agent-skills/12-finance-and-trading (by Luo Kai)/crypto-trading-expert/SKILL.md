@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: crypto-trading-expert
 description: Expert-level cryptocurrency trading and DeFi knowledge. Use when working with Bitcoin, Ethereum, altcoins, DeFi protocols, NFTs, on-chain analysis, tokenomics, crypto exchanges, wallets, or blockchain fundamentals. Also use when the user mentions 'Bitcoin', 'Ethereum', 'DeFi', 'NFT', 'wallet', 'gas fees', 'yield farming', 'liquidity pool', 'on-chain', 'tokenomics', 'CEX', 'DEX', or 'crypto portfolio'.
 license: MIT

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: typescript-expert
 description: Expert-level TypeScript. Use when working with TypeScript types, generics, conditional types, mapped types, tsconfig, strict mode, type narrowing, utility types, or migrating JS to TS. Also use when the user mentions 'type error', 'any type', 'generic', 'declaration file', 'tsconfig', 'strict mode', 'type narrowing', or 'utility types'.
 license: MIT

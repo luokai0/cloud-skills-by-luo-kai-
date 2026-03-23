@@ -2,7 +2,7 @@
 name: oc-agentic-paper-digest
 version: 1.0.0
 description: Fetches and summarizes recent arXiv and Hugging.
-author: lous-creations
+author: luo-kai
 tags: [agentic-paper-digest, openclaw, community]
 source: https://clawskills.sh/skills/agentic-paper-digest
 ---

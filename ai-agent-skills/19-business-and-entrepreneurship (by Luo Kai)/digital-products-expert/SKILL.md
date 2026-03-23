@@ -2,7 +2,7 @@
 name: digital-products-expert
 version: 1.0.0
 description: Create and sell digital products for passive income. Covers ebooks, templates, courses, prompt packs, and publishing on Gumroad. Zero-budget path included.
-author: lous-creations
+author: luo-kai
 tags: [digital-products, passive-income, gumroad, ebooks, templates, courses, zero-budget]
 ---
 

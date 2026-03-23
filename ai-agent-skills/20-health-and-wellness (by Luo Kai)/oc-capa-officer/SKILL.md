@@ -2,7 +2,7 @@
 name: oc-capa-officer
 version: 1.0.0
 description: CAPA system management for medical device QMS.
-author: lous-creations
+author: luo-kai
 tags: [capa-officer, openclaw, community]
 source: https://clawskills.sh/skills/capa-officer
 ---

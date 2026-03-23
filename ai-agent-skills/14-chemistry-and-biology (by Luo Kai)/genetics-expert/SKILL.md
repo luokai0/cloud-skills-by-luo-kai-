@@ -2,7 +2,7 @@
 name: genetics-expert
 version: 1.0.0
 description: Expert-level genetics covering Mendelian inheritance, molecular genetics, mutations, linkage analysis, population genetics, epigenetics, and GWAS. Covers classical and modern approaches from Mendel to CRISPR.
-author: luokai25
+author: luo-kai
 tags: [genetics, biology, inheritance, DNA, mutations, genomics]
 ---
 

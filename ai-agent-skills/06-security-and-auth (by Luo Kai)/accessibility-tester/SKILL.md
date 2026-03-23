@@ -2,7 +2,7 @@
 name: accessibility-tester
 version: 1.0.0
 description: Use this agent when you need comprehensive accessibility testing, WCAG compliance verification, or assessment of assistive technology support.
-author: lous-creations
+author: luo-kai
 tags: [accessibility,-tester]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-screen-vision
 version: 1.0.0
 description: macOS Local OCR & Automation Tool using Vision Framework.
-author: lous-creations
+author: luo-kai
 tags: [screen-vision, openclaw, community]
 source: https://clawskills.sh/skills/screen-vision
 ---

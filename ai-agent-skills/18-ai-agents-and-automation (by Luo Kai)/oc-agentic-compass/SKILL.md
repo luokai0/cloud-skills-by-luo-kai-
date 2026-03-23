@@ -2,7 +2,7 @@
 name: oc-agentic-compass
 version: 1.0.0
 description: Local-only self-reflection that forces action for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [agentic-compass, openclaw, community]
 source: https://clawskills.sh/skills/agentic-compass
 ---

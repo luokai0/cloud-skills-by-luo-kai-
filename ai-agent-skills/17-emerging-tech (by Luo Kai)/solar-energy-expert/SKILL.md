@@ -2,7 +2,7 @@
 name: solar-energy-expert
 version: 1.0.0
 description: Expert-level solar energy covering photovoltaic physics, solar cell technologies, system design, grid integration, solar thermal, and the economics of solar deployment.
-author: luokai25
+author: luo-kai
 tags: [solar energy, photovoltaics, solar cells, PV systems, grid integration]
 ---
 

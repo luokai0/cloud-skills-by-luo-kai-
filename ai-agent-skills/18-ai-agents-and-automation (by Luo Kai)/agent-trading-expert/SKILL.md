@@ -2,7 +2,7 @@
 name: agent-trading-expert
 version: 1.0.0
 description: Design and run autonomous trading agent pipelines. Covers Polymarket prediction markets, CEX momentum strategies, DeFi yield farming, on-chain research, and safe paper trading setup. Zero to live trading workflow with full safety protocol.
-author: lous-creations
+author: luo-kai
 tags: [trading, crypto, polymarket, defi, automation, agents, bitget]
 ---
 

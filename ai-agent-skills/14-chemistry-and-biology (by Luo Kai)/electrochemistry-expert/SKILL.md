@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: electrochemistry-expert
 description: Expert-level electrochemistry knowledge. Use when working with electrochemical cells, electrode potentials, Nernst equation, electrolysis, batteries, fuel cells, corrosion, electroplating, or electroanalytical methods. Also use when the user mentions 'galvanic cell', 'electrolytic cell', 'electrode potential', 'Nernst equation', 'overpotential', 'Butler-Volmer', 'battery', 'fuel cell', 'corrosion', 'electroplating', 'cyclic voltammetry', or 'impedance spectroscopy'.
 license: MIT

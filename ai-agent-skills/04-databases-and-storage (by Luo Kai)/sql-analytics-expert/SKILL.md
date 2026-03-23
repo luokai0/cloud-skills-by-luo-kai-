@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: sql-analytics
 description: Expert-level SQL for analytics and business intelligence. Use when writing complex analytical SQL, window functions, CTEs, cohort analysis, funnel queries, time-series analysis, or working with BI tools (Looker, Metabase, Superset). Also use when the user mentions 'window function', 'cohort analysis', 'funnel query', 'ROLLUP', 'CUBE', 'retention', 'analytics SQL', 'time series', or 'sessionization'.
 license: MIT

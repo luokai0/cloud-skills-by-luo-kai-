@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: react-expert
 description: Expert-level React development. Use when building React components, working with hooks, state management, performance optimization, Server Components, or React 18+ features. Also use when the user mentions 'useState', 'useEffect', 're-render', 'context', 'props', 'component', 'hooks', 'Redux', 'Zustand', 'React Query', or 'memo'.
 license: MIT

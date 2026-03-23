@@ -2,7 +2,7 @@
 name: oc-outlit-mcp
 version: 1.0.0
 description: Use when querying Outlit customer data via MCP tools (outlit_*)
-author: lous-creations
+author: luo-kai
 tags: [outlit-mcp, openclaw, community]
 source: https://clawskills.sh/skills/outlit-mcp
 ---

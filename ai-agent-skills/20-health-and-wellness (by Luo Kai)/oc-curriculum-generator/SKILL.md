@@ -2,7 +2,7 @@
 name: oc-curriculum-generator
 version: 1.0.0
 description: Intelligent educational curriculum generation system with strict step enforcement and human escalation policies.
-author: lous-creations
+author: luo-kai
 tags: [curriculum-generator, openclaw, community]
 source: https://clawskills.sh/skills/curriculum-generator
 ---

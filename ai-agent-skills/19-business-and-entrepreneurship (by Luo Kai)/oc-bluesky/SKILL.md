@@ -2,7 +2,7 @@
 name: oc-bluesky
 version: 1.0.0
 description: Complete Bluesky CLI: post, reply, like, repost, follow, block, mute, search,.
-author: lous-creations
+author: luo-kai
 tags: [bluesky, openclaw, community]
 source: https://clawskills.sh/skills/bluesky
 ---

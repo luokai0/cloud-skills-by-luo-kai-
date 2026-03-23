@@ -2,7 +2,7 @@
 name: oc-bearblog
 version: 1.0.0
 description: Create and manage blog posts on Bear Blog (bearblog.dev).
-author: lous-creations
+author: luo-kai
 tags: [bearblog, openclaw, community]
 source: https://clawskills.sh/skills/bearblog
 ---

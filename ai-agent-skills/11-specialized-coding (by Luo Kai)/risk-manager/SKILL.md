@@ -2,7 +2,7 @@
 name: risk-manager
 version: 1.0.0
 description: Use this agent when you need to identify, quantify, and mitigate enterprise-level risks across financial, operational, regulatory, and strategic domains. Invoke this agent when you need to assess r...
-author: lous-creations
+author: luo-kai
 tags: [risk,-manager]
 ---
 

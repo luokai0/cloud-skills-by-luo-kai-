@@ -2,7 +2,7 @@
 name: oc-openseti-skill
 version: 1.0.0
 description: Distributed SETI scanner - contribute compute power to analyze real radio telescope data from Breakthrough Listen.
-author: lous-creations
+author: luo-kai
 tags: [openseti-skill, openclaw, community]
 source: https://clawskills.sh/skills/openseti-skill
 ---

@@ -2,7 +2,7 @@
 name: geophysics-expert
 version: 1.0.0
 description: Expert-level geophysics covering seismic methods, gravity and magnetics, electromagnetic methods, heat flow, Earth structure, and exploration geophysics.
-author: luokai25
+author: luo-kai
 tags: [geophysics, seismic, gravity, electromagnetics, Earth structure]
 ---
 

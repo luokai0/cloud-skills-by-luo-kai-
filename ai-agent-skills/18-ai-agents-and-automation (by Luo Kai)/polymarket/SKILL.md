@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: Vincent - Polymarket for agents
 description: |
   Polymarket prediction market trading for agents. Use this skill when users want to create a
@@ -8,7 +8,7 @@ description: |
   "polymarket wallet", "betting", "market odds".
 allowed-tools: Read, Write, Bash(npx:@vincentai/cli*)
 version: 1.0.0
-author: HeyVincent <contact@heyvincent.ai>
+author: luo-kai
 license: MIT
 homepage: https://heyvincent.ai
 source: https://github.com/HeyVincent-ai/Vincent

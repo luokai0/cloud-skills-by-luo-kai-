@@ -2,7 +2,7 @@
 name: data-engineer
 version: 1.0.0
 description: Use this agent when you need to design, build, or optimize data pipelines, ETL/ELT processes, and data infrastructure. Invoke when designing data platforms, implementing pipeline orchestration, han...
-author: lous-creations
+author: luo-kai
 tags: [data,-engineer]
 ---
 

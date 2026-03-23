@@ -2,7 +2,7 @@
 name: oc-heartbeat-checklist
 version: 1.0.0
 description: Run these checks periodically (2-4x daily).
-author: lous-creations
+author: luo-kai
 tags: [heartbeat-checklist, openclaw, community]
 source: https://clawskills.sh/skills/heartbeat-checklist
 ---

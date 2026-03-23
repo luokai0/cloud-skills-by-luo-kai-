@@ -2,7 +2,7 @@
 name: oc-agent-deep-research
 version: 1.0.0
 description: Autonomous deep research powered by Google Gemini.
-author: lous-creations
+author: luo-kai
 tags: [agent-deep-research, openclaw, community]
 source: https://clawskills.sh/skills/agent-deep-research
 ---

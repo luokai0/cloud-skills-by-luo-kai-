@@ -2,7 +2,7 @@
 name: oc-voice-recognition
 version: 1.0.0
 description: Local speech-to-text with OpenAI Whisper CLI.
-author: lous-creations
+author: luo-kai
 tags: [voice-recognition, openclaw, community]
 source: https://clawskills.sh/skills/voice-recognition
 ---

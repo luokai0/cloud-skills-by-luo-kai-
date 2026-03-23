@@ -2,7 +2,7 @@
 name: oc-norman-overdue-reminders
 version: 1.0.0
 description: Find overdue invoices and send payment reminders (Zahlungserinnerungen / Mahnungen) to clients.
-author: lous-creations
+author: luo-kai
 tags: [norman-overdue-reminders, openclaw, community]
 source: https://clawskills.sh/skills/norman-overdue-reminders
 ---

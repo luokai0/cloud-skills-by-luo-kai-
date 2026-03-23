@@ -2,7 +2,7 @@
 name: physiology-expert
 version: 1.0.0
 description: Expert-level physiology covering organ system function, homeostasis, cardiovascular physiology, respiratory physiology, renal physiology, endocrinology, and integrative physiology.
-author: luokai25
+author: luo-kai
 tags: [physiology, homeostasis, cardiovascular, respiratory, renal, endocrinology]
 ---
 

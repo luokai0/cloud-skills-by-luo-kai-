@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: open-source-expert
 description: Expert-level open source. Use when setting up OSS projects, README, CONTRIBUTING, changelogs, semantic versioning, GitHub Actions releases, or community building.
 license: MIT

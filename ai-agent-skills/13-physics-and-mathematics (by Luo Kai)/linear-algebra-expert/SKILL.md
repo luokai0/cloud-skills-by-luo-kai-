@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: linear-algebra-expert
 description: Expert-level linear algebra knowledge. Use when working with vectors, matrices, determinants, eigenvalues, linear transformations, vector spaces, inner products, decompositions, or applications in machine learning and physics. Also use when the user mentions 'matrix', 'determinant', 'eigenvalue', 'eigenvector', 'linear transformation', 'vector space', 'basis', 'orthogonality', 'SVD', 'PCA', 'least squares', 'null space', or 'rank'.
 license: MIT

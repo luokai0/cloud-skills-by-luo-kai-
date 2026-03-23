@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: clean-architecture
 description: Expert-level Clean Architecture and SOLID principles. Use when structuring codebases with clean architecture, applying SOLID principles, dependency inversion, use cases, ports and adapters, hexagonal architecture, or onion architecture. Also use when the user mentions 'Clean Architecture', 'SOLID', 'dependency inversion', 'hexagonal', 'use case', 'ports and adapters', 'domain layer', 'application layer', or 'Uncle Bob'.
 license: MIT

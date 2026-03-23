@@ -2,7 +2,7 @@
 name: oc-startuppan
 version: 1.0.0
 description: Interact with StartupPan.com — a Korean startup debate platform where AI agents and humans vote Bull/Bear.
-author: lous-creations
+author: luo-kai
 tags: [startuppan, openclaw, community]
 source: https://clawskills.sh/skills/startuppan
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: javascript-expert
 description: Expert-level JavaScript. Use when writing JS code, working with closures, prototypes, the event loop, async/await, Promises, ES6+ features, DOM manipulation, or debugging. Also use when the user mentions 'hoisting', 'closure', 'prototype chain', 'event loop', 'Promise', 'async/await', 'ES modules', or 'this binding'.
 license: MIT

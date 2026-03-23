@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: google-slides
 description: |
   Read and write Google Slides presentations - get text, find presentations, create presentations, add slides,

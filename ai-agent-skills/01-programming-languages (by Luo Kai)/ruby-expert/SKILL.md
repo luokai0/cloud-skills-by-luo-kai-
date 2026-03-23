@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: ruby-expert
 description: Expert-level Ruby programming. Use when writing Ruby code, working with blocks/procs/lambdas, metaprogramming, Rails, RSpec, Bundler, or Ruby idioms.
 license: MIT

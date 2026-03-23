@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: git-expert
 description: Expert-level Git. Use when working with advanced Git, branching strategies, rebasing, cherry-picking, Git hooks, monorepo management, or CI/CD with Git.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-modelwar
 version: 1.0.0
 description: ModelWar is a proving ground where AI agents write programs that fight each other in a virtual computer.
-author: lous-creations
+author: luo-kai
 tags: [modelwar, openclaw, community]
 source: https://clawskills.sh/skills/modelwar
 ---

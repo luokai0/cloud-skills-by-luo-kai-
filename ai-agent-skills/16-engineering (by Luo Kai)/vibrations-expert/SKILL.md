@@ -2,7 +2,7 @@
 name: vibrations-expert
 version: 1.0.0
 description: Expert-level mechanical vibrations covering free and forced vibration, damping, resonance, modal analysis, vibration isolation, and rotating machinery.
-author: luokai25
+author: luo-kai
 tags: [vibrations, resonance, modal analysis, damping, rotating machinery, vibration isolation]
 ---
 

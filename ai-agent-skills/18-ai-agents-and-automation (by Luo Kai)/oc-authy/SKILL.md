@@ -2,7 +2,7 @@
 name: oc-authy
 version: 1.0.0
 description: Inject secrets into subprocesses via environment variables.
-author: lous-creations
+author: luo-kai
 tags: [authy, openclaw, community]
 source: https://clawskills.sh/skills/authy
 ---

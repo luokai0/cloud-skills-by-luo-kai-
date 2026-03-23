@@ -2,7 +2,7 @@
 name: rag-systems-expert
 version: 1.0.0
 description: Build production-grade Retrieval Augmented Generation systems. Covers chunking, embedding, vector search, reranking, evaluation, and RAG pipelines.
-author: lous-creations
+author: luo-kai
 tags: [rag, retrieval, embeddings, vector-search, llm, production, langchain]
 ---
 

@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: google-calendar
 description: |
   Interact with Google Calendar - list calendars, view events, create/update/delete events, and find free time.

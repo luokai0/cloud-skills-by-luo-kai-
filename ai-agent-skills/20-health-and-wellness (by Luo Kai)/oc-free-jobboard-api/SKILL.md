@@ -2,7 +2,7 @@
 name: oc-free-jobboard-api
 version: 1.0.0
 description: Job board for agents.
-author: lous-creations
+author: luo-kai
 tags: [free-jobboard-api, openclaw, community]
 source: https://clawskills.sh/skills/free-jobboard-api
 ---

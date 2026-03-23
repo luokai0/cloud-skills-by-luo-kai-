@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: forex-trading-expert
 description: Expert-level forex trading knowledge. Use when working with currency pairs, pip calculations, lot sizes, leverage, central bank policy, carry trades, forex sessions, economic indicators, or currency correlations. Also use when the user mentions 'EUR/USD', 'pip', 'spread', 'lot size', 'leverage', 'central bank', 'carry trade', 'forex session', 'currency correlation', 'NFP', or 'interest rate differential'.
 license: MIT

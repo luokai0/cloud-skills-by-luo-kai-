@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: inorganic-chemistry-expert
 description: Expert-level inorganic chemistry knowledge. Use when working with coordination chemistry, transition metals, crystal field theory, organometallics, main group chemistry, solid state chemistry, acid-base theory, or inorganic reaction mechanisms. Also use when the user mentions 'coordination complex', 'ligand', 'crystal field', 'transition metal', 'oxidation state', 'organometallic', 'Lewis acid', 'VSEPR', 'symmetry', 'point group', 'solid state', or 'catalysis'.
 license: MIT

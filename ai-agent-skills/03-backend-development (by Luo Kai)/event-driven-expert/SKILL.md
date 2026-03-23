@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: event-driven-expert
 description: Expert-level event-driven architecture. Use when designing event-driven systems, working with Kafka, RabbitMQ, AWS SQS/SNS, event sourcing, CQRS, pub/sub patterns, event schema design, or async workflows. Also use when the user mentions 'event-driven', 'Kafka', 'message queue', 'event sourcing', 'outbox pattern', 'pub/sub', 'consumer group', 'dead letter queue', or 'async workflow'.
 license: MIT

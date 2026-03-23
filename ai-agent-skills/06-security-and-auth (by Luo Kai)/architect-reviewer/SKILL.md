@@ -2,7 +2,7 @@
 name: architect-reviewer
 version: 1.0.0
 description: Use this agent when you need to evaluate system design decisions, architectural patterns, and technology choices at the macro level.
-author: lous-creations
+author: luo-kai
 tags: [architect,-reviewer]
 ---
 

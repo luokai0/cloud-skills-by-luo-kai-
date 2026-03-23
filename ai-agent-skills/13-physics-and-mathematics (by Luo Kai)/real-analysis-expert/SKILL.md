@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: real-analysis-expert
 description: Expert-level real analysis knowledge. Use when working with limits, continuity, differentiability, Riemann and Lebesgue integration, sequences and series of functions, metric spaces, measure theory, or functional analysis foundations. Also use when the user mentions 'epsilon-delta', 'uniform continuity', 'uniform convergence', 'Lebesgue integral', 'measure theory', 'sigma-algebra', 'Banach space', 'Hilbert space', 'completeness', 'compactness', 'Heine-Borel', or 'dominated convergence'.
 license: MIT

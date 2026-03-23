@@ -2,7 +2,7 @@
 name: oc-fasting-tracker
 version: 1.0.0
 description: Track intermittent fasting windows, extended fasts.
-author: lous-creations
+author: luo-kai
 tags: [fasting-tracker, openclaw, community]
 source: https://clawskills.sh/skills/fasting-tracker
 ---

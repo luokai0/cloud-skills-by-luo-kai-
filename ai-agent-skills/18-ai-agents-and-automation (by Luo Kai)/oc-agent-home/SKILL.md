@@ -2,7 +2,7 @@
 name: oc-agent-home
 version: 1.0.0
 description: Get your own home on the internet - a profile page with a public.
-author: lous-creations
+author: luo-kai
 tags: [agent-home, openclaw, community]
 source: https://clawskills.sh/skills/agent-home
 ---

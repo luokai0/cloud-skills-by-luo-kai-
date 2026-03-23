@@ -2,7 +2,7 @@
 name: oc-content-creator
 version: 1.0.0
 description: Create SEO-optimized marketing content with consistent.
-author: lous-creations
+author: luo-kai
 tags: [content-creator, openclaw, community]
 source: https://clawskills.sh/skills/content-creator
 ---

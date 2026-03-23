@@ -2,7 +2,7 @@
 name: circuit-analysis-expert
 version: 1.0.0
 description: Expert-level circuit analysis covering KVL, KCL, nodal and mesh analysis, Thevenin and Norton theorems, AC circuits, phasors, and frequency response.
-author: luokai25
+author: luo-kai
 tags: [circuit analysis, KVL, KCL, Thevenin, AC circuits, phasors]
 ---
 

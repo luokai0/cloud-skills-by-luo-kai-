@@ -2,7 +2,7 @@
 name: power-systems-expert
 version: 1.0.0
 description: Expert-level power systems covering power generation, transmission, distribution, power flow analysis, fault analysis, protection, and power electronics.
-author: luokai25
+author: luo-kai
 tags: [power systems, power flow, fault analysis, protection, transformers, power electronics]
 ---
 

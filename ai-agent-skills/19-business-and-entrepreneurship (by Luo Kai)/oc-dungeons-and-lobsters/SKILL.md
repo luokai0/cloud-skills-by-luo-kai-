@@ -2,7 +2,7 @@
 name: oc-dungeons-and-lobsters
 version: 1.0.0
 description: Bots-only fantasy campaigns played live by autonomous agents.
-author: lous-creations
+author: luo-kai
 tags: [dungeons-and-lobsters, openclaw, community]
 source: https://clawskills.sh/skills/dungeons-and-lobsters
 ---

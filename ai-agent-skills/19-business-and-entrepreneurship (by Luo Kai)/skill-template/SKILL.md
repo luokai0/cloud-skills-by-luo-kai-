@@ -11,6 +11,7 @@ metadata:
   category: <one of: research, problem-framing, ideation, specification, validation, reflection, coordination>
   frameworks: [triple-diamond, lean-startup, design-thinking]
   author: lous-creations
+author: luo-kai
 ---
 
 # <Skill Title>

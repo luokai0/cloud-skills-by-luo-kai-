@@ -2,7 +2,7 @@
 name: cloud-architect
 version: 1.0.0
 description: Use this agent when you need to design, evaluate, or optimize cloud infrastructure architecture at scale. Invoke when designing multi-cloud strategies, planning cloud migrations, implementing disas...
-author: lous-creations
+author: luo-kai
 tags: [cloud,-architect]
 ---
 

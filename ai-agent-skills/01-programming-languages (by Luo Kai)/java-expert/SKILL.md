@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: java-expert
 description: Expert-level Java programming. Use when writing Java code, working with generics, streams, lambdas, concurrency, JVM tuning, Spring, Maven/Gradle, or Java 17+ features.
 license: MIT

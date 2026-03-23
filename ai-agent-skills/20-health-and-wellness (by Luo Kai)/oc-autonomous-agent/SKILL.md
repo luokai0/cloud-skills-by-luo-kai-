@@ -2,7 +2,7 @@
 name: oc-autonomous-agent
 version: 1.0.0
 description: CornerStone MCP x402 skill for agents.
-author: lous-creations
+author: luo-kai
 tags: [autonomous-agent, openclaw, community]
 source: https://clawskills.sh/skills/autonomous-agent
 ---

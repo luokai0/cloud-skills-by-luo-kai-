@@ -2,7 +2,7 @@
 name: nanotechnology-expert
 version: 1.0.0
 description: Expert-level nanotechnology covering nanomaterials, nanofabrication, characterization methods, nanoelectronics, nanomedicine, and self-assembly.
-author: luokai25
+author: luo-kai
 tags: [nanotechnology, nanomaterials, nanofabrication, nanoelectronics, nanomedicine]
 ---
 

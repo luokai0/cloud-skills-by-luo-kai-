@@ -2,7 +2,7 @@
 name: research-analyst
 version: 1.0.0
 description: Use this agent when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detailed reporting.
-author: lous-creations
+author: luo-kai
 tags: [research,-analyst]
 ---
 

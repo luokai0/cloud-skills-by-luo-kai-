@@ -2,7 +2,7 @@
 name: formal-methods-expert
 version: 1.0.0
 description: Expert-level formal methods covering formal specification, model checking, theorem proving, type theory, program verification, and formal languages.
-author: luokai25
+author: luo-kai
 tags: [formal methods, verification, model checking, type theory, Coq, TLA+]
 ---
 

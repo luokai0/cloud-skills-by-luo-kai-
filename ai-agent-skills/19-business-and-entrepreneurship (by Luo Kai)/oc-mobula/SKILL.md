@@ -2,7 +2,7 @@
 name: oc-mobula
 version: 1.0.0
 description: Real-time crypto market data, wallet portfolio tracking, and token analytics across 88+ blockchains.
-author: lous-creations
+author: luo-kai
 tags: [mobula, openclaw, community]
 source: https://clawskills.sh/skills/mobula
 ---

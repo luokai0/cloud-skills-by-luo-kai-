@@ -2,7 +2,7 @@
 name: oc-phone-caller
 version: 1.0.0
 description: Make AI-powered outbound phone calls using ElevenLabs voice + GPT brain + Twilio.
-author: lous-creations
+author: luo-kai
 tags: [phone-caller, openclaw, community]
 source: https://clawskills.sh/skills/phone-caller
 ---

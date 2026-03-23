@@ -2,7 +2,7 @@
 name: knowledge-synthesizer
 version: 1.0.0
 description: Use when you need to extract actionable patterns from agent interactions, synthesize insights across multiple workflows, and enable organizational learning from collective experience.
-author: lous-creations
+author: luo-kai
 tags: [knowledge,-synthesizer]
 ---
 

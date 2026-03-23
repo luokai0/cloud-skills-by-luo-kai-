@@ -2,7 +2,7 @@
 name: biochemistry-biology-expert
 version: 1.0.0
 description: Expert-level biochemistry from a biology perspective covering metabolic pathways, enzyme kinetics, bioenergetics, signal transduction, and the biochemical basis of cellular processes.
-author: luokai25
+author: luo-kai
 tags: [biochemistry, metabolism, enzymes, ATP, signal transduction, pathways]
 ---
 

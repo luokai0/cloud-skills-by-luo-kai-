@@ -2,7 +2,7 @@
 name: technical-writer
 version: 1.0.0
 description: Use this agent when you need to create, improve, or maintain technical documentation including API references, user guides, SDK documentation, and getting-started guides.
-author: lous-creations
+author: luo-kai
 tags: [technical,-writer]
 ---
 

@@ -2,7 +2,7 @@
 name: angular-architect
 version: 1.0.0
 description: Use when architecting enterprise Angular 15+ applications with complex state management, optimizing RxJS patterns, designing micro-frontend systems, or solving performance and scalability challenge...
-author: lous-creations
+author: luo-kai
 tags: [angular,-architect]
 ---
 

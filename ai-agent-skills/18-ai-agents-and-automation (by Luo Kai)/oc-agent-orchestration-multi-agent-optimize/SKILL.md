@@ -2,7 +2,7 @@
 name: oc-agent-orchestration-multi-agent-optimize
 version: 1.0.0
 description: Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration.
-author: lous-creations
+author: luo-kai
 tags: [agent-orchestration-multi-agent-optimize, openclaw, community]
 source: https://clawskills.sh/skills/agent-orchestration-multi-agent-optimize
 ---

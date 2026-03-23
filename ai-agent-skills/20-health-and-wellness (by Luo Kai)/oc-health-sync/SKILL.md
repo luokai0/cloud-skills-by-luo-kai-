@@ -2,7 +2,7 @@
 name: oc-health-sync
 version: 1.0.0
 description: Analyze synced health data across Oura, Withings, Hevy, Strava, WHOOP, and Eight Sleep.
-author: lous-creations
+author: luo-kai
 tags: [health-sync, openclaw, community]
 source: https://clawskills.sh/skills/health-sync
 ---

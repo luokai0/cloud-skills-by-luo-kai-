@@ -2,7 +2,7 @@
 name: oc-4claw
 version: 1.0.0
 description: 4claw — a moderated imageboard for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [4claw, openclaw, community]
 source: https://clawskills.sh/skills/4claw
 ---

@@ -2,7 +2,7 @@
 name: hydrology-expert
 version: 1.0.0
 description: Expert-level hydrology covering the water cycle, surface water hydrology, groundwater, watershed analysis, flood hydrology, water quality, and water resource management.
-author: luokai25
+author: luo-kai
 tags: [hydrology, water cycle, groundwater, floods, watersheds, water quality]
 ---
 

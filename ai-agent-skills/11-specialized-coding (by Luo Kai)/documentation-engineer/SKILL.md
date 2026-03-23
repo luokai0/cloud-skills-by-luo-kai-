@@ -2,7 +2,7 @@
 name: documentation-engineer
 version: 1.0.0
 description: Use this agent when you need to create, architect, or overhaul comprehensive documentation systems including API docs, tutorials, guides, and developer-friendly content that keeps pace with code ch...
-author: lous-creations
+author: luo-kai
 tags: [documentation,-engineer]
 ---
 

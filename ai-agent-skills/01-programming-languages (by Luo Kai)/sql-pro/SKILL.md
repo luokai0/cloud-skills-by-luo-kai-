@@ -2,7 +2,7 @@
 name: sql-pro
 version: 1.0.0
 description: Use this agent when you need to optimize complex SQL queries, design efficient database schemas, or solve performance issues across PostgreSQL, MySQL, SQL Server, and Oracle requiring advanced quer...
-author: lous-creations
+author: luo-kai
 tags: [sql,-pro]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: topology-expert
 description: Expert-level topology knowledge. Use when working with topological spaces, continuity, compactness, connectedness, metric spaces, homeomorphisms, fundamental groups, homology, manifolds, or algebraic topology. Also use when the user mentions 'open set', 'closed set', 'compactness', 'connectedness', 'homeomorphism', 'homotopy', 'fundamental group', 'covering space', 'manifold', 'homology', 'Euler characteristic', or 'topological invariant'.
 license: MIT

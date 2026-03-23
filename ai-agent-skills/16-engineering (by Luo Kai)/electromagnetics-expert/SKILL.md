@@ -2,7 +2,7 @@
 name: electromagnetics-expert
 version: 1.0.0
 description: Expert-level applied electromagnetics covering transmission lines, waveguides, antennas, microwave circuits, EMC, and computational EM methods.
-author: luokai25
+author: luo-kai
 tags: [electromagnetics, transmission lines, antennas, microwave, waveguides, EMC]
 ---
 

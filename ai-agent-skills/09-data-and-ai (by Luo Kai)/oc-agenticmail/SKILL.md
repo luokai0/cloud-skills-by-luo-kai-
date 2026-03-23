@@ -2,7 +2,7 @@
 name: oc-agenticmail
 version: 1.0.0
 description: 🎀 AgenticMail — Full email, SMS, storage & multi-agent coordination for AI agents. 63 tools.
-author: lous-creations
+author: luo-kai
 tags: [agenticmail, openclaw, community]
 source: https://clawskills.sh/skills/agenticmail
 ---

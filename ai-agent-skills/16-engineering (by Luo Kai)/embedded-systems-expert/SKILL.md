@@ -2,7 +2,7 @@
 name: embedded-systems-expert
 version: 1.0.0
 description: Expert-level embedded systems covering microcontrollers, RTOS, peripheral interfaces, low-power design, bare-metal programming, and embedded Linux.
-author: luokai25
+author: luo-kai
 tags: [embedded systems, microcontrollers, RTOS, bare-metal, peripherals, low-power]
 ---
 

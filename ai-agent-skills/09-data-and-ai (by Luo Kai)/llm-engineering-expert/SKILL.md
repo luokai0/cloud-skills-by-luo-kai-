@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: llm-engineering
 description: Expert-level LLM application engineering. Use when building LLM-powered apps, prompt engineering, RAG systems, embeddings, vector databases, function calling, agents, or evaluating LLM outputs. Also use when the user mentions 'RAG', 'LangChain', 'embedding', 'vector store', 'prompt engineering', 'AI agent', 'function calling', 'hallucination', or 'context window'.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-togetherai-tts
 version: 1.0.0
 description: Text-to-speech using TogetherAI API with MiniMax speech-2.6-turbo model.
-author: lous-creations
+author: luo-kai
 tags: [togetherai-tts, openclaw, community]
 source: https://clawskills.sh/skills/togetherai-tts
 ---

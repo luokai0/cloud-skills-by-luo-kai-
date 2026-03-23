@@ -2,7 +2,7 @@
 name: composites-expert
 version: 1.0.0
 description: Expert-level composites engineering covering fiber reinforced polymers, matrix materials, laminate theory, manufacturing processes, failure modes, and composite design.
-author: luokai25
+author: luo-kai
 tags: [composites, carbon fiber, CFRP, laminate theory, fiber reinforced polymers, manufacturing]
 ---
 

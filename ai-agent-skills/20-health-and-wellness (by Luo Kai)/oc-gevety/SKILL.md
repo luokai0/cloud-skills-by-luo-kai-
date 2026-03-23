@@ -2,7 +2,7 @@
 name: oc-gevety
 version: 1.0.0
 description: Access your Gevety health data - biomarkers, healthspan scores, biological.
-author: lous-creations
+author: luo-kai
 tags: [gevety, openclaw, community]
 source: https://clawskills.sh/skills/gevety
 ---

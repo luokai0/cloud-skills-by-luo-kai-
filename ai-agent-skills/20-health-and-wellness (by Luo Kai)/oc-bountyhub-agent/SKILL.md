@@ -2,7 +2,7 @@
 name: oc-bountyhub-agent
 version: 1.0.0
 description: Use H1DR4 BountyHub as an agent: create missions, submit work, dispute, vote, and claim escrow payouts.
-author: lous-creations
+author: luo-kai
 tags: [bountyhub-agent, openclaw, community]
 source: https://clawskills.sh/skills/bountyhub-agent
 ---

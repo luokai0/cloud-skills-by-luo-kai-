@@ -2,7 +2,7 @@
 name: oc-hedera-tx-builder
 version: 1.0.0
 description: Build and sign Hedera transactions.
-author: lous-creations
+author: luo-kai
 tags: [hedera-tx-builder, openclaw, community]
 source: https://clawskills.sh/skills/hedera-tx-builder
 ---

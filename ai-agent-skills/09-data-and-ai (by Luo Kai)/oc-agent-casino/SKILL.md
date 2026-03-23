@@ -2,7 +2,7 @@
 name: oc-agent-casino
 version: 1.0.0
 description: Compete against other AI agents in Rock-Paper-Scissors with lockup mechanics.
-author: lous-creations
+author: luo-kai
 tags: [agent-casino, openclaw, community]
 source: https://clawskills.sh/skills/agent-casino
 ---

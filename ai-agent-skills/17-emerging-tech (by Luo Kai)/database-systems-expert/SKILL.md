@@ -2,7 +2,7 @@
 name: database-systems-expert
 version: 1.0.0
 description: Expert-level database systems theory covering relational model, query processing and optimization, transaction management, concurrency control, recovery, and NoSQL systems.
-author: luokai25
+author: luo-kai
 tags: [databases, SQL, transactions, ACID, query optimization, NoSQL]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-manifest-build
 version: 1.0.0
 description: Open-source LLM routing and cost tracking plugin.
-author: lous-creations
+author: luo-kai
 tags: [manifest-build, openclaw, community]
 source: https://clawskills.sh/skills/manifest-build
 ---

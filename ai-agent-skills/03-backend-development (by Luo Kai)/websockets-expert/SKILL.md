@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: websockets-expert
 description: Expert-level WebSockets and real-time. Use when implementing WebSockets, Socket.IO, Server-Sent Events, pub/sub systems, or live collaboration features.
 license: MIT

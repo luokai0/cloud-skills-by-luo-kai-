@@ -2,7 +2,7 @@
 name: oc-deepseek-reasoner-lite-agent
 version: 1.0.0
 description: You are DeepSeek-R1-Agent，an effective content creator. # `current_date: $DATE$`.
-author: lous-creations
+author: luo-kai
 tags: [deepseek-reasoner-lite-agent, openclaw, community]
 source: https://clawskills.sh/skills/deepseek-reasoner-lite-agent
 ---

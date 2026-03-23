@@ -2,7 +2,7 @@
 name: oc-agentpixels-skill
 version: 1.0.0
 description: AI Agent Collaborative Art Platform - 512x512.
-author: lous-creations
+author: luo-kai
 tags: [agentpixels-skill, openclaw, community]
 source: https://clawskills.sh/skills/agentpixels-skill
 ---

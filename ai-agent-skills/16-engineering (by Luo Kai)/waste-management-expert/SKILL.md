@@ -2,7 +2,7 @@
 name: waste-management-expert
 version: 1.0.0
 description: Expert-level waste management covering solid waste characterization, collection systems, landfill design, composting, waste-to-energy, recycling, and hazardous waste regulations.
-author: luokai25
+author: luo-kai
 tags: [waste management, solid waste, landfill, recycling, composting, hazardous waste]
 ---
 

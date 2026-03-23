@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: molecular-biology-expert
 description: Expert-level molecular biology knowledge. Use when working with DNA replication, transcription, translation, gene regulation, cloning, PCR, sequencing, CRISPR, epigenetics, or molecular techniques. Also use when the user mentions 'DNA replication', 'transcription', 'translation', 'gene expression', 'PCR', 'cloning', 'restriction enzyme', 'gel electrophoresis', 'Western blot', 'CRISPR', 'epigenetics', 'promoter', 'enhancer', or 'RNA splicing'.
 license: MIT

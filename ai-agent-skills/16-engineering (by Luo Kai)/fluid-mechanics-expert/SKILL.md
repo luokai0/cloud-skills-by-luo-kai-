@@ -2,7 +2,7 @@
 name: fluid-mechanics-expert
 version: 1.0.0
 description: Expert-level fluid mechanics covering fluid statics, continuity, Bernoulli, Navier-Stokes, boundary layers, turbulence, pipe flow, and external aerodynamics.
-author: luokai25
+author: luo-kai
 tags: [fluid mechanics, Bernoulli, Navier-Stokes, turbulence, pipe flow, boundary layer]
 ---
 

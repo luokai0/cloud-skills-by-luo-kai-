@@ -2,7 +2,7 @@
 name: safety-engineering-expert
 version: 1.0.0
 description: Expert-level chemical process safety covering HAZOP, LOPA, relief system design, consequence modeling, inherently safer design, and process safety management.
-author: luokai25
+author: luo-kai
 tags: [process safety, HAZOP, LOPA, relief valves, PSM, inherently safer design]
 ---
 

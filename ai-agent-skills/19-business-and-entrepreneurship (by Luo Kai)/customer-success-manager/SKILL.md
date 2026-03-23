@@ -2,7 +2,7 @@
 name: customer-success-manager
 version: 1.0.0
 description: Use this agent when you need to assess customer health, develop retention strategies, identify upsell opportunities, or maximize customer lifetime value. Invoke this agent for account health analys...
-author: lous-creations
+author: luo-kai
 tags: [customer,-success,-manager]
 ---
 

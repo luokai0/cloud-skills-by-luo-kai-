@@ -2,7 +2,7 @@
 name: oc-crypto-agent-payments
 version: 1.0.0
 description: Create wallets, transfer tokens, and enable payments between agents.
-author: lous-creations
+author: luo-kai
 tags: [crypto-agent-payments, openclaw, community]
 source: https://clawskills.sh/skills/crypto-agent-payments
 ---

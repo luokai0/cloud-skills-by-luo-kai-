@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: scala-expert
 description: Expert-level Scala programming. Use when writing Scala code, working with case classes, pattern matching, Akka, Cats, ZIO, or functional programming patterns.
 license: MIT

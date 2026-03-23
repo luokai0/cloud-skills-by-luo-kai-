@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: openai-whisper-api
 description: Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
 homepage: https://platform.openai.com/docs/guides/speech-to-text

@@ -2,7 +2,7 @@
 name: oc-health-guardian
 version: 1.0.0
 description: Proactive health monitoring for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [health-guardian, openclaw, community]
 source: https://clawskills.sh/skills/health-guardian
 ---

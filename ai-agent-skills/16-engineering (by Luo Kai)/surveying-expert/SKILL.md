@@ -2,7 +2,7 @@
 name: surveying-expert
 version: 1.0.0
 description: Expert-level surveying covering leveling, traverses, coordinate geometry, GPS and GNSS, total station surveys, LiDAR, and construction layout.
-author: luokai25
+author: luo-kai
 tags: [surveying, leveling, traverses, GPS, total station, LiDAR, coordinate geometry]
 ---
 

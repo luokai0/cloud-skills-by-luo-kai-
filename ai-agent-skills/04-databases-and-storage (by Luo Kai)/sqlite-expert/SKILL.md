@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: sqlite-expert
 description: Expert-level SQLite. Use when working with SQLite, WAL mode, FTS5 full-text search, JSON functions, virtual tables, or embedding SQLite in apps.
 license: MIT

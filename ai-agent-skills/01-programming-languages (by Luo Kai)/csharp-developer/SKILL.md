@@ -2,7 +2,7 @@
 name: csharp-developer
 version: 1.0.0
 description: Use this agent when building ASP.NET Core web APIs, cloud-native .NET solutions, or modern C# applications requiring async patterns, dependency injection, Entity Framework optimization, and clean a...
-author: lous-creations
+author: luo-kai
 tags: [csharp,-developer]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-bunni-modes
 version: 1.0.0
 description: A persona and model-switching toolkit featuring Bunni, your bubbly cyber-security assistant.
-author: lous-creations
+author: luo-kai
 tags: [bunni-modes, openclaw, community]
 source: https://clawskills.sh/skills/bunni-modes
 ---

@@ -2,7 +2,7 @@
 name: mobile-app-developer
 version: 1.0.0
 description: Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience.
-author: lous-creations
+author: luo-kai
 tags: [mobile,-app,-developer]
 ---
 

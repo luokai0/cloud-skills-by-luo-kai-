@@ -2,7 +2,7 @@
 name: context-manager
 version: 1.0.0
 description: Use for managing shared state, information retrieval, and data synchronization when multiple agents need coordinated access to context and metadata.
-author: lous-creations
+author: luo-kai
 tags: [context,-manager]
 ---
 

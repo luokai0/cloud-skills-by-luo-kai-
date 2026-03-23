@@ -2,7 +2,7 @@
 name: cosmology-expert
 version: 1.0.0
 description: Expert-level cosmology covering the Big Bang, cosmic expansion, dark matter, dark energy, CMB, large-scale structure, and observational cosmology.
-author: luokai25
+author: luo-kai
 tags: [cosmology, Big Bang, dark matter, dark energy, CMB, large-scale structure]
 ---
 

@@ -2,7 +2,7 @@
 name: api-documenter
 version: 1.0.0
 description: Use this agent when creating or improving API documentation, writing OpenAPI specifications, building interactive documentation portals, or generating code examples for APIs.
-author: lous-creations
+author: luo-kai
 tags: [api,-documenter]
 ---
 

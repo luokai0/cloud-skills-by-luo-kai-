@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: organic-chemistry-expert
 description: Expert-level organic chemistry knowledge. Use when working with organic reactions, mechanisms, functional groups, stereochemistry, synthesis planning, spectroscopy, or named reactions. Also use when the user mentions 'organic reaction', 'mechanism', 'functional group', 'stereochemistry', 'synthesis', 'NMR', 'IR spectroscopy', 'SN1', 'SN2', 'elimination', 'addition', 'aromatic', 'carbonyl', or 'named reaction'.
 license: MIT

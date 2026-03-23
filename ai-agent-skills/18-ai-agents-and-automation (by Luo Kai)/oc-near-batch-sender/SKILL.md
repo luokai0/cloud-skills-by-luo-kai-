@@ -2,7 +2,7 @@
 name: oc-near-batch-sender
 version: 1.0.0
 description: Batch operations for NEAR tokens - send to multiple recipients, transfer NFTs, claim rewards with cost estimation.
-author: lous-creations
+author: luo-kai
 tags: [near-batch-sender, openclaw, community]
 source: https://clawskills.sh/skills/near-batch-sender
 ---

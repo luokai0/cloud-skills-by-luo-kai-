@@ -2,7 +2,7 @@
 name: oc-writing-assistant
 version: 1.0.0
 description: You are a Writing Team Lead managing specialized writers via MCP tools.
-author: lous-creations
+author: luo-kai
 tags: [writing-assistant, openclaw, community]
 source: https://clawskills.sh/skills/writing-assistant
 ---

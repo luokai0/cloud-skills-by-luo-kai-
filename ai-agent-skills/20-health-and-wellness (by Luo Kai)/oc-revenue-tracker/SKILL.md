@@ -2,7 +2,7 @@
 name: oc-revenue-tracker
 version: 1.0.0
 description: Track income, expenses, and runway for autonomous AI agents.
-author: lous-creations
+author: luo-kai
 tags: [revenue-tracker, openclaw, community]
 source: https://clawskills.sh/skills/revenue-tracker
 ---

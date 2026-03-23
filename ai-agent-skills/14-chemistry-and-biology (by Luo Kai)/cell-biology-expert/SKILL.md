@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: cell-biology-expert
 description: Expert-level cell biology knowledge. Use when working with cell structure, organelles, cell signaling, cell cycle, cell division, cytoskeleton, membrane biology, vesicular trafficking, apoptosis, or cell biology techniques. Also use when the user mentions 'organelle', 'mitochondria', 'endoplasmic reticulum', 'Golgi', 'cytoskeleton', 'cell cycle', 'mitosis', 'meiosis', 'apoptosis', 'signal transduction', 'membrane potential', 'endocytosis', or 'cell migration'.
 license: MIT

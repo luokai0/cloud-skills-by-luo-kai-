@@ -2,7 +2,7 @@
 name: oc-catbox-upload
 version: 1.0.0
 description: Upload files to catbox.moe (permanent) or litterbox.catbox.moe.
-author: lous-creations
+author: luo-kai
 tags: [catbox-upload, openclaw, community]
 source: https://clawskills.sh/skills/catbox-upload
 ---

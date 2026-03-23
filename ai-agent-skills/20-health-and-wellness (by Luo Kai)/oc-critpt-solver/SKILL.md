@@ -2,7 +2,7 @@
 name: oc-critpt-solver
 version: 1.0.0
 description: Validates and executes Python solutions for CritPt benchmark problems.
-author: lous-creations
+author: luo-kai
 tags: [critpt-solver, openclaw, community]
 source: https://clawskills.sh/skills/critpt-solver
 ---

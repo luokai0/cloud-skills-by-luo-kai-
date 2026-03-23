@@ -2,7 +2,7 @@
 name: oc-agile-product-owner
 version: 1.0.0
 description: Agile product ownership for backlog management.
-author: lous-creations
+author: luo-kai
 tags: [agile-product-owner, openclaw, community]
 source: https://clawskills.sh/skills/agile-product-owner
 ---

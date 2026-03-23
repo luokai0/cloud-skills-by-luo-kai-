@@ -2,7 +2,7 @@
 name: powershell-5.1-expert
 version: 1.0.0
 description: Use when automating Windows infrastructure tasks requiring PowerShell 5.1 scripts with RSAT modules for Active Directory, DNS, DHCP, GPO management, or when building safe, enterprise-grade automati...
-author: lous-creations
+author: luo-kai
 tags: [powershell,-5.1,-expert]
 ---
 

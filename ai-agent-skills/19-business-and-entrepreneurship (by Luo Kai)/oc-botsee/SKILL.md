@@ -2,7 +2,7 @@
 name: oc-botsee
 version: 1.0.0
 description: Monitor your brand's AI visibility via BotSee API.
-author: lous-creations
+author: luo-kai
 tags: [botsee, openclaw, community]
 source: https://clawskills.sh/skills/botsee
 ---

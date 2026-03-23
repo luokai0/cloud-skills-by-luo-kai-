@@ -2,7 +2,7 @@
 name: oc-ai-trend-curation
 version: 1.0.0
 description: Curate and post AI trend tweets from X (Twitter) with quote suggestions.
-author: lous-creations
+author: luo-kai
 tags: [ai-trend-curation, openclaw, community]
 source: https://clawskills.sh/skills/ai-trend-curation
 ---

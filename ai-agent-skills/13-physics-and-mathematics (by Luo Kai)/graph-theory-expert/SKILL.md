@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: graph-theory-expert
 description: Expert-level graph theory knowledge. Use when working with graph algorithms, network flows, matching, graph coloring, planar graphs, spectral graph theory, random graphs, or graph applications in computer science and networks. Also use when the user mentions 'shortest path', 'minimum spanning tree', 'network flow', 'bipartite matching', 'graph coloring', 'clique', 'independent set', 'vertex cover', 'planarity', 'graph isomorphism', 'adjacency matrix', or 'Laplacian'.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-brand-voice-profile
 version: 1.0.0
 description: Define and store your brand voice profile for consistent content generation.
-author: lous-creations
+author: luo-kai
 tags: [brand-voice-profile, openclaw, community]
 source: https://clawskills.sh/skills/brand-voice-profile
 ---

@@ -2,7 +2,7 @@
 name: php-pro
 version: 1.0.0
 description: Use this agent when working with PHP 8.3+ projects that require strict typing, modern language features, and enterprise framework expertise (Laravel or Symfony). Use when building scalable applicat...
-author: lous-creations
+author: luo-kai
 tags: [php,-pro]
 ---
 

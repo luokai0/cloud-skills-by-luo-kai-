@@ -2,7 +2,7 @@
 name: oc-system-health-check
 version: 1.0.0
 description: System health validator — checks skill files, paths, permissions, binaries, backup freshness, and encryption.
-author: lous-creations
+author: luo-kai
 tags: [system-health-check, openclaw, community]
 source: https://clawskills.sh/skills/system-health-check
 ---

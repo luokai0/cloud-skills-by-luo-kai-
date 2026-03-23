@@ -2,7 +2,7 @@
 name: neuroscience-expert
 version: 1.0.0
 description: Expert-level neuroscience covering neuronal physiology, synaptic transmission, brain regions and circuits, neuroplasticity, neurodegenerative diseases, and computational neuroscience.
-author: luokai25
+author: luo-kai
 tags: [neuroscience, neurons, brain, synapses, plasticity, cognition]
 ---
 

@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: Vincent - A wallet for agents
 description: |
   The agent's wallet for EVM chain transactions and raw signing. Use this skill when users want to
@@ -8,7 +8,7 @@ description: |
   "check balance", "EVM wallet", "raw signer", "sign message".
 allowed-tools: Read, Write, Bash(npx:@vincentai/cli*)
 version: 1.0.0
-author: HeyVincent <contact@heyvincent.ai>
+author: luo-kai
 license: MIT
 homepage: https://heyvincent.ai
 source: https://github.com/HeyVincent-ai/Vincent

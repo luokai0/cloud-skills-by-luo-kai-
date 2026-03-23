@@ -2,7 +2,7 @@
 name: product-manager
 version: 1.0.0
 description: Use this agent when you need to make product strategy decisions, prioritize features, or define roadmap plans based on user needs and business goals.
-author: lous-creations
+author: luo-kai
 tags: [product,-manager]
 ---
 

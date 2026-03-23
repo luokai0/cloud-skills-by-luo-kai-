@@ -2,7 +2,7 @@
 name: oc-pancake-skills
 version: 1.0.0
 description: Tương tác với Pancake Platform API để quản lý pages, conversations, messages, customers, statistics, tags, posts.
-author: lous-creations
+author: luo-kai
 tags: [pancake-skills, openclaw, community]
 source: https://clawskills.sh/skills/pancake-skills
 ---

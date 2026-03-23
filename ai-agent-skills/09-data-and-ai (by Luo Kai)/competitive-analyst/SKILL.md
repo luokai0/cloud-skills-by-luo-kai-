@@ -2,7 +2,7 @@
 name: competitive-analyst
 version: 1.0.0
 description: Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and market advantage.
-author: lous-creations
+author: luo-kai
 tags: [competitive,-analyst]
 ---
 

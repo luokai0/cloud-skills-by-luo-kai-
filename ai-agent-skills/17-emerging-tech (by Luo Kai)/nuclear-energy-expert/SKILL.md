@@ -2,7 +2,7 @@
 name: nuclear-energy-expert
 version: 1.0.0
 description: Expert-level nuclear energy covering fission reactor physics, reactor types, safety systems, nuclear fuel cycle, waste management, and advanced reactor concepts.
-author: luokai25
+author: luo-kai
 tags: [nuclear energy, fission, reactor physics, nuclear safety, fuel cycle]
 ---
 

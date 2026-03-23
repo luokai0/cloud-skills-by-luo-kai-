@@ -2,7 +2,7 @@
 name: legacy-modernizer
 version: 1.0.0
 description: Use this agent when modernizing legacy systems that need incremental migration strategies, technical debt reduction, and risk mitigation while maintaining business continuity.
-author: lous-creations
+author: luo-kai
 tags: [legacy,-modernizer]
 ---
 

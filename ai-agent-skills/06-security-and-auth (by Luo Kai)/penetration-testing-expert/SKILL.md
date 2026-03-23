@@ -2,7 +2,7 @@
 name: penetration-testing-expert
 version: 1.0.0
 description: Conduct penetration tests on web apps, APIs, and infrastructure. Covers recon, exploitation techniques, reporting, and defensive recommendations.
-author: lous-creations
+author: luo-kai
 tags: [pentest, security, ethical-hacking, vulnerability, owasp, bug-bounty]
 ---
 

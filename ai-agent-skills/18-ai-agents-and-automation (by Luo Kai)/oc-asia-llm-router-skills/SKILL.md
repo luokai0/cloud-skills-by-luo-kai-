@@ -2,7 +2,7 @@
 name: oc-asia-llm-router-skills
 version: 1.0.0
 description: Unified LLM Gateway - One API for 70+ AI models.
-author: lous-creations
+author: luo-kai
 tags: [asia-llm-router-skills, openclaw, community]
 source: https://clawskills.sh/skills/asia-llm-router-skills
 ---

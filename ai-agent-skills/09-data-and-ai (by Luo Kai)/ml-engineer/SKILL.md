@@ -2,7 +2,7 @@
 name: ml-engineer
 version: 1.0.0
 description: Use this agent when building production ML systems requiring model training pipelines, model serving infrastructure, performance optimization, and automated retraining.
-author: lous-creations
+author: luo-kai
 tags: [ml,-engineer]
 ---
 

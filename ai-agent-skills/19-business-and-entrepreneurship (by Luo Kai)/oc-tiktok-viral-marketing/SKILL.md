@@ -2,7 +2,7 @@
 name: oc-tiktok-viral-marketing
 version: 1.0.0
 description: Hire TikTok creators who specialize in viral content creation, trending challenges, and explosive reach campaigns.
-author: lous-creations
+author: luo-kai
 tags: [tiktok-viral-marketing, openclaw, community]
 source: https://clawskills.sh/skills/tiktok-viral-marketing
 ---

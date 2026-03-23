@@ -2,7 +2,7 @@
 name: microbiology-expert
 version: 1.0.0
 description: Expert-level microbiology covering bacterial and viral biology, microbial physiology, pathogenesis, antimicrobial resistance, microbiome science, and industrial microbiology.
-author: luokai25
+author: luo-kai
 tags: [microbiology, bacteria, viruses, pathogens, microbiome, antibiotics]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-action-suggester
 version: 1.0.0
 description: Generate non-binding follow-up action suggestions from lead summaries or lead lists.
-author: lous-creations
+author: luo-kai
 tags: [action-suggester, openclaw, community]
 source: https://clawskills.sh/skills/action-suggester
 ---

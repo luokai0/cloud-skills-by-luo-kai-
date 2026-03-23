@@ -2,7 +2,7 @@
 name: oc-meta-tags-optimizer
 version: 1.0.0
 description: Use when the user asks to "optimize title tag", "write meta description", "improve CTR", "Open Graph tags", "social.
-author: lous-creations
+author: luo-kai
 tags: [meta-tags-optimizer, openclaw, community]
 source: https://clawskills.sh/skills/meta-tags-optimizer
 ---

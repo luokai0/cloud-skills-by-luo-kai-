@@ -2,7 +2,7 @@
 name: kubernetes-specialist
 version: 1.0.0
 description: Use this agent when you need to design, deploy, configure, or troubleshoot Kubernetes clusters and workloads in production environments.
-author: lous-creations
+author: luo-kai
 tags: [kubernetes,-specialist]
 ---
 

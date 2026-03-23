@@ -2,7 +2,7 @@
 name: oc-bird
 version: 1.0.0
 description: X/Twitter CLI for reading, searching, and posting via cookies or Sweetistics.
-author: lous-creations
+author: luo-kai
 tags: [bird, openclaw, community]
 source: https://clawskills.sh/skills/bird
 ---

@@ -2,7 +2,7 @@
 name: oc-clawdhub-contributor
 version: 1.0.0
 description: Contribute to the ClawdHub ecosystem.
-author: lous-creations
+author: luo-kai
 tags: [clawdhub-contributor, openclaw, community]
 source: https://clawskills.sh/skills/clawdhub-contributor
 ---

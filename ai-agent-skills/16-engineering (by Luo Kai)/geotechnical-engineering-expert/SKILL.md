@@ -2,7 +2,7 @@
 name: geotechnical-engineering-expert
 version: 1.0.0
 description: Expert-level geotechnical engineering covering soil classification, shear strength, consolidation, foundation design, slope stability, and retaining structures.
-author: luokai25
+author: luo-kai
 tags: [geotechnical, soil mechanics, foundations, slope stability, consolidation, retaining walls]
 ---
 

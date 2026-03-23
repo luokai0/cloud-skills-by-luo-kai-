@@ -2,7 +2,7 @@
 name: oc-communicate
 version: 1.0.0
 description: Start using a local or Hugging Face model instantly, directly from chat.
-author: lous-creations
+author: luo-kai
 tags: [communicate, openclaw, community]
 source: https://clawskills.sh/skills/communicate
 ---

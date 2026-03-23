@@ -2,7 +2,7 @@
 name: oc-broedkrumme-kalibr
 version: 1.0.0
 description: Agent self-improvement and telemetry.
-author: lous-creations
+author: luo-kai
 tags: [broedkrumme-kalibr, openclaw, community]
 source: https://clawskills.sh/skills/broedkrumme-kalibr
 ---

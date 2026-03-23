@@ -2,7 +2,7 @@
 name: oc-agent-registry
 version: 1.0.0
 description: MANDATORY agent discovery system for token-efficient agent.
-author: lous-creations
+author: luo-kai
 tags: [agent-registry, openclaw, community]
 source: https://clawskills.sh/skills/agent-registry
 ---

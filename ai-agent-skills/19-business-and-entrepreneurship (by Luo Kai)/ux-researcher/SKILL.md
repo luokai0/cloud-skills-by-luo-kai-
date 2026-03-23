@@ -2,7 +2,7 @@
 name: ux-researcher
 version: 1.0.0
 description: Use this agent when you need to conduct user research, analyze user behavior, or generate actionable insights to validate design decisions and uncover user needs. Invoke when you need usability tes...
-author: lous-creations
+author: luo-kai
 tags: [ux,-researcher]
 ---
 

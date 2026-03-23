@@ -2,7 +2,7 @@
 name: oc-adaptive-suite
 version: 1.0.0
 description: A continuously adaptive skill suite that empowers Clawdbot.
-author: lous-creations
+author: luo-kai
 tags: [adaptive-suite, openclaw, community]
 source: https://clawskills.sh/skills/adaptive-suite
 ---

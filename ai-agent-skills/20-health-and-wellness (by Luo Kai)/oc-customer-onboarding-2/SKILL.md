@@ -2,7 +2,7 @@
 name: oc-customer-onboarding-2
 version: 1.0.0
 description: Design and execute customer onboarding that drives activation and retention.
-author: lous-creations
+author: luo-kai
 tags: [customer-onboarding-2, openclaw, community]
 source: https://clawskills.sh/skills/customer-onboarding-2
 ---

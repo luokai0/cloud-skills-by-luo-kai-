@@ -2,7 +2,7 @@
 name: oc-anti-injection-skill
 version: 1.0.0
 description: Advanced prompt injection defense with multi-layer protection, memory integrity, and tool security wrapper.
-author: lous-creations
+author: luo-kai
 tags: [anti-injection-skill, openclaw, community]
 source: https://clawskills.sh/skills/anti-injection-skill
 ---

@@ -2,7 +2,7 @@
 name: materials-informatics-expert
 version: 1.0.0
 description: Expert-level materials informatics covering materials databases, machine learning for property prediction, high-throughput computation, and data-driven materials discovery.
-author: luokai25
+author: luo-kai
 tags: [materials informatics, machine learning, materials databases, high-throughput, DFT]
 ---
 

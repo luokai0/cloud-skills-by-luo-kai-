@@ -2,7 +2,7 @@
 name: oc-ai-displacement-monitor
 version: 1.0.0
 description: Monitor early-warning signals of AI-driven white-collar labor displacement and macro-financial spillovers.
-author: lous-creations
+author: luo-kai
 tags: [ai-displacement-monitor, openclaw, community]
 source: https://clawskills.sh/skills/ai-displacement-monitor
 ---

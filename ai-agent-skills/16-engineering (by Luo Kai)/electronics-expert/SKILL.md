@@ -2,7 +2,7 @@
 name: electronics-expert
 version: 1.0.0
 description: Expert-level electronics covering diodes, BJTs, MOSFETs, amplifier design, operational amplifiers, feedback, and analog circuit design.
-author: luokai25
+author: luo-kai
 tags: [electronics, transistors, amplifiers, op-amps, diodes, analog circuits]
 ---
 

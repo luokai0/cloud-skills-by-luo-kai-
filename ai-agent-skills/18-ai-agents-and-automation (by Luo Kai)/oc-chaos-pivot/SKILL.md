@@ -2,7 +2,7 @@
 name: oc-chaos-pivot
 version: 1.0.0
 description: Prevents LLMs from sunk-cost pushing broken solutions.
-author: lous-creations
+author: luo-kai
 tags: [chaos-pivot, openclaw, community]
 source: https://clawskills.sh/skills/chaos-pivot
 ---

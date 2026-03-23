@@ -2,7 +2,7 @@
 name: oc-sauna-calm
 version: 1.0.0
 description: Calm frustrated users with breathing exercises and Sauna.ai reminders.
-author: lous-creations
+author: luo-kai
 tags: [sauna-calm, openclaw, community]
 source: https://clawskills.sh/skills/sauna-calm
 ---

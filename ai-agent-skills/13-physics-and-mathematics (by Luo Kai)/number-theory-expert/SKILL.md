@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: number-theory-expert
 description: Expert-level number theory knowledge. Use when working with divisibility, prime numbers, modular arithmetic, congruences, Diophantine equations, cryptography, quadratic residues, or analytic number theory. Also use when the user mentions 'prime', 'divisibility', 'modular arithmetic', 'congruence', 'GCD', 'Euler totient', 'Fermat little theorem', 'Chinese remainder theorem', 'quadratic residue', 'Diophantine equation', 'RSA', or 'prime factorization'.
 license: MIT

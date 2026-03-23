@@ -2,7 +2,7 @@
 name: oc-brw-newsletter-creation-curation
 version: 1.0.0
 description: Industry-adaptive B2B newsletter creation with stage, role, and geography-aware workflows.
-author: lous-creations
+author: luo-kai
 tags: [brw-newsletter-creation-curation, openclaw, community]
 source: https://clawskills.sh/skills/brw-newsletter-creation-curation
 ---

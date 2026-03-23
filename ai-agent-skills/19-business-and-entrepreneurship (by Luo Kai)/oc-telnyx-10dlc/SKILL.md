@@ -2,7 +2,7 @@
 name: oc-telnyx-10dlc
 version: 1.0.0
 description: Register for 10DLC as a sole proprietor to enable SMS messaging in the USA.
-author: lous-creations
+author: luo-kai
 tags: [telnyx-10dlc, openclaw, community]
 source: https://clawskills.sh/skills/telnyx-10dlc
 ---

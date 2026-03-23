@@ -2,7 +2,7 @@
 name: oc-brand-cog
 version: 1.0.0
 description: Other tools make logos.
-author: lous-creations
+author: luo-kai
 tags: [brand-cog, openclaw, community]
 source: https://clawskills.sh/skills/brand-cog
 ---

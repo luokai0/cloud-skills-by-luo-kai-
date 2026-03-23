@@ -2,7 +2,7 @@
 name: computer-networks-expert
 version: 1.0.0
 description: Expert-level computer networks covering OSI model, TCP/IP stack, routing protocols, transport layer, application protocols, network security, and software-defined networking.
-author: luokai25
+author: luo-kai
 tags: [networking, TCP/IP, routing, protocols, HTTP, DNS, security]
 ---
 

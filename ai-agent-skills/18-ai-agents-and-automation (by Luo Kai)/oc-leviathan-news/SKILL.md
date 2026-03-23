@@ -2,7 +2,7 @@
 name: oc-leviathan-news
 version: 1.0.0
 description: Crowdsourced crypto news API.
-author: lous-creations
+author: luo-kai
 tags: [leviathan-news, openclaw, community]
 source: https://clawskills.sh/skills/leviathan-news
 ---

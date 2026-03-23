@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: derivatives-expert
 description: Expert-level derivatives knowledge. Use when working with futures, forwards, swaps, structured products, interest rate derivatives, credit derivatives, commodity derivatives, or exotic options. Also use when the user mentions 'futures contract', 'forward', 'swap', 'CDS', 'interest rate swap', 'basis', 'contango', 'backwardation', 'notional value', 'mark to market', 'margin call', or 'structured product'.
 license: MIT

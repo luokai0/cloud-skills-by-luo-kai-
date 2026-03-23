@@ -2,7 +2,7 @@
 name: biomaterials-expert
 version: 1.0.0
 description: Expert-level biomaterials covering biocompatibility, metals, ceramics, and polymers for medical implants, surface modification, host response, and regulatory considerations.
-author: luokai25
+author: luo-kai
 tags: [biomaterials, biocompatibility, implants, surface modification, host response, ISO 10993]
 ---
 

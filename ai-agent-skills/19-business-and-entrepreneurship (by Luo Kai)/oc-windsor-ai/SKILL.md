@@ -2,7 +2,7 @@
 name: oc-windsor-ai
 version: 1.0.0
 description: Connect to Windsor.ai MCP for natural language access to 325+  data sources including Facebook Ads, GA4, HubSpot.
-author: lous-creations
+author: luo-kai
 tags: [windsor-ai, openclaw, community]
 source: https://clawskills.sh/skills/windsor-ai
 ---

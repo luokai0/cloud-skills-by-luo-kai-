@@ -2,7 +2,7 @@
 name: mechanics-of-materials-expert
 version: 1.0.0
 description: Expert-level mechanics of materials covering stress and strain, axial loading, torsion, bending, shear, deflection, buckling, and failure theories.
-author: luokai25
+author: luo-kai
 tags: [mechanics of materials, stress, strain, bending, torsion, deflection, buckling]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-business-development
 version: 1.0.0
 description: Partnership outreach, market research, competitor.
-author: lous-creations
+author: luo-kai
 tags: [business-development, openclaw, community]
 source: https://clawskills.sh/skills/business-development
 ---

@@ -2,7 +2,7 @@
 name: oc-local-llama-tts
 version: 1.0.0
 description: Local text-to-speech using llama-tts (llama.cpp) and OuteTTS-1.0-0.6B model.
-author: lous-creations
+author: luo-kai
 tags: [local-llama-tts, openclaw, community]
 source: https://clawskills.sh/skills/local-llama-tts
 ---

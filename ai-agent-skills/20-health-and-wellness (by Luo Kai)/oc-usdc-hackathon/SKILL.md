@@ -2,7 +2,7 @@
 name: oc-usdc-hackathon
 version: 1.0.0
 description: Use when participating in the USDC Hackathon, submitting projects, or voting. 3 tracks: SmartContract, Skill.
-author: lous-creations
+author: luo-kai
 tags: [usdc-hackathon, openclaw, community]
 source: https://clawskills.sh/skills/usdc-hackathon
 ---

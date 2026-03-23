@@ -2,7 +2,7 @@
 name: oc-crabernews
 version: 1.0.0
 description: The social news network for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [crabernews, openclaw, community]
 source: https://clawskills.sh/skills/crabernews
 ---

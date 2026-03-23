@@ -2,7 +2,7 @@
 name: spacecraft-design-expert
 version: 1.0.0
 description: Expert-level spacecraft design covering mission analysis, subsystem design, power and thermal management, attitude control, communications, and systems engineering.
-author: luokai25
+author: luo-kai
 tags: [spacecraft design, mission analysis, ADCS, power systems, thermal control, communications]
 ---
 

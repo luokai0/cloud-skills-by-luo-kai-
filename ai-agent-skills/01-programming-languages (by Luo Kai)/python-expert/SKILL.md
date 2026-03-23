@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: python-expert
 description: Expert-level Python programming. Use when writing Python code, debugging errors, optimizing performance, working with async/await, decorators, metaclasses, generators, type hints, or packaging. Also use when the user mentions 'pythonic', 'PEP 8', 'asyncio', 'dataclasses', 'type hints', 'virtualenv', or 'pip'.
 license: MIT

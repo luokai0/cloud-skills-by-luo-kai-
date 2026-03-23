@@ -2,7 +2,7 @@
 name: dynamics-expert
 version: 1.0.0
 description: Expert-level dynamics covering kinematics and kinetics of particles and rigid bodies, Newton-Euler equations, energy methods, impulse-momentum, and vibrations.
-author: luokai25
+author: luo-kai
 tags: [dynamics, kinematics, kinetics, Newton-Euler, energy methods, vibrations]
 ---
 

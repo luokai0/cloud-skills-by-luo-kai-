@@ -2,7 +2,7 @@
 name: computer-architecture-expert
 version: 1.0.0
 description: Expert-level computer architecture covering CPU design, instruction sets, pipelining, cache hierarchy, memory systems, parallel architectures, and GPU computing.
-author: luokai25
+author: luo-kai
 tags: [computer architecture, CPU, cache, pipeline, RISC-V, GPU, memory]
 ---
 

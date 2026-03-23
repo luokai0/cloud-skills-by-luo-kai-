@@ -2,7 +2,7 @@
 name: golang-pro
 version: 1.0.0
 description: Use when building Go applications requiring concurrent programming, high-performance systems, microservices, or cloud-native architectures where idiomatic patterns, error handling excellence, and e...
-author: lous-creations
+author: luo-kai
 tags: [golang,-pro]
 ---
 

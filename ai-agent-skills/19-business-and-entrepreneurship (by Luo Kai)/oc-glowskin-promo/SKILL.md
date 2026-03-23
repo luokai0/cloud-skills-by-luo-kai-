@@ -2,7 +2,7 @@
 name: oc-glowskin-promo
 version: 1.0.0
 description: Generate viral marketing content for skincare affiliate products.
-author: lous-creations
+author: luo-kai
 tags: [glowskin-promo, openclaw, community]
 source: https://clawskills.sh/skills/glowskin-promo
 ---

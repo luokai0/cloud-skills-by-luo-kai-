@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: css-expert
 description: Expert-level CSS and styling. Use when working with CSS Grid, Flexbox, animations, CSS variables, responsive design, Tailwind CSS, or advanced CSS techniques.
 license: MIT

@@ -2,7 +2,7 @@
 name: digital-electronics-expert
 version: 1.0.0
 description: Expert-level digital electronics covering Boolean algebra, combinational and sequential logic, FPGA design, HDL programming, timing analysis, and digital system design.
-author: luokai25
+author: luo-kai
 tags: [digital electronics, Boolean algebra, FPGA, VHDL, Verilog, timing, logic design]
 ---
 

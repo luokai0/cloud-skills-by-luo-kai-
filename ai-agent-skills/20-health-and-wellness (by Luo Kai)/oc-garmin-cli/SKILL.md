@@ -2,7 +2,7 @@
 name: oc-garmin-cli
 version: 1.0.0
 description: Access Garmin Connect health, fitness, and activity data via a non-interactive CLI.
-author: lous-creations
+author: luo-kai
 tags: [garmin-cli, openclaw, community]
 source: https://clawskills.sh/skills/garmin-cli
 ---

@@ -2,7 +2,7 @@
 name: dotnet-core-expert
 version: 1.0.0
 description: Use when building .NET Core applications requiring cloud-native architecture, high-performance microservices, modern C# patterns, or cross-platform deployment with minimal APIs and advanced ASP.NET...
-author: lous-creations
+author: luo-kai
 tags: [dotnet,-core,-expert]
 ---
 

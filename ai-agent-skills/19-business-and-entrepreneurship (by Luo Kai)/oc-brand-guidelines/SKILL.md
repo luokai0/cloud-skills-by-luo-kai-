@@ -2,7 +2,7 @@
 name: oc-brand-guidelines
 version: 1.0.0
 description: Applies Anthropic's official brand colors and typography.
-author: lous-creations
+author: luo-kai
 tags: [brand-guidelines, openclaw, community]
 source: https://clawskills.sh/skills/brand-guidelines
 ---

@@ -2,7 +2,7 @@
 name: tooling-engineer
 version: 1.0.0
 description: Use this agent when you need to build or enhance developer tools including CLIs, code generators, build tools, and IDE extensions.
-author: lous-creations
+author: luo-kai
 tags: [tooling,-engineer]
 ---
 

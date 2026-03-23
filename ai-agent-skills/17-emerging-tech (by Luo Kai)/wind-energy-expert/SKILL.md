@@ -2,7 +2,7 @@
 name: wind-energy-expert
 version: 1.0.0
 description: Expert-level wind energy covering aerodynamics, turbine design, wind resource assessment, offshore wind, grid integration, and wind farm optimization.
-author: luokai25
+author: luo-kai
 tags: [wind energy, wind turbines, aerodynamics, offshore wind, wind resource]
 ---
 

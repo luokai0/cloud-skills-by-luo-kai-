@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: risk-management-expert
 description: Expert-level financial risk management. Use when working with position sizing, portfolio risk, drawdown control, VaR, stress testing, hedging, correlation risk, tail risk, or building risk frameworks. Also use when the user mentions 'position sizing', 'stop loss', 'drawdown', 'risk-reward', 'Kelly criterion', 'portfolio heat', 'correlation', 'tail risk', 'hedge', 'risk-adjusted return', or 'maximum loss'.
 license: MIT

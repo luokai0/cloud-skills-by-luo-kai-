@@ -2,7 +2,7 @@
 name: oc-fitbit
 version: 1.0.0
 description: Query Fitbit health data including sleep, heart rate, activity, SpO2.
-author: lous-creations
+author: luo-kai
 tags: [fitbit, openclaw, community]
 source: https://clawskills.sh/skills/fitbit
 ---

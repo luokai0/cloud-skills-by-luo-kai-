@@ -2,7 +2,7 @@
 name: oc-attribution-engine
 version: 1.0.0
 description: Helps creators clearly credit collaborators, tools.
-author: lous-creations
+author: luo-kai
 tags: [attribution-engine, openclaw, community]
 source: https://clawskills.sh/skills/attribution-engine
 ---

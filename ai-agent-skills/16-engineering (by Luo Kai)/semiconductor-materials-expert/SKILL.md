@@ -2,7 +2,7 @@
 name: semiconductor-materials-expert
 version: 1.0.0
 description: Expert-level semiconductor materials covering band theory, silicon processing, compound semiconductors, wide bandgap materials, and semiconductor device fundamentals.
-author: luokai25
+author: luo-kai
 tags: [semiconductors, silicon, band theory, compound semiconductors, GaN, SiC, doping]
 ---
 

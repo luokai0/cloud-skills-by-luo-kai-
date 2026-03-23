@@ -10,6 +10,7 @@ metadata:
   category: coordination
   frameworks: [triple-diamond]
   author: lous-creations
+author: luo-kai
 ---
 # PM Skill Builder
 

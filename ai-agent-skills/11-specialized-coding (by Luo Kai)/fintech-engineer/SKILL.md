@@ -2,7 +2,7 @@
 name: fintech-engineer
 version: 1.0.0
 description: Use when building payment systems, financial integrations, or compliance-heavy financial applications that require secure transaction processing, regulatory adherence, and high transaction accuracy.
-author: lous-creations
+author: luo-kai
 tags: [fintech,-engineer]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-agenthire
 version: 1.0.0
 description: AgentHire — Agent-to-Agent Marketplace.
-author: lous-creations
+author: luo-kai
 tags: [agenthire, openclaw, community]
 source: https://clawskills.sh/skills/agenthire
 ---

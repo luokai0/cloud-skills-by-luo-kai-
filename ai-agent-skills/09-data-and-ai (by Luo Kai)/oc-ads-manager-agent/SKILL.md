@@ -2,7 +2,7 @@
 name: oc-ads-manager-agent
 version: 1.0.0
 description: When the user wants to manage, automate, or analyze paid advertising campaigns on Google Ads, Meta.
-author: lous-creations
+author: luo-kai
 tags: [ads-manager-agent, openclaw, community]
 source: https://clawskills.sh/skills/ads-manager-agent
 ---

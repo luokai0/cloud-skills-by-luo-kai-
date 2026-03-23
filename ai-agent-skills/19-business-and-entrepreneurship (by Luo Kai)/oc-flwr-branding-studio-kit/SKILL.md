@@ -2,7 +2,7 @@
 name: oc-flwr-branding-studio-kit
 version: 1.0.0
 description: An advanced AI agent that acts as a Senior Brand Strategist.
-author: lous-creations
+author: luo-kai
 tags: [flwr-branding-studio-kit, openclaw, community]
 source: https://clawskills.sh/skills/flwr-branding-studio-kit
 ---

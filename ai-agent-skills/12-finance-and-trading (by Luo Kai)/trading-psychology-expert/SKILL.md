@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: trading-psychology-expert
 description: Expert-level trading psychology and mental performance. Use when working with trading discipline, emotional control, consistency, building trading habits, overcoming fear and greed, developing a trading mindset, journaling, performance review, or peak performance routines. Also use when the user mentions 'trading discipline', 'emotional trading', 'revenge trading', 'fear of missing out', 'trading journal', 'consistency', 'overtrading', 'trading routine', 'mindset', 'mental game', 'confidence', or 'trading performance'.
 license: MIT

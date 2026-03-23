@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: microservices-expert
 description: Expert-level microservices architecture. Use when designing microservices, service boundaries, inter-service communication, saga pattern, CQRS, event sourcing, service mesh, API gateways, or managing distributed systems complexity. Also use when the user mentions 'microservices', 'service boundary', 'saga pattern', 'service mesh', 'CQRS', 'event sourcing', 'API gateway', 'distributed transaction', or 'service decomposition'.
 license: MIT

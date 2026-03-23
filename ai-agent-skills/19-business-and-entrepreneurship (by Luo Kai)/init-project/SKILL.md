@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: init-project
 description: Initialize projects with agentic coding structure. Use when setting up a new project, adding AI agent support to existing project, or when user says "init", "initialize", "setup project", or "scaffold". Creates AGENTS folder, documentation templates, and _NOTES scratch space.
 ---

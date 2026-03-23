@@ -2,7 +2,7 @@
 name: oc-kit-email-operator
 version: 1.0.0
 description: **AI-powered email marketing for Kit (ConvertKit)**.
-author: lous-creations
+author: luo-kai
 tags: [kit-email-operator, openclaw, community]
 source: https://clawskills.sh/skills/kit-email-operator
 ---

@@ -2,7 +2,7 @@
 name: oc-crypto-market-data
 version: 1.0.0
 description: No API KEY needed for free tier.
-author: lous-creations
+author: luo-kai
 tags: [crypto-market-data, openclaw, community]
 source: https://clawskills.sh/skills/crypto-market-data
 ---

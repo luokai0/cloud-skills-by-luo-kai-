@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: swift-expert
 description: Expert-level Swift programming. Use when writing Swift code, working with optionals, protocols, Swift concurrency, SwiftUI, Combine, or building Apple platform apps.
 license: MIT

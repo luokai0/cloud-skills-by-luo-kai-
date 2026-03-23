@@ -2,7 +2,7 @@
 name: cli-developer
 version: 1.0.0
 description: Use this agent when building command-line tools and terminal applications that require intuitive command design, cross-platform compatibility, and optimized developer experience.
-author: lous-creations
+author: luo-kai
 tags: [cli,-developer]
 ---
 

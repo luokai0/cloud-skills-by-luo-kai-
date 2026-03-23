@@ -2,7 +2,7 @@
 name: oc-tiktok-trend-challenger
 version: 1.0.0
 description: Hire TikTok creators to participate in trending hashtags, viral challenges, and cultural moments to boost brand.
-author: lous-creations
+author: luo-kai
 tags: [tiktok-trend-challenger, openclaw, community]
 source: https://clawskills.sh/skills/tiktok-trend-challenger
 ---

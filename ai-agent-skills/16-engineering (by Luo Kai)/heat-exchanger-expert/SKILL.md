@@ -2,7 +2,7 @@
 name: heat-exchanger-expert
 version: 1.0.0
 description: Expert-level heat exchanger design covering shell and tube, plate, air coolers, heat integration, fouling, and thermal-hydraulic design methods.
-author: luokai25
+author: luo-kai
 tags: [heat exchangers, shell and tube, plate heat exchanger, fouling, LMTD, heat integration]
 ---
 

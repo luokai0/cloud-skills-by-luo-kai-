@@ -2,7 +2,7 @@
 name: oc-agent-sentinel
 version: 1.0.0
 description: The operational circuit breaker for this agent.
-author: lous-creations
+author: luo-kai
 tags: [agent-sentinel, openclaw, community]
 source: https://clawskills.sh/skills/agent-sentinel
 ---

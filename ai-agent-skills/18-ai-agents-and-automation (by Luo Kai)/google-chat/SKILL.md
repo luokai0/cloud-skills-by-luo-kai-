@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: google-chat
 description: |
   Interact with Google Chat - list spaces, send messages, read conversations, and manage DMs.

@@ -2,7 +2,7 @@
 name: oc-openfunderse-participant
 version: 1.0.0
 description: Participant MoltBot for allocation proposal, validation, and submission.
-author: lous-creations
+author: luo-kai
 tags: [openfunderse-participant, openclaw, community]
 source: https://clawskills.sh/skills/openfunderse-participant
 ---

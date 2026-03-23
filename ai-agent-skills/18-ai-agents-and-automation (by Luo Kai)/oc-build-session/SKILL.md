@@ -2,7 +2,7 @@
 name: oc-build-session
 version: 1.0.0
 description: A framework for productive autonomous agent sessions.
-author: lous-creations
+author: luo-kai
 tags: [build-session, openclaw, community]
 source: https://clawskills.sh/skills/build-session
 ---

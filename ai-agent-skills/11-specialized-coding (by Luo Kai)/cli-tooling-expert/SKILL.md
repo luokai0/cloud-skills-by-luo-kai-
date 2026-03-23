@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: cli-tooling-expert
 description: Expert-level CLI development. Use when building command-line tools, argument parsing, terminal UI, progress bars, shell completion, or distributing CLIs.
 license: MIT

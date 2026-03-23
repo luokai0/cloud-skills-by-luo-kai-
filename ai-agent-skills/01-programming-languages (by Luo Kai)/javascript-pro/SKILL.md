@@ -2,7 +2,7 @@
 name: javascript-pro
 version: 1.0.0
 description: Use this agent when you need to build, optimize, or refactor modern JavaScript code for browser, Node.js, or full-stack applications requiring ES2023+ features, async patterns, or performance-criti...
-author: lous-creations
+author: luo-kai
 tags: [javascript,-pro]
 ---
 

@@ -2,7 +2,7 @@
 name: statics-expert
 version: 1.0.0
 description: Expert-level statics covering equilibrium of rigid bodies, free body diagrams, trusses, frames, friction, centroids, and moments of inertia.
-author: luokai25
+author: luo-kai
 tags: [statics, equilibrium, free body diagram, trusses, friction, moments of inertia]
 ---
 

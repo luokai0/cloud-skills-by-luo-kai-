@@ -2,7 +2,7 @@
 name: neural-engineering-expert
 version: 1.0.0
 description: Expert-level neural engineering covering neural interfaces, brain-computer interfaces, neural signal processing, deep brain stimulation, and neuroprosthetics.
-author: luokai25
+author: luo-kai
 tags: [neural engineering, BCI, neural interfaces, deep brain stimulation, neuroprosthetics]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-doginals
 version: 1.0.0
 description: The Doginals skill enables users to interact with the Doginals and Dunes protocols, facilitating inscription.
-author: lous-creations
+author: luo-kai
 tags: [doginals, openclaw, community]
 source: https://clawskills.sh/skills/doginals
 ---

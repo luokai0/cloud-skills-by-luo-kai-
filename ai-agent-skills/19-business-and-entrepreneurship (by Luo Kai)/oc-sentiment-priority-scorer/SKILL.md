@@ -2,7 +2,7 @@
 name: oc-sentiment-priority-scorer
 version: 1.0.0
 description: Score normalized real-estate leads using sentiment, urgency, intent, recency, and record type to produce.
-author: lous-creations
+author: luo-kai
 tags: [sentiment-priority-scorer, openclaw, community]
 source: https://clawskills.sh/skills/sentiment-priority-scorer
 ---

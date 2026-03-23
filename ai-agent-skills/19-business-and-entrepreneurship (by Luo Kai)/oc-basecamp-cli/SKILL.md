@@ -2,7 +2,7 @@
 name: oc-basecamp-cli
 version: 1.0.0
 description: Manage Basecamp (via bc3 API / 37signals Launchpad) projects.
-author: lous-creations
+author: luo-kai
 tags: [basecamp-cli, openclaw, community]
 source: https://clawskills.sh/skills/basecamp-cli
 ---

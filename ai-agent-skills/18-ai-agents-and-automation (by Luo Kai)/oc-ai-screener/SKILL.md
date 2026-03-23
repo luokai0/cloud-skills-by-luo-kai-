@@ -2,7 +2,7 @@
 name: oc-ai-screener
 version: 1.0.0
 description: Intellectia stock/crypto screener for Bullish/Bearish Tomorrow/Week/Month presets.
-author: lous-creations
+author: luo-kai
 tags: [ai-screener, openclaw, community]
 source: https://clawskills.sh/skills/ai-screener
 ---

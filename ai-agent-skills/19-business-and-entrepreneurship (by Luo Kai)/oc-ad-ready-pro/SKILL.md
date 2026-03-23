@@ -2,7 +2,7 @@
 name: oc-ad-ready-pro
 version: 1.0.0
 description: Generate professional advertising images from product URLs.
-author: lous-creations
+author: luo-kai
 tags: [ad-ready-pro, openclaw, community]
 source: https://clawskills.sh/skills/ad-ready-pro
 ---

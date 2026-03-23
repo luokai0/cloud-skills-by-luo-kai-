@@ -2,7 +2,7 @@
 name: oc-arc-skill-sandbox
 version: 1.0.0
 description: Test untrusted skills in an isolated environment before installing.
-author: lous-creations
+author: luo-kai
 tags: [arc-skill-sandbox, openclaw, community]
 source: https://clawskills.sh/skills/arc-skill-sandbox
 ---

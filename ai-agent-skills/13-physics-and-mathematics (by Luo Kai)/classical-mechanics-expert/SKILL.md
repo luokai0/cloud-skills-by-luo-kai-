@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: classical-mechanics-expert
 description: Expert-level classical mechanics knowledge. Use when working with Newton's laws, kinematics, dynamics, energy, momentum, rotational motion, oscillations, gravitation, Lagrangian mechanics, or Hamiltonian mechanics. Also use when the user mentions 'force', 'torque', 'momentum', 'energy conservation', 'simple harmonic motion', 'projectile', 'friction', 'center of mass', 'moment of inertia', 'Lagrangian', or 'Hamiltonian'.
 license: MIT

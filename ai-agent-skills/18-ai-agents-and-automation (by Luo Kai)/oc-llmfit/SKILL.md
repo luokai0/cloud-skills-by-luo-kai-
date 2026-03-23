@@ -2,7 +2,7 @@
 name: oc-llmfit
 version: 1.0.0
 description: Detect local hardware (RAM, CPU, GPU/VRAM) and recommend the best-fit local LLM models with optimal quantization.
-author: lous-creations
+author: luo-kai
 tags: [llmfit, openclaw, community]
 source: https://clawskills.sh/skills/llmfit
 ---

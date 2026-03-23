@@ -2,7 +2,7 @@
 name: powershell-security-hardening
 version: 1.0.0
 description: Use this agent when you need to harden PowerShell automation, secure remoting configuration, enforce least-privilege design, or align scripts with enterprise security baselines and compliance frame...
-author: lous-creations
+author: luo-kai
 tags: [powershell,-security,-hardening]
 ---
 

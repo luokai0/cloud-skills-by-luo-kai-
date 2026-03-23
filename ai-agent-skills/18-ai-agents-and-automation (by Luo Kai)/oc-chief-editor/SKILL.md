@@ -2,7 +2,7 @@
 name: oc-chief-editor
 version: 1.0.0
 description: You are a professional chief editor.# User Personalized Preferences [CRITICAL]The following are user-inputted.
-author: lous-creations
+author: luo-kai
 tags: [chief-editor, openclaw, community]
 source: https://clawskills.sh/skills/chief-editor
 ---

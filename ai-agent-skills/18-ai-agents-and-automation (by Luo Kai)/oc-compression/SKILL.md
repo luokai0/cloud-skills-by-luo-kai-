@@ -2,7 +2,7 @@
 name: oc-compression
 version: 1.0.0
 description: Pre-run prompt compression for iterative AI dev loops.
-author: lous-creations
+author: luo-kai
 tags: [compression, openclaw, community]
 source: https://clawskills.sh/skills/compression
 ---

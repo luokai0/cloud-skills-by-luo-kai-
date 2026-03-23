@@ -2,7 +2,7 @@
 name: geology-expert
 version: 1.0.0
 description: Expert-level geology covering plate tectonics, rock cycle, mineralogy, stratigraphy, geomorphology, structural geology, and economic geology.
-author: luokai25
+author: luo-kai
 tags: [geology, plate tectonics, rocks, minerals, stratigraphy]
 ---
 

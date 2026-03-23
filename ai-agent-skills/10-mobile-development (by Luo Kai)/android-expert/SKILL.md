@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: android-expert
 description: Expert-level Android development with Kotlin and Jetpack Compose. Use when building Android apps, working with Jetpack Compose, ViewModel, LiveData, Room, Retrofit, Hilt, Coroutines, or publishing to the Play Store. Also use when the user mentions 'Jetpack Compose', 'ViewModel', 'Room', 'Hilt', 'Coroutines', 'Flow', 'Android build', 'Gradle', 'Play Store', or 'Android Studio'.
 license: MIT

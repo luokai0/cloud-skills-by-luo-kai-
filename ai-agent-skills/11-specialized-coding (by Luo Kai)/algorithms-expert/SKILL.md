@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: algorithms-expert
 description: Expert-level algorithms and data structures. Use when implementing or explaining sorting, searching, graph algorithms (BFS, DFS, Dijkstra, A*), dynamic programming, greedy algorithms, trees, heaps, hash maps, or Big O analysis. Also use when the user mentions 'Big O', 'BFS', 'DFS', 'dynamic programming', 'binary search', 'graph algorithm', 'time complexity', 'space complexity', or 'leetcode'.
 license: MIT

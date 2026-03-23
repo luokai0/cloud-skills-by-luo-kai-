@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: private-equity-expert
 description: Expert-level private equity knowledge. Use when working with LBO analysis, deal sourcing, due diligence, portfolio company management, exit strategies, fund structure, carried interest, capital calls, or venture capital. Also use when the user mentions 'LBO', 'private equity', 'buyout', 'portfolio company', 'carried interest', 'IRR', 'MOIC', 'capital call', 'dry powder', 'deal flow', 'due diligence', 'add-on acquisition', or 'exit multiple'.
 license: MIT

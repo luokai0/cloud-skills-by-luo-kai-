@@ -2,7 +2,7 @@
 name: orbital-mechanics-expert
 version: 1.0.0
 description: Expert-level orbital mechanics covering Keplerian orbits, orbital maneuvers, Hohmann transfers, rendezvous, interplanetary trajectories, and perturbations.
-author: luokai25
+author: luo-kai
 tags: [orbital mechanics, Kepler, Hohmann transfer, rendezvous, perturbations, delta-V]
 ---
 

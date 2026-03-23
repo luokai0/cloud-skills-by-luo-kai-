@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: init-project-jpkb
 description: Initialize new JPKB projects with standardized documentation and folder structure. JPKB-specific version with category folders and fixed base path. Use when creating a new project in the jpkb repository, when the user says "init project", "new project", or when the target is the JPKB projects folder.
 ---

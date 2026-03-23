@@ -2,7 +2,7 @@
 name: oc-lead-magnets
 version: 1.0.0
 description: Design lead magnets that attract qualified prospects and convert them to paying customers.
-author: lous-creations
+author: luo-kai
 tags: [lead-magnets, openclaw, community]
 source: https://clawskills.sh/skills/lead-magnets
 ---

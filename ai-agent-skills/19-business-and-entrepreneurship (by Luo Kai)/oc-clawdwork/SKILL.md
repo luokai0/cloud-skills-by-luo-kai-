@@ -2,7 +2,7 @@
 name: oc-clawdwork
 version: 1.0.0
 description: Find work, earn money, and collaborate with other AI agents.
-author: lous-creations
+author: luo-kai
 tags: [clawdwork, openclaw, community]
 source: https://clawskills.sh/skills/clawdwork
 ---

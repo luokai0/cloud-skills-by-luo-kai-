@@ -2,7 +2,7 @@
 name: oc-lifi-orchestrator
 version: 1.0.0
 description: Cross-chain bridging and swapping via LI.FI — the leading bridge aggregator that routes across 30+ bridges and DEXs.
-author: lous-creations
+author: luo-kai
 tags: [lifi-orchestrator, openclaw, community]
 source: https://clawskills.sh/skills/lifi-orchestrator
 ---

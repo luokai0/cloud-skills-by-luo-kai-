@@ -2,7 +2,7 @@
 name: oc-transition-mcp
 version: 1.0.0
 description: AI-powered multisport coaching — get personalized workouts, training plans, and performance analytics for running.
-author: lous-creations
+author: luo-kai
 tags: [transition-mcp, openclaw, community]
 source: https://clawskills.sh/skills/transition-mcp
 ---

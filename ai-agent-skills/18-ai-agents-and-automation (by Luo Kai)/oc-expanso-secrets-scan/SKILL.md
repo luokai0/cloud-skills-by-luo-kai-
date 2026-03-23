@@ -2,7 +2,7 @@
 name: oc-expanso-secrets-scan
 version: 1.0.0
 description: Detect hardcoded secrets (API keys, tokens, passwords) in text or code.
-author: lous-creations
+author: luo-kai
 tags: [expanso-secrets-scan, openclaw, community]
 source: https://clawskills.sh/skills/expanso-secrets-scan
 ---

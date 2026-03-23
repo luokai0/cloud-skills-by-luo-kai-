@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: fundamental-analysis-expert
 description: Expert-level fundamental analysis and valuation. Use when analyzing company financials, reading balance sheets, income statements, cash flow statements, calculating intrinsic value, comparing valuation multiples, or researching business quality. Also use when the user mentions 'earnings', 'revenue', 'P/E ratio', 'DCF', 'EBITDA', 'free cash flow', 'balance sheet', 'moat', 'intrinsic value', 'valuation', 'annual report', or '10-K'.
 license: MIT

@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: mysql
 description: "Execute read-only SQL queries against multiple MySQL databases. Use when: (1) querying MySQL databases, (2) exploring database schemas/tables, (3) running SELECT queries for data analysis, (4) checking database contents. Supports multiple database connections with descriptions for intelligent auto-selection. Blocks all write operations (INSERT, UPDATE, DELETE, DROP, etc.) for safety."
 license: Apache-2.0

@@ -2,7 +2,7 @@
 name: nextjs-developer
 version: 1.0.0
 description: Use this agent when building production Next.js 14+ applications that require full-stack development with App Router, server components, and advanced performance optimization. Invoke when you need ...
-author: lous-creations
+author: luo-kai
 tags: [nextjs,-developer]
 ---
 

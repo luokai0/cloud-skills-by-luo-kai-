@@ -2,7 +2,7 @@
 name: oc-performance-reporter
 version: 1.0.0
 description: Use when the user asks to "generate SEO report", "performance report", "traffic report", "SEO dashboard", "report.
-author: lous-creations
+author: luo-kai
 tags: [performance-reporter, openclaw, community]
 source: https://clawskills.sh/skills/performance-reporter
 ---

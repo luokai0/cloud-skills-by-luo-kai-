@@ -2,7 +2,7 @@
 name: immunology-expert
 version: 1.0.0
 description: Expert-level immunology covering innate and adaptive immunity, antibody structure and function, T cell biology, immune evasion, vaccines, autoimmunity, and immunotherapy.
-author: luokai25
+author: luo-kai
 tags: [immunology, immune system, antibodies, T cells, vaccines, autoimmunity]
 ---
 

@@ -2,7 +2,7 @@
 name: scrum-master
 version: 1.0.0
 description: Use when teams need facilitation, process optimization, velocity improvement, or agile ceremony management—especially for sprint planning, retrospectives, impediment removal, and scaling agile prac...
-author: lous-creations
+author: luo-kai
 tags: [scrum,-master]
 ---
 

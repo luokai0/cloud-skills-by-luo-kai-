@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: acoustics-expert
 description: Expert-level acoustics knowledge. Use when working with sound waves, acoustic propagation, resonance, standing waves, Doppler effect, room acoustics, ultrasound, noise control, musical acoustics, or architectural acoustics. Also use when the user mentions 'sound wave', 'decibel', 'frequency', 'resonance', 'standing wave', 'Doppler effect', 'acoustic impedance', 'reverberation', 'ultrasound', 'noise control', 'harmonics', or 'sound intensity'.
 license: MIT

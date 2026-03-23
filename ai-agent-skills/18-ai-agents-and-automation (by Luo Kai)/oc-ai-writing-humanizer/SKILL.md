@@ -2,7 +2,7 @@
 name: oc-ai-writing-humanizer
 version: 1.0.0
 description: Automatically strip AI writing patterns and stock phrases from user-facing prose before sending.
-author: lous-creations
+author: luo-kai
 tags: [ai-writing-humanizer, openclaw, community]
 source: https://clawskills.sh/skills/ai-writing-humanizer
 ---

@@ -1,3 +1,7 @@
+---
+author: luo-kai
+---
+
 # Canvas Skill
 
 Display HTML content on connected OpenClaw nodes (Mac app, iOS, Android).

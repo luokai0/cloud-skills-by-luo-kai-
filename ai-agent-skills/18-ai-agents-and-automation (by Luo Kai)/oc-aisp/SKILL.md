@@ -2,7 +2,7 @@
 name: oc-aisp
 version: 1.0.0
 description: Enables AI agents to interact with AISP (Agent Inference Sharing Protocol) for renting or providing DIEM API.
-author: lous-creations
+author: luo-kai
 tags: [aisp, openclaw, community]
 source: https://clawskills.sh/skills/aisp
 ---

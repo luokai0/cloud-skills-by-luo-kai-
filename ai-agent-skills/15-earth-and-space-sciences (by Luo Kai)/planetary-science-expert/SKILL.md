@@ -2,7 +2,7 @@
 name: planetary-science-expert
 version: 1.0.0
 description: Expert-level planetary science covering solar system formation, planetary interiors, atmospheres, surface processes, astrobiology, and planetary exploration missions.
-author: luokai25
+author: luo-kai
 tags: [planetary science, solar system, planetary interiors, astrobiology, missions]
 ---
 

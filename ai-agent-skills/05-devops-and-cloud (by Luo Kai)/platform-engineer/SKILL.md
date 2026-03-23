@@ -2,7 +2,7 @@
 name: platform-engineer
 version: 1.0.0
 description: Use when building or improving internal developer platforms (IDPs), designing self-service infrastructure, or optimizing developer workflows to reduce friction and accelerate delivery. The platform...
-author: lous-creations
+author: luo-kai
 tags: [platform,-engineer]
 ---
 

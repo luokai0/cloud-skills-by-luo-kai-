@@ -2,7 +2,7 @@
 name: oc-lieutenant
 version: 1.0.0
 description: AI agent security and trust verification.
-author: lous-creations
+author: luo-kai
 tags: [lieutenant, openclaw, community]
 source: https://clawskills.sh/skills/lieutenant
 ---

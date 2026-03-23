@@ -2,7 +2,7 @@
 name: wordpress-master
 version: 1.0.0
 description: Use this agent when you need to architect, optimize, or troubleshoot WordPress implementations ranging from custom theme/plugin development to enterprise-scale multisite platforms. Invoke this agen...
-author: lous-creations
+author: luo-kai
 tags: [wordpress,-master]
 ---
 

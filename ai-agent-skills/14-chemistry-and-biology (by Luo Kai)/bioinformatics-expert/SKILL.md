@@ -2,7 +2,7 @@
 name: bioinformatics-expert
 version: 1.0.0
 description: Expert-level bioinformatics covering sequence analysis, structural bioinformatics, database searching, phylogenetic analysis, NGS data processing, single-cell analysis, and machine learning in biology.
-author: luokai25
+author: luo-kai
 tags: [bioinformatics, sequence analysis, NGS, structural biology, databases, Python]
 ---
 

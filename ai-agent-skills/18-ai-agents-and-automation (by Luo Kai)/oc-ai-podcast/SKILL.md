@@ -2,7 +2,7 @@
 name: oc-ai-podcast
 version: 1.0.0
 description: PDF to podcast and text to podcast in a natural two-person format with MagicPodcast.
-author: lous-creations
+author: luo-kai
 tags: [ai-podcast, openclaw, community]
 source: https://clawskills.sh/skills/ai-podcast
 ---

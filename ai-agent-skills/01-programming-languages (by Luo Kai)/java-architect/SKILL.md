@@ -2,7 +2,7 @@
 name: java-architect
 version: 1.0.0
 description: Use this agent when designing enterprise Java architectures, migrating Spring Boot applications, or establishing microservices patterns for scalable cloud-native systems.
-author: lous-creations
+author: luo-kai
 tags: [java,-architect]
 ---
 

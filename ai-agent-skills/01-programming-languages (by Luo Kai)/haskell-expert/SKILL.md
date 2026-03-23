@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: haskell-expert
 description: Expert-level Haskell programming. Use when writing Haskell code, working with monads, type classes, lazy evaluation, QuickCheck, or functional programming.
 license: MIT

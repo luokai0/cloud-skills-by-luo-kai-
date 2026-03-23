@@ -2,7 +2,7 @@
 name: sales-engineer
 version: 1.0.0
 description: Use this agent when you need to conduct technical pre-sales activities including solution architecture, proof-of-concept development, and technical demonstrations for complex sales deals.
-author: lous-creations
+author: luo-kai
 tags: [sales,-engineer]
 ---
 

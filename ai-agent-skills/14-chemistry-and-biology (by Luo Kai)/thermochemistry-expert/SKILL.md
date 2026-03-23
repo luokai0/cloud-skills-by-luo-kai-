@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: thermochemistry-expert
 description: Expert-level thermochemistry knowledge. Use when working with enthalpy, calorimetry, Hess's law, bond energies, heat of formation, heat of combustion, heat capacity, thermodynamic cycles, or reaction energetics. Also use when the user mentions 'enthalpy', 'Hess law', 'calorimetry', 'heat of formation', 'heat of combustion', 'bond energy', 'specific heat', 'calorimeter', 'endothermic', 'exothermic', 'standard state', or 'thermodynamic cycle'.
 license: MIT

@@ -2,7 +2,7 @@
 name: code-reviewer
 version: 1.0.0
 description: Use this agent when you need to conduct comprehensive code reviews focusing on code quality, security vulnerabilities, and best practices.
-author: lous-creations
+author: luo-kai
 tags: [code,-reviewer]
 ---
 

@@ -2,7 +2,7 @@
 name: aerodynamics-expert
 version: 1.0.0
 description: Expert-level aerodynamics covering subsonic and supersonic flow, lift and drag, airfoil theory, boundary layers, compressible flow, and CFD methods.
-author: luokai25
+author: luo-kai
 tags: [aerodynamics, lift, drag, airfoil, boundary layer, compressible flow, CFD]
 ---
 

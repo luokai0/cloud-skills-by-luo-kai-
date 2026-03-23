@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: graphql-federation
 description: Expert-level GraphQL Federation. Use when designing federated APIs, Apollo Federation, subgraphs, schema composition, or multi-team GraphQL supergraphs.
 license: MIT

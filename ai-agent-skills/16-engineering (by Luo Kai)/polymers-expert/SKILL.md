@@ -2,7 +2,7 @@
 name: polymers-expert
 version: 1.0.0
 description: Expert-level polymer science covering polymer structure, thermoplastics and thermosets, mechanical behavior, processing methods, and polymer selection for engineering applications.
-author: luokai25
+author: luo-kai
 tags: [polymers, thermoplastics, thermosets, polymer processing, viscoelasticity, degradation]
 ---
 

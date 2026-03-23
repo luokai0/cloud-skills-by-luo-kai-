@@ -2,7 +2,7 @@
 name: deep-intel
 version: 1.0.0
 description: Context-aware exhaustive research. Reads USER.md and MEMORY.md first, decomposes topic into 8+ research angles, fetches full pages, cross-references findings, delivers strategic brief filtered through your goals and constraints.
-author: lous-creations
+author: luo-kai
 tags: [research, intelligence, agents, strategy, automation]
 requires: [web_search, web_fetch, memory]
 ---

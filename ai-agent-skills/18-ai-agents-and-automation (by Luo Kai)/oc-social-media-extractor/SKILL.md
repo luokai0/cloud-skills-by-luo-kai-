@@ -2,7 +2,7 @@
 name: oc-social-media-extractor
 version: 1.0.0
 description: This skill enables Claude to extract public data from **Instagram**, **TikTok**, and **Reddit**.
-author: lous-creations
+author: luo-kai
 tags: [social-media-extractor, openclaw, community]
 source: https://clawskills.sh/skills/social-media-extractor
 ---

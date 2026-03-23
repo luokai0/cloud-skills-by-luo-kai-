@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: react-native-expert
 description: Expert-level React Native development. Use when building cross-platform mobile apps with React Native, working with navigation, native modules, Expo, animations (Reanimated), performance optimization, or publishing to app stores. Also use when the user mentions 'React Native', 'Expo', 'React Navigation', 'Reanimated', 'native module', 'iOS build', 'Android build', 'metro bundler', or 'app store publishing'.
 license: MIT

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: workspace-gmail
 description: |
   Interact with Gmail - search emails, read messages, send emails, create drafts, and manage labels.

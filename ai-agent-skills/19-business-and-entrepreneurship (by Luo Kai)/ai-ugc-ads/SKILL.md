@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: ai-ugc-ads
 description: "When the user wants to create UGC ad campaigns, recruit UGC creators, generate AI UGC content, or scale with user-generated content. Also use when the user mentions 'UGC,' 'user-generated content,' 'creator ads,' 'Spark Ads,' 'whitelisting,' 'AI UGC,' 'Arcads,' 'Creatify,' 'creator brief,' or 'UGC testing.' This skill covers the UGC growth framework from creator recruitment through AI-powered scaling."
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: appsec-expert
 description: Expert-level application security. Use when identifying security vulnerabilities, implementing input validation, preventing XSS/CSRF/SQLi/SSRF, securing APIs, implementing secure coding practices, or performing threat modeling. Also use when the user mentions 'OWASP', 'XSS', 'CSRF', 'SQL injection', 'security vulnerability', 'threat model', 'penetration testing', 'CVE', or 'security audit'.
 license: MIT

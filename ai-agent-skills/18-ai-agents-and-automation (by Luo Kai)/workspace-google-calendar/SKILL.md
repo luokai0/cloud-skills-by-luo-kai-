@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: workspace-google-calendar
 description: |
   Interact with Google Calendar - list calendars, view events, create/update/delete events, and find free time.

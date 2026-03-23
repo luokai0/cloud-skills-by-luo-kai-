@@ -2,7 +2,7 @@
 name: performance-engineer
 version: 1.0.0
 description: Use this agent when you need to identify and eliminate performance bottlenecks in applications, databases, or infrastructure systems, and when baseline performance metrics need improvement.
-author: lous-creations
+author: luo-kai
 tags: [performance,-engineer]
 ---
 

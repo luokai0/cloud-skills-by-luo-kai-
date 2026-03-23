@@ -2,7 +2,7 @@
 name: oc-arc-security-mcp
 version: 1.0.0
 description: AI-first security intelligence with LLM-powered intent analysis. 743+ findings from 361+ skill audits, 25 pattern.
-author: lous-creations
+author: luo-kai
 tags: [arc-security-mcp, openclaw, community]
 source: https://clawskills.sh/skills/arc-security-mcp
 ---

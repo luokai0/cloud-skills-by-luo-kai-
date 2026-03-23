@@ -2,7 +2,7 @@
 name: marine-biology-expert
 version: 1.0.0
 description: Expert-level marine biology covering ocean ecosystems, marine organisms, coral reef ecology, deep sea biology, fisheries science, ocean chemistry, and marine conservation.
-author: luokai25
+author: luo-kai
 tags: [marine biology, ocean, coral reefs, fisheries, deep sea, conservation]
 ---
 

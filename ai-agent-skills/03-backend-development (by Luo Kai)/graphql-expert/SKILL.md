@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: graphql-expert
 description: Expert-level GraphQL. Use when designing schemas, writing resolvers, using Apollo, DataLoader for N+1, or optimizing GraphQL performance.
 license: MIT

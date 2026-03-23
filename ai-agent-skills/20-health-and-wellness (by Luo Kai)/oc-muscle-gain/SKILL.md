@@ -2,7 +2,7 @@
 name: oc-muscle-gain
 version: 1.0.0
 description: Track muscle building with weight progression, protein tracking.
-author: lous-creations
+author: luo-kai
 tags: [muscle-gain, openclaw, community]
 source: https://clawskills.sh/skills/muscle-gain
 ---

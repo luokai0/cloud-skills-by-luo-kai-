@@ -2,7 +2,7 @@
 name: agent-installer
 version: 1.0.0
 description: Use this agent when the user wants to discover, browse, or install Claude Code agents from the awesome-claude-code-subagents repository.
-author: lous-creations
+author: luo-kai
 tags: [agent,-installer]
 ---
 

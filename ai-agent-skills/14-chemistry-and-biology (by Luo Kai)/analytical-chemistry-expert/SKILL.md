@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: analytical-chemistry-expert
 description: Expert-level analytical chemistry knowledge. Use when working with chromatography, spectroscopy, electroanalytical methods, sample preparation, quantitative analysis, calibration, statistics, or instrumental analysis. Also use when the user mentions 'HPLC', 'GC', 'mass spectrometry', 'atomic absorption', 'ICP', 'titration', 'calibration curve', 'detection limit', 'NMR', 'chromatography', 'electrochemistry', 'sample preparation', or 'method validation'.
 license: MIT

@@ -2,7 +2,7 @@
 name: medical-devices-expert
 version: 1.0.0
 description: Expert-level medical device design covering regulatory pathways, design controls, biocompatibility, sterilization, risk management, and verification and validation.
-author: luokai25
+author: luo-kai
 tags: [medical devices, FDA, ISO 13485, design controls, biocompatibility, risk management]
 ---
 

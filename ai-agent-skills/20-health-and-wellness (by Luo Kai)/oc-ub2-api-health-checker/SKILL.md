@@ -2,7 +2,7 @@
 name: oc-ub2-api-health-checker
 version: 1.0.0
 description: A skill that enables Claw to test API endpoints, verify their responses, measure performance, and generate a health.
-author: lous-creations
+author: luo-kai
 tags: [ub2-api-health-checker, openclaw, community]
 source: https://clawskills.sh/skills/ub2-api-health-checker
 ---

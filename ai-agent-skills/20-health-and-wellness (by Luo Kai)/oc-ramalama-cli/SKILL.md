@@ -2,7 +2,7 @@
 name: oc-ramalama-cli
 version: 1.0.0
 description: Run and interact with AI agents.
-author: lous-creations
+author: luo-kai
 tags: [ramalama-cli, openclaw, community]
 source: https://clawskills.sh/skills/ramalama-cli
 ---

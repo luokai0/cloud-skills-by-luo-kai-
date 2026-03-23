@@ -2,7 +2,7 @@
 name: oc-anti-regression
 version: 1.0.0
 description: Stop drifting back to chatbot behavior.
-author: lous-creations
+author: luo-kai
 tags: [anti-regression, openclaw, community]
 source: https://clawskills.sh/skills/anti-regression
 ---

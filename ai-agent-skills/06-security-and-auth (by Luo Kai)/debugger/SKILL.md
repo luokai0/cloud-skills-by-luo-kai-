@@ -2,7 +2,7 @@
 name: debugger
 version: 1.0.0
 description: Use this agent when you need to diagnose and fix bugs, identify root causes of failures, or analyze error logs and stack traces to resolve issues.
-author: lous-creations
+author: luo-kai
 tags: [debugger]
 ---
 

@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: deep-research
 description: "Execute autonomous multi-step research using Google Gemini Deep Research Agent. Use for: market analysis, competitive landscaping, literature reviews, technical research, due diligence. Takes 2-10 minutes but produces detailed, cited reports. Costs $2-5 per task."
 license: Apache-2.0

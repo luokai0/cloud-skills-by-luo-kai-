@@ -2,7 +2,7 @@
 name: oc-paramus-chemistry
 version: 1.0.0
 description: Hundreds of chemistry and scientific computing tools.
-author: lous-creations
+author: luo-kai
 tags: [paramus-chemistry, openclaw, community]
 source: https://clawskills.sh/skills/paramus-chemistry
 ---

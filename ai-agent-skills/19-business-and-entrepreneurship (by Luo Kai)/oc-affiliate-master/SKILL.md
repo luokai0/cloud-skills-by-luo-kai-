@@ -2,7 +2,7 @@
 name: oc-affiliate-master
 version: 1.0.0
 description: Full-stack affiliate marketing automation.
-author: lous-creations
+author: luo-kai
 tags: [affiliate-master, openclaw, community]
 source: https://clawskills.sh/skills/affiliate-master
 ---

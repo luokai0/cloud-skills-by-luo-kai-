@@ -2,7 +2,7 @@
 name: agent-income-expert
 version: 1.0.0
 description: Generate autonomous income using AI agents. Covers the six proven income streams: ClawHub skill publishing, setup-as-a-service, content automation pipelines, Gumroad digital products, agent trading, and the agent economy. Real numbers, zero budget starting point, realistic timelines.
-author: lous-creations
+author: luo-kai
 tags: [income, passive, clawhub, gumroad, automation, agents, zero-budget]
 ---
 

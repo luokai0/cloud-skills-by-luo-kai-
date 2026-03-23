@@ -2,7 +2,7 @@
 name: m365-admin
 version: 1.0.0
 description: Use when automating Microsoft 365 administrative tasks including Exchange Online mailbox provisioning, Teams collaboration management, SharePoint site configuration, license lifecycle management, a...
-author: lous-creations
+author: luo-kai
 tags: [m365,-admin]
 ---
 

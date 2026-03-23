@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: workspace-google-chat
 description: |
   Interact with Google Chat - list spaces, send messages, read conversations, and manage DMs.

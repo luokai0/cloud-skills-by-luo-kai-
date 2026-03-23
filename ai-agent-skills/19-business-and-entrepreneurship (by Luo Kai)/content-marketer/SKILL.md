@@ -2,7 +2,7 @@
 name: content-marketer
 version: 1.0.0
 description: Use this agent when you need to develop comprehensive content strategies, create SEO-optimized marketing content, or execute multi-channel content campaigns to drive engagement and conversions. Inv...
-author: lous-creations
+author: luo-kai
 tags: [content,-marketer]
 ---
 

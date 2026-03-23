@@ -2,7 +2,7 @@
 name: oc-vynn-backtester
 version: 1.0.0
 description: Run trading strategy backtests with natural language — powered by Vynn.
-author: lous-creations
+author: luo-kai
 tags: [vynn-backtester, openclaw, community]
 source: https://clawskills.sh/skills/vynn-backtester
 ---

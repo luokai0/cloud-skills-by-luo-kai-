@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: fluid-physics-expert
 description: Expert-level fluid physics knowledge. Use when working with fluid statics, fluid dynamics, Bernoulli equation, viscosity, turbulence, Navier-Stokes equations, boundary layers, vorticity, compressible flow, or surface tension. Also use when the user mentions 'Bernoulli', 'Navier-Stokes', 'Reynolds number', 'turbulence', 'viscosity', 'boundary layer', 'vorticity', 'continuity equation', 'laminar flow', 'pressure', 'buoyancy', or 'surface tension'.
 license: MIT

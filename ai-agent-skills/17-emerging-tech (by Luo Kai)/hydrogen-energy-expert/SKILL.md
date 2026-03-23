@@ -2,7 +2,7 @@
 name: hydrogen-energy-expert
 version: 1.0.0
 description: Expert-level hydrogen energy covering production methods, storage, fuel cells, hydrogen economy, safety, and the role of hydrogen in decarbonization.
-author: luokai25
+author: luo-kai
 tags: [hydrogen, electrolysis, fuel cells, green hydrogen, hydrogen economy]
 ---
 

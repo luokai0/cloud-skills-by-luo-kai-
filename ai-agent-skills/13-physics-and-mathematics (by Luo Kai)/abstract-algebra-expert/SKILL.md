@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: abstract-algebra-expert
 description: Expert-level abstract algebra knowledge. Use when working with groups, rings, fields, modules, Galois theory, representation theory, or algebraic structures. Also use when the user mentions 'group', 'ring', 'field', 'homomorphism', 'isomorphism', 'normal subgroup', 'quotient group', 'Sylow theorem', 'Galois theory', 'polynomial ring', 'ideal', 'module', 'vector space', or 'representation theory'.
 license: MIT

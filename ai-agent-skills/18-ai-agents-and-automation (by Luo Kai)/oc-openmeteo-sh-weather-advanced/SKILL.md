@@ -2,7 +2,7 @@
 name: oc-openmeteo-sh-weather-advanced
 version: 1.0.0
 description: Advanced weather from free OpenMeteo API: historical data, detailed variable selection, model choice, past-days.
-author: lous-creations
+author: luo-kai
 tags: [openmeteo-sh-weather-advanced, openclaw, community]
 source: https://clawskills.sh/skills/openmeteo-sh-weather-advanced
 ---

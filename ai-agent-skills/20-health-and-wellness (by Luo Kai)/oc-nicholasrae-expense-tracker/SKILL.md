@@ -2,7 +2,7 @@
 name: oc-nicholasrae-expense-tracker
 version: 1.0.0
 description: Just say what you spent — your AI logs it, categorizes it, and tracks it against your budget.
-author: lous-creations
+author: luo-kai
 tags: [nicholasrae-expense-tracker, openclaw, community]
 source: https://clawskills.sh/skills/nicholasrae-expense-tracker
 ---

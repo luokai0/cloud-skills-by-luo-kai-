@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: workspace-google-slides
 description: |
   Read and write Google Slides presentations - get text, find presentations, create presentations, add slides,

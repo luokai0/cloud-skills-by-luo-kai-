@@ -2,7 +2,7 @@
 name: exoplanets-expert
 version: 1.0.0
 description: Expert-level exoplanet science covering detection methods, orbital dynamics, planetary atmospheres, habitability, and the search for biosignatures.
-author: luokai25
+author: luo-kai
 tags: [exoplanets, transits, radial velocity, atmospheres, habitability, biosignatures]
 ---
 

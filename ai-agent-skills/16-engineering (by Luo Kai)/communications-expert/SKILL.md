@@ -2,7 +2,7 @@
 name: communications-expert
 version: 1.0.0
 description: Expert-level communications engineering covering modulation, channel capacity, error correction, wireless systems, OFDM, MIMO, and 5G technologies.
-author: luokai25
+author: luo-kai
 tags: [communications, modulation, Shannon, OFDM, MIMO, 5G, error correction]
 ---
 

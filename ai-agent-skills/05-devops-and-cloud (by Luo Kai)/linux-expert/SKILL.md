@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: linux-expert
 description: Expert-level Linux system administration and scripting. Use when writing bash scripts, working with Linux commands, systemd, cron, networking, file permissions, process management, performance monitoring, or server hardening. Also use when the user mentions 'bash script', 'systemd', 'cron', 'chmod', 'iptables', 'ssh', 'grep', 'awk', 'sed', 'process management', or 'server not responding'.
 license: MIT

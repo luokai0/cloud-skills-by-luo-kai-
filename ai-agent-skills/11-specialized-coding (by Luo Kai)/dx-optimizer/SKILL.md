@@ -2,7 +2,7 @@
 name: dx-optimizer
 version: 1.0.0
 description: Use this agent when optimizing the complete developer workflow including build times, feedback loops, testing efficiency, and developer satisfaction metrics across the entire development environment.
-author: lous-creations
+author: luo-kai
 tags: [dx,-optimizer]
 ---
 

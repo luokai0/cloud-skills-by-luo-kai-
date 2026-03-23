@@ -2,7 +2,7 @@
 name: climatology-expert
 version: 1.0.0
 description: Expert-level climatology covering climate system components, climate forcing and feedbacks, paleoclimatology, climate modeling, and climate change science.
-author: luokai25
+author: luo-kai
 tags: [climatology, climate change, climate modeling, forcing, feedbacks, paleoclimate]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-nicholasrae-review-reply
 version: 1.0.0
 description: Automatically monitors your App Store reviews and drafts warm, on-brand replies for 1–3 star reviews — so unhappy.
-author: lous-creations
+author: luo-kai
 tags: [nicholasrae-review-reply, openclaw, community]
 source: https://clawskills.sh/skills/nicholasrae-review-reply
 ---

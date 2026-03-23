@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: special-relativity-expert
 description: Expert-level special relativity knowledge. Use when working with Lorentz transformations, time dilation, length contraction, relativistic energy, mass-energy equivalence, spacetime, four-vectors, or relativistic mechanics. Also use when the user mentions 'Lorentz transformation', 'time dilation', 'length contraction', 'E=mc2', 'spacetime', 'four-vector', 'relativistic momentum', 'light cone', 'proper time', 'Minkowski', or 'relativistic velocity addition'.
 license: MIT

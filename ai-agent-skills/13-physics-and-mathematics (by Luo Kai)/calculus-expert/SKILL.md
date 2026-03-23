@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: calculus-expert
 description: Expert-level calculus knowledge. Use when working with limits, derivatives, integrals, multivariable calculus, vector calculus, differential equations, series, or optimization. Also use when the user mentions 'derivative', 'integral', 'limit', 'chain rule', 'gradient', 'divergence', 'curl', 'Taylor series', 'Fourier series', 'partial derivative', 'double integral', 'line integral', 'Stokes theorem', or 'Lagrange multipliers'.
 license: MIT

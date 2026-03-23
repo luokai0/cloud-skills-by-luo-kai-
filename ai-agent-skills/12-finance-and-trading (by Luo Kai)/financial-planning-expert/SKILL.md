@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: financial-planning-expert
 description: Expert-level personal financial planning and wealth building. Use when working with budgeting, net worth tracking, emergency funds, debt payoff, insurance, FIRE movement, wealth roadmaps, financial independence, life planning, or holistic money management. Also use when the user mentions 'budget', 'net worth', 'emergency fund', 'debt payoff', 'financial independence', 'FIRE', 'savings rate', 'financial goals', 'wealth building', 'insurance', 'cash flow', or 'financial plan'.
 license: MIT

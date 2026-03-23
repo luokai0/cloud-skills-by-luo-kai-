@@ -2,7 +2,7 @@
 name: oc-academic-writer
 version: 1.0.0
 description: Professional LaTeX writing assistant.
-author: lous-creations
+author: luo-kai
 tags: [academic-writer, openclaw, community]
 source: https://clawskills.sh/skills/academic-writer
 ---

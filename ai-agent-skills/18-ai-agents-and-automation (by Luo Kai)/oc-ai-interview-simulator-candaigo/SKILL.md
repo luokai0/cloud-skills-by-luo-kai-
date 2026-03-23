@@ -2,7 +2,7 @@
 name: oc-ai-interview-simulator-candaigo
 version: 1.0.0
 description: Candaigo AI Interview Simulator - AI-powered group interview simulation platform.
-author: lous-creations
+author: luo-kai
 tags: [ai-interview-simulator-candaigo, openclaw, community]
 source: https://clawskills.sh/skills/ai-interview-simulator-candaigo
 ---

@@ -2,7 +2,7 @@
 name: oc-revolut-business
 version: 1.0.0
 description: Revolut Business API CLI — accounts, balances, transactions, counterparties, payments, FX exchange, CSV export.
-author: lous-creations
+author: luo-kai
 tags: [revolut-business, openclaw, community]
 source: https://clawskills.sh/skills/revolut-business
 ---

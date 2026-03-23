@@ -2,7 +2,7 @@
 name: data-structures-expert
 version: 1.0.0
 description: Expert-level data structures covering arrays, linked lists, trees, heaps, hash tables, graphs, and advanced structures like segment trees, tries, and union-find.
-author: luokai25
+author: luo-kai
 tags: [data structures, trees, graphs, hash tables, heaps]
 ---
 

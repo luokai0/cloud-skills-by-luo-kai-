@@ -2,7 +2,7 @@
 name: oc-aisa-llm-router-skill
 version: 1.0.0
 description: Unified LLM Gateway - One API for 70+ AI models.
-author: lous-creations
+author: luo-kai
 tags: [aisa-llm-router-skill, openclaw, community]
 source: https://clawskills.sh/skills/aisa-llm-router-skill
 ---

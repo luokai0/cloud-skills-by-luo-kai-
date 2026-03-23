@@ -2,7 +2,7 @@
 name: nlp-engineer
 version: 1.0.0
 description: Use when building production NLP systems, implementing text processing pipelines, developing language models, or solving domain-specific NLP tasks like named entity recognition, sentiment analysis,...
-author: lous-creations
+author: luo-kai
 tags: [nlp,-engineer]
 ---
 

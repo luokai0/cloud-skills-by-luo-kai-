@@ -2,7 +2,7 @@
 name: git-workflow-manager
 version: 1.0.0
 description: Use this agent when you need to design, establish, or optimize Git workflows, branching strategies, and merge management for a project or team.
-author: lous-creations
+author: luo-kai
 tags: [git,-workflow,-manager]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: behavioral-finance-expert
 description: Expert-level behavioral finance and market psychology. Use when analyzing investor biases, market sentiment, crowd psychology, irrational market behavior, cognitive errors in investing, or the psychological drivers of bubbles and crashes. Also use when the user mentions 'cognitive bias', 'loss aversion', 'overconfidence', 'herd behavior', 'anchoring', 'market sentiment', 'fear and greed', 'bubble', 'panic selling', 'disposition effect', or 'mental accounting'.
 license: MIT

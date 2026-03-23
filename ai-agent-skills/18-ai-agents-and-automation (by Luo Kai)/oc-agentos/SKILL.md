@@ -2,7 +2,7 @@
 name: oc-agentos
 version: 1.0.0
 description: The complete AgentOS integration for Clawdbot.
-author: lous-creations
+author: luo-kai
 tags: [agentos, openclaw, community]
 source: https://clawskills.sh/skills/agentos
 ---

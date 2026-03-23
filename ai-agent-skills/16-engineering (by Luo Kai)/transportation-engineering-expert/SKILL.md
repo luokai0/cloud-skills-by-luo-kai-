@@ -2,7 +2,7 @@
 name: transportation-engineering-expert
 version: 1.0.0
 description: Expert-level transportation engineering covering highway design, traffic flow, intersection design, pavement design, traffic impact studies, and public transit.
-author: luokai25
+author: luo-kai
 tags: [transportation, highway design, traffic flow, pavement, intersections, transit]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: numerical-methods-expert
 description: Expert-level numerical methods knowledge. Use when working with root finding, numerical integration, numerical differentiation, interpolation, numerical linear algebra, ODEs, PDEs, or optimization algorithms. Also use when the user mentions 'Newton method', 'bisection', 'Runge-Kutta', 'finite difference', 'finite element', 'interpolation', 'numerical integration', 'quadrature', 'iterative solvers', 'condition number', 'round-off error', or 'truncation error'.
 license: MIT

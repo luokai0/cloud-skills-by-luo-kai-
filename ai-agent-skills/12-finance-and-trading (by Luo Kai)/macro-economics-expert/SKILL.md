@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: macro-economics-expert
 description: Expert-level macroeconomics and global market analysis. Use when analyzing interest rates, inflation, GDP, central bank policy, yield curves, economic cycles, currency wars, geopolitical risk, commodity cycles, or global capital flows. Also use when the user mentions 'Fed', 'interest rates', 'inflation', 'yield curve', 'recession', 'GDP', 'monetary policy', 'fiscal policy', 'stagflation', 'quantitative easing', 'dollar index', or 'economic cycle'.
 license: MIT

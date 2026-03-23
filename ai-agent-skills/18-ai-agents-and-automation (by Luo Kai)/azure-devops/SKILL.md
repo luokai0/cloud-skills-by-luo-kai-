@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: azure-devops
 description: |
   Manage Azure DevOps projects, work items, repos, PRs, pipelines, wikis, test plans, security alerts,

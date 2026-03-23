@@ -2,7 +2,7 @@
 name: fullstack-developer
 version: 1.0.0
 description: Use this agent when you need to build complete features spanning database, API, and frontend layers together as a cohesive unit.
-author: lous-creations
+author: luo-kai
 tags: [fullstack,-developer]
 ---
 

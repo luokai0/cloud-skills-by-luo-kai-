@@ -2,7 +2,7 @@
 name: distributed-systems-cs-expert
 version: 1.0.0
 description: Expert-level distributed systems theory covering consistency models, consensus algorithms, fault tolerance, replication, distributed transactions, and the CAP theorem.
-author: luokai25
+author: luo-kai
 tags: [distributed systems, consensus, CAP theorem, replication, Raft, Paxos]
 ---
 

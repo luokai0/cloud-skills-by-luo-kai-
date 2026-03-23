@@ -2,7 +2,7 @@
 name: oc-agentic-calling
 version: 1.0.0
 description: Enables AI agents to make and receive phone calls.
-author: lous-creations
+author: luo-kai
 tags: [agentic-calling, openclaw, community]
 source: https://clawskills.sh/skills/agentic-calling
 ---

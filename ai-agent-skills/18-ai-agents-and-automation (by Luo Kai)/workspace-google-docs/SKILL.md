@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: workspace-google-docs
 description: |
   Interact with Google Docs - create documents, search by title, read content, and edit text.

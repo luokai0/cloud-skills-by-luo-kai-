@@ -2,7 +2,7 @@
 name: seismology-expert
 version: 1.0.0
 description: Expert-level seismology covering earthquake seismology, seismic wave propagation, seismometer instrumentation, earthquake source parameters, seismic hazard, and induced seismicity.
-author: luokai25
+author: luo-kai
 tags: [seismology, earthquakes, seismic waves, fault mechanics, seismic hazard]
 ---
 

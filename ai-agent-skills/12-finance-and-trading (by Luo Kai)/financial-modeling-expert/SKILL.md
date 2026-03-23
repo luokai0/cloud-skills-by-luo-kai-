@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: financial-modeling-expert
 description: Expert-level financial modeling and valuation. Use when building financial models, LBO models, DCF models, merger models, three-statement models, scenario analysis, sensitivity tables, or forecasting financial statements. Also use when the user mentions 'financial model', 'LBO', 'merger model', 'DCF', 'three statement model', 'sensitivity analysis', 'scenario analysis', 'Excel model', 'forecast', 'assumptions', 'waterfall', or 'returns analysis'.
 license: MIT

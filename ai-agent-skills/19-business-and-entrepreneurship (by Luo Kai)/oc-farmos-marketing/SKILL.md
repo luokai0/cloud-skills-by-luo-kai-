@@ -2,7 +2,7 @@
 name: oc-farmos-marketing
 version: 1.0.0
 description: Query grain marketing positions, contracts, delivery schedules, inventory, and revenue data.
-author: lous-creations
+author: luo-kai
 tags: [farmos-marketing, openclaw, community]
 source: https://clawskills.sh/skills/farmos-marketing
 ---

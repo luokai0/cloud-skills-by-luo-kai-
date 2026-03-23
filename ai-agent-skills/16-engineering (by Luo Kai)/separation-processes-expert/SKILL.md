@@ -2,7 +2,7 @@
 name: separation-processes-expert
 version: 1.0.0
 description: Expert-level separation processes covering distillation, absorption, extraction, crystallization, membrane separations, and adsorption for chemical engineering applications.
-author: luokai25
+author: luo-kai
 tags: [separation, distillation, absorption, extraction, membranes, crystallization]
 ---
 

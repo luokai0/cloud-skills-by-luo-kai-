@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: kubernetes-expert
 description: Expert-level Kubernetes orchestration. Use when writing K8s manifests, Helm charts, RBAC, namespaces, HPA, Ingress, service mesh, or managing clusters. Also use when the user mentions 'kubectl', 'Pod', 'Deployment', 'Helm', 'Ingress', 'namespace', 'ConfigMap', 'Secret', 'HPA', 'node not ready', or 'pod crashing'.
 license: MIT

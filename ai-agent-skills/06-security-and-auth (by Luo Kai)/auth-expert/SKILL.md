@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: auth-expert
 description: Expert-level authentication and authorization. Use when implementing OAuth2, OIDC, JWT, session management, RBAC, ABAC, MFA, SSO, password hashing, or integrating auth providers (Auth0, Clerk, NextAuth, Supabase Auth). Also use when the user mentions 'OAuth', 'JWT', 'OIDC', 'RBAC', 'MFA', 'SSO', 'session management', 'refresh token', 'access token', or 'login flow'.
 license: MIT

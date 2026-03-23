@@ -2,7 +2,7 @@
 name: construction-management-expert
 version: 1.0.0
 description: Expert-level construction management covering project planning, scheduling, cost estimation, procurement, quality control, safety, and contract administration.
-author: luokai25
+author: luo-kai
 tags: [construction management, scheduling, cost estimation, CPM, safety, contracts]
 ---
 

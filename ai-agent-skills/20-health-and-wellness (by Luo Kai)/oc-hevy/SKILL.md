@@ -2,7 +2,7 @@
 name: oc-hevy
 version: 1.0.0
 description: Query workout data from Hevy including workouts, routines, exercises.
-author: lous-creations
+author: luo-kai
 tags: [hevy, openclaw, community]
 source: https://clawskills.sh/skills/hevy
 ---

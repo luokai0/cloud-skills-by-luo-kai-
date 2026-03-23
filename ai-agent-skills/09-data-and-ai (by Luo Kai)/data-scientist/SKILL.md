@@ -2,7 +2,7 @@
 name: data-scientist
 version: 1.0.0
 description: Use this agent when you need to analyze data patterns, build predictive models, or extract statistical insights from datasets. Invoke this agent for exploratory analysis, hypothesis testing, machin...
-author: lous-creations
+author: luo-kai
 tags: [data,-scientist]
 ---
 

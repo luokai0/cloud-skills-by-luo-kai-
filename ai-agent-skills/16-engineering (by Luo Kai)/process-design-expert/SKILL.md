@@ -2,7 +2,7 @@
 name: process-design-expert
 version: 1.0.0
 description: Expert-level chemical process design covering process flow diagrams, mass and energy balances, equipment sizing, economic evaluation, and sustainable process design.
-author: luokai25
+author: luo-kai
 tags: [process design, PFD, mass balance, energy balance, equipment sizing, economics]
 ---
 

@@ -2,7 +2,7 @@
 name: ai-engineer
 version: 1.0.0
 description: Use this agent when architecting, implementing, or optimizing end-to-end AI systems—from model selection and training pipelines to production deployment and monitoring.
-author: lous-creations
+author: luo-kai
 tags: [ai,-engineer]
 ---
 

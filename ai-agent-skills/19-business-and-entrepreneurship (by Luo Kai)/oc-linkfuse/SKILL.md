@@ -2,7 +2,7 @@
 name: oc-linkfuse
 version: 1.0.0
 description: Create a Linkfuse affiliate short link from any URL.
-author: lous-creations
+author: luo-kai
 tags: [linkfuse, openclaw, community]
 source: https://clawskills.sh/skills/linkfuse
 ---

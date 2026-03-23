@@ -2,7 +2,7 @@
 name: performance-monitor
 version: 1.0.0
 description: Use when establishing observability infrastructure to track system metrics, detect performance anomalies, and optimize resource usage across multi-agent environments.
-author: lous-creations
+author: luo-kai
 tags: [performance,-monitor]
 ---
 

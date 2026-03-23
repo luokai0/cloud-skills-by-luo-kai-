@@ -2,7 +2,7 @@
 name: oc-mh-openai-whisper
 version: 1.0.0
 description: Local speech-to-text with the Whisper CLI (no API key).
-author: lous-creations
+author: luo-kai
 tags: [mh-openai-whisper, openclaw, community]
 source: https://clawskills.sh/skills/mh-openai-whisper
 ---

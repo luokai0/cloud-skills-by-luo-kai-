@@ -2,7 +2,7 @@
 name: oc-buzz-bd
 version: 1.0.0
 description: Autonomous crypto token discovery, scoring, and business development intelligence.
-author: lous-creations
+author: luo-kai
 tags: [buzz-bd, openclaw, community]
 source: https://clawskills.sh/skills/buzz-bd
 ---

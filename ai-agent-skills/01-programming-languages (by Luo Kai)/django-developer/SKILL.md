@@ -2,7 +2,7 @@
 name: django-developer
 version: 1.0.0
 description: Use when building Django 4+ web applications, REST APIs, or modernizing existing Django projects with async views and enterprise patterns.
-author: lous-creations
+author: luo-kai
 tags: [django,-developer]
 ---
 

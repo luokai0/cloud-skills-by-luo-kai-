@@ -2,7 +2,7 @@
 name: oc-posthog
 version: 1.0.0
 description: Interact with PostHog analytics via its REST API.
-author: lous-creations
+author: luo-kai
 tags: [posthog, openclaw, community]
 source: https://clawskills.sh/skills/posthog
 ---

@@ -2,7 +2,7 @@
 name: oc-meeting-summarizer
 version: 1.0.0
 description: Transform raw meeting transcripts into structured, actionable summaries.
-author: lous-creations
+author: luo-kai
 tags: [meeting-summarizer, openclaw, community]
 source: https://clawskills.sh/skills/meeting-summarizer
 ---

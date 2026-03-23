@@ -2,7 +2,7 @@
 name: flight-mechanics-expert
 version: 1.0.0
 description: Expert-level flight mechanics covering aircraft equations of motion, stability and control, performance, handling qualities, and flight simulation.
-author: luokai25
+author: luo-kai
 tags: [flight mechanics, stability, control, performance, equations of motion, handling qualities]
 ---
 

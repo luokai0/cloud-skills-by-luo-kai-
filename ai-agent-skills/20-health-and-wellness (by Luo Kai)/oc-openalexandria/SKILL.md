@@ -2,7 +2,7 @@
 name: oc-openalexandria
 version: 1.0.0
 description: Query and submit artifacts to the OpenAlexandria federated knowledge protocol (reference node by default).
-author: lous-creations
+author: luo-kai
 tags: [openalexandria, openclaw, community]
 source: https://clawskills.sh/skills/openalexandria
 ---

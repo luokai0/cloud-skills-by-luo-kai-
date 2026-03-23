@@ -2,7 +2,7 @@
 name: biomechanics-expert
 version: 1.0.0
 description: Expert-level biomechanics covering musculoskeletal mechanics, gait analysis, joint biomechanics, soft tissue mechanics, bone mechanics, and sports biomechanics.
-author: luokai25
+author: luo-kai
 tags: [biomechanics, musculoskeletal, gait analysis, joint mechanics, soft tissue, bone]
 ---
 

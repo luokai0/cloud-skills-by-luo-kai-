@@ -2,7 +2,7 @@
 name: oc-twitter-post
 version: 1.0.0
 description: Post tweets to Twitter/X via the official API v2 (OAuth 1.0a)
-author: lous-creations
+author: luo-kai
 tags: [twitter-post, openclaw, community]
 source: https://clawskills.sh/skills/twitter-post
 ---

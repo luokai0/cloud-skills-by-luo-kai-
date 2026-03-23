@@ -2,7 +2,7 @@
 name: oc-endurance-coach
 version: 1.0.0
 description: Create personalized triathlon, marathon, and ultra-endurance.
-author: lous-creations
+author: luo-kai
 tags: [endurance-coach, openclaw, community]
 source: https://clawskills.sh/skills/endurance-coach
 ---

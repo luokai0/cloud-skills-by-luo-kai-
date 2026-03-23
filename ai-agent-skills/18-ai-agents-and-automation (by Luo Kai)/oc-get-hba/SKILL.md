@@ -2,7 +2,7 @@
 name: oc-get-hba
 version: 1.0.0
 description: Register and update Human Bitcoin Addresses (BIP-353) on clank.money using MoneyDevKit L402 flow and management tokens.
-author: lous-creations
+author: luo-kai
 tags: [get-hba, openclaw, community]
 source: https://clawskills.sh/skills/get-hba
 ---

@@ -2,7 +2,7 @@
 name: hydraulics-expert
 version: 1.0.0
 description: Expert-level hydraulics covering open channel flow, pipe systems, hydraulic structures, pumps and turbines, flood routing, and stormwater management.
-author: luokai25
+author: luo-kai
 tags: [hydraulics, open channel, pipe flow, pumps, flood routing, stormwater]
 ---
 

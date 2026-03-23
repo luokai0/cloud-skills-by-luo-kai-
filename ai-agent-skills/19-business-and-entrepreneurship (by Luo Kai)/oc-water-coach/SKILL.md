@@ -2,7 +2,7 @@
 name: oc-water-coach
 version: 1.0.0
 description: Hydration tracking and coaching skill.
-author: lous-creations
+author: luo-kai
 tags: [water-coach, openclaw, community]
 source: https://clawskills.sh/skills/water-coach
 ---

@@ -2,7 +2,7 @@
 name: oc-attio-enhanced
 version: 1.0.0
 description: Enhanced Attio CRM API skill with batch operations.
-author: lous-creations
+author: luo-kai
 tags: [attio-enhanced, openclaw, community]
 source: https://clawskills.sh/skills/attio-enhanced
 ---

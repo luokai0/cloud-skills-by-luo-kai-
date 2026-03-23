@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: svelte-expert
 description: Expert-level Svelte/SvelteKit development. Use when building Svelte components, working with stores, SvelteKit routing, form actions, or server-side rendering.
 license: MIT

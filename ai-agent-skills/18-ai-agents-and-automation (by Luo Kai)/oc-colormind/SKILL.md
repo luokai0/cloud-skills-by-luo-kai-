@@ -2,7 +2,7 @@
 name: oc-colormind
 version: 1.0.0
 description: Generate color palettes and get color suggestions via the Colormind.io API (list models, generate palettes.
-author: lous-creations
+author: luo-kai
 tags: [colormind, openclaw, community]
 source: https://clawskills.sh/skills/colormind
 ---

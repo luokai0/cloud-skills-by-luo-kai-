@@ -2,7 +2,7 @@
 name: oc-decompose-mcp
 version: 1.0.0
 description: Decompose any text into classified semantic units — authority, risk, attention, entities.
-author: lous-creations
+author: luo-kai
 tags: [decompose-mcp, openclaw, community]
 source: https://clawskills.sh/skills/decompose-mcp
 ---

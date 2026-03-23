@@ -2,7 +2,7 @@
 name: build-engineer
 version: 1.0.0
 description: Use this agent when you need to optimize build performance, reduce compilation times, or scale build systems across growing teams.
-author: lous-creations
+author: luo-kai
 tags: [build,-engineer]
 ---
 

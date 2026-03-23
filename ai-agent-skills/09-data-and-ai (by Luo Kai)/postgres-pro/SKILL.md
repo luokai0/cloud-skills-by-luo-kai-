@@ -2,7 +2,7 @@
 name: postgres-pro
 version: 1.0.0
 description: Use when you need to optimize PostgreSQL performance, design high-availability replication, or troubleshoot database issues at scale. Invoke this agent for query optimization, configuration tuning,...
-author: lous-creations
+author: luo-kai
 tags: [postgres,-pro]
 ---
 

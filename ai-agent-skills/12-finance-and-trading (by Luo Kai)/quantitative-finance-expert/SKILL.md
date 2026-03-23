@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: quantitative-finance-expert
 description: Expert-level quantitative finance and algorithmic trading. Use when working with factor models, statistical arbitrage, backtesting, alpha research, portfolio optimization, time series analysis, machine learning for finance, or building systematic trading strategies. Also use when the user mentions 'alpha factor', 'Sharpe ratio', 'mean reversion', 'momentum factor', 'cointegration', 'pairs trading', 'Monte Carlo', 'portfolio optimization', 'systematic strategy', or 'quant model'.
 license: MIT

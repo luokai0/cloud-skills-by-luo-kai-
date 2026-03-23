@@ -2,7 +2,7 @@
 name: openclaw-setup-expert
 version: 1.0.0
 description: Complete OpenClaw agent setup from zero. Installs on Windows WSL2 or Linux, configures SOUL.md, HEARTBEAT.md, MEMORY.md, AGENTS.md, connects Telegram interface, sets up free model routing with Gemini Flash and Groq. Zero cost stack.
-author: lous-creations
+author: luo-kai
 tags: [openclaw, agents, setup, automation, telegram, free-stack]
 ---
 

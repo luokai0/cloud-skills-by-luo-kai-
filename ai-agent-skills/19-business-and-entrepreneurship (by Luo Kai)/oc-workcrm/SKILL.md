@@ -2,7 +2,7 @@
 name: oc-workcrm
 version: 1.0.0
 description: A lightweight, local-first CRM with an explicit confirmation gate.
-author: lous-creations
+author: luo-kai
 tags: [workcrm, openclaw, community]
 source: https://clawskills.sh/skills/workcrm
 ---

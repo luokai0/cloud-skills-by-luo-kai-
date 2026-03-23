@@ -2,7 +2,7 @@
 name: agent-organizer
 version: 1.0.0
 description: Use when assembling and optimizing multi-agent teams to execute complex projects that require careful task decomposition, agent capability matching, and workflow coordination.
-author: lous-creations
+author: luo-kai
 tags: [agent,-organizer]
 ---
 

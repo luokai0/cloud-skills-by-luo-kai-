@@ -2,7 +2,7 @@
 name: oc-eth24
 version: 1.0.0
 description: You are running ETH24, a daily digest tool that surfaces the top tweets for a configured topic.
-author: lous-creations
+author: luo-kai
 tags: [eth24, openclaw, community]
 source: https://clawskills.sh/skills/eth24
 ---

@@ -2,7 +2,7 @@
 name: aircraft-structures-expert
 version: 1.0.0
 description: Expert-level aircraft structures covering structural design philosophy, wing and fuselage analysis, fatigue and damage tolerance, composite structures, and certification.
-author: luokai25
+author: luo-kai
 tags: [aircraft structures, fatigue, damage tolerance, composites, wing design, certification]
 ---
 

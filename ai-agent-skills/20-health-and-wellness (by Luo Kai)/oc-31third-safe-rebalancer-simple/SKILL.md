@@ -2,7 +2,7 @@
 name: oc-31third-safe-rebalancer-simple
 version: 1.0.0
 description: One-step Safe rebalancer using on-chain 31Third policies.
-author: lous-creations
+author: luo-kai
 tags: [31third-safe-rebalancer-simple, openclaw, community]
 source: https://clawskills.sh/skills/31third-safe-rebalancer-simple
 ---

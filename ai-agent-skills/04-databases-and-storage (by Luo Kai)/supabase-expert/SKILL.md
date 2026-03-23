@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: supabase-expert
 description: Expert-level Supabase. Use when building with Supabase, Row Level Security, Auth, Realtime, Edge Functions, Storage, or integrating with Next.js.
 license: MIT

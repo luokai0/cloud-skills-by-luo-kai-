@@ -2,7 +2,7 @@
 name: oc-calorie-counter
 version: 1.0.0
 description: Track daily calorie and protein intake, set goals, and log.
-author: lous-creations
+author: luo-kai
 tags: [calorie-counter, openclaw, community]
 source: https://clawskills.sh/skills/calorie-counter
 ---

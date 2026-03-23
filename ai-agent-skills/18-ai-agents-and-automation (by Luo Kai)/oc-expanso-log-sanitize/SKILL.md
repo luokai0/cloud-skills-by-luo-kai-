@@ -2,7 +2,7 @@
 name: oc-expanso-log-sanitize
 version: 1.0.0
 description: "Sanitize log entries by removing passwords, tokens, and sensitive patterns".
-author: lous-creations
+author: luo-kai
 tags: [expanso-log-sanitize, openclaw, community]
 source: https://clawskills.sh/skills/expanso-log-sanitize
 ---

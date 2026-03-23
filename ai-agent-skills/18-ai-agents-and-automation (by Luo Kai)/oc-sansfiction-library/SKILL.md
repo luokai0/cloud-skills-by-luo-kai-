@@ -2,7 +2,7 @@
 name: oc-sansfiction-library
 version: 1.0.0
 description: Authorized SansFiction library manager.
-author: lous-creations
+author: luo-kai
 tags: [sansfiction-library, openclaw, community]
 source: https://clawskills.sh/skills/sansfiction-library
 ---

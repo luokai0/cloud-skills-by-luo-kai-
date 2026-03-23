@@ -2,7 +2,7 @@
 name: terraform-engineer
 version: 1.0.0
 description: Use when building, refactoring, or scaling infrastructure as code using Terraform with focus on multi-cloud deployments, module architecture, and enterprise-grade state management.
-author: lous-creations
+author: luo-kai
 tags: [terraform,-engineer]
 ---
 

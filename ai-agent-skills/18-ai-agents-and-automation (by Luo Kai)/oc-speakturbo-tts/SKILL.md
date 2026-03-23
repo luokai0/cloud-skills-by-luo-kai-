@@ -2,7 +2,7 @@
 name: oc-speakturbo-tts
 version: 1.0.0
 description: Give your agent the ability to speak to you real-time.
-author: lous-creations
+author: luo-kai
 tags: [speakturbo-tts, openclaw, community]
 source: https://clawskills.sh/skills/speakturbo-tts
 ---

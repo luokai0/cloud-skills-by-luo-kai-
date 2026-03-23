@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: optimization-expert
 description: Expert-level optimization knowledge. Use when working with linear programming, convex optimization, nonlinear programming, integer programming, dynamic programming, gradient methods, duality theory, or optimization algorithms. Also use when the user mentions 'linear programming', 'simplex method', 'convex optimization', 'Lagrangian', 'KKT conditions', 'gradient descent', 'Newton method', 'integer programming', 'dynamic programming', 'duality', 'Bellman equation', or 'branch and bound'.
 license: MIT

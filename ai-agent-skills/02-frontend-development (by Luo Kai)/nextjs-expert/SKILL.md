@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: nextjs-expert
 description: Expert-level Next.js development. Use when building Next.js apps, working with App Router, Server Components, Client Components, Server Actions, data fetching, middleware, ISR, SSG, SSR, or deploying Next.js. Also use when the user mentions 'App Router', 'Server Actions', 'getServerSideProps', 'middleware', 'ISR', 'use client', 'use server', 'layout.tsx', or 'page.tsx'.
 license: MIT

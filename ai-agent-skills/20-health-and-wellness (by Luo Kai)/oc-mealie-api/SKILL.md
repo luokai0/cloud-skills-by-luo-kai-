@@ -2,7 +2,7 @@
 name: oc-mealie-api
 version: 1.0.0
 description: Interact with Mealie recipe manager (recipes, shopping lists, meal plans)
-author: lous-creations
+author: luo-kai
 tags: [mealie-api, openclaw, community]
 source: https://clawskills.sh/skills/mealie-api
 ---

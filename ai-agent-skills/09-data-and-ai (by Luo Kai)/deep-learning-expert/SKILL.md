@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: deep-learning
 description: Expert-level deep learning with PyTorch and TensorFlow. Use when building neural networks, CNNs, RNNs, transformers, training loops, loss functions, backpropagation, GPU optimization, or fine-tuning pretrained models. Also use when the user mentions 'neural network', 'PyTorch', 'transformer', 'fine-tuning', 'backpropagation', 'GPU training', 'loss function', 'overfitting', 'batch normalization', or 'transfer learning'.
 license: MIT

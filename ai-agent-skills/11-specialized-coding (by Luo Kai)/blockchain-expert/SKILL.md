@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: blockchain-expert
 description: Expert-level blockchain. Use when writing Solidity, Hardhat/Foundry, ethers.js, DeFi, NFTs, Web3 wallets, or deploying to EVM chains.
 license: MIT

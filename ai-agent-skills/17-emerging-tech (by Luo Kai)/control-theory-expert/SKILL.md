@@ -2,7 +2,7 @@
 name: control-theory-expert
 version: 1.0.0
 description: Expert-level control theory covering PID control, state-space methods, stability analysis, optimal control, robust control, and nonlinear control.
-author: luokai25
+author: luo-kai
 tags: [control theory, PID, state-space, stability, optimal control, Lyapunov]
 ---
 

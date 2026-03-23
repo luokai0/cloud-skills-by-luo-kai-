@@ -2,7 +2,7 @@
 name: oc-near-agent-skills
 version: 1.0.0
 description: Comprehensive agentic skills for NEAR Protocol, including gas optimization and on-chain analytics.
-author: lous-creations
+author: luo-kai
 tags: [near-agent-skills, openclaw, community]
 source: https://clawskills.sh/skills/near-agent-skills
 ---

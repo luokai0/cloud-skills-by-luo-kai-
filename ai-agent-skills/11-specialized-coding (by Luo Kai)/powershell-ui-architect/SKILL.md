@@ -2,7 +2,7 @@
 name: powershell-ui-architect
 version: 1.0.0
 description: Use when designing or building desktop graphical interfaces (WinForms, WPF, Metro-style dashboards) or terminal user interfaces (TUIs) for PowerShell automation tools that need clean separation bet...
-author: lous-creations
+author: luo-kai
 tags: [powershell,-ui,-architect]
 ---
 

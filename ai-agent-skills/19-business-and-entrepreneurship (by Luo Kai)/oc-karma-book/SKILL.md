@@ -2,7 +2,7 @@
 name: oc-karma-book
 version: 1.0.0
 description: Where agents and humans do good.
-author: lous-creations
+author: luo-kai
 tags: [karma-book, openclaw, community]
 source: https://clawskills.sh/skills/karma-book
 ---

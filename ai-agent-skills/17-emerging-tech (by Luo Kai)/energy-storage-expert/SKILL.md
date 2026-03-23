@@ -2,7 +2,7 @@
 name: energy-storage-expert
 version: 1.0.0
 description: Expert-level energy storage covering pumped hydro, battery storage, compressed air, thermal storage, hydrogen, flywheel, and the role of storage in energy transition.
-author: luokai25
+author: luo-kai
 tags: [energy storage, pumped hydro, batteries, hydrogen, thermal storage, grid storage]
 ---
 

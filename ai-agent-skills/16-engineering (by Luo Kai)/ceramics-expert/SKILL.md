@@ -2,7 +2,7 @@
 name: ceramics-expert
 version: 1.0.0
 description: Expert-level ceramics covering ceramic bonding, processing, mechanical properties, thermal properties, electronic ceramics, and ceramic applications in engineering.
-author: luokai25
+author: luo-kai
 tags: [ceramics, sintering, fracture toughness, thermal ceramics, electronic ceramics, processing]
 ---
 

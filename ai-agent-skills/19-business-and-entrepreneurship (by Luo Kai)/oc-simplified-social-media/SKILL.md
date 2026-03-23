@@ -2,7 +2,7 @@
 name: oc-simplified-social-media
 version: 1.0.0
 description: Manage your entire social media presence — post, schedule, and analyze — directly from your AI coding tool.
-author: lous-creations
+author: luo-kai
 tags: [simplified-social-media, openclaw, community]
 source: https://clawskills.sh/skills/simplified-social-media
 ---

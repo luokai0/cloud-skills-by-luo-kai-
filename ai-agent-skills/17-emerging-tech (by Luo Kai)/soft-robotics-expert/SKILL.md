@@ -2,7 +2,7 @@
 name: soft-robotics-expert
 version: 1.0.0
 description: Expert-level soft robotics covering soft actuators, compliant mechanisms, continuum robots, soft sensors, fabrication methods, and bio-inspired design.
-author: luokai25
+author: luo-kai
 tags: [soft robotics, soft actuators, continuum robots, compliant mechanisms, bio-inspired]
 ---
 

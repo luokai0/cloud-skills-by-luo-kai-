@@ -2,7 +2,7 @@
 name: climate-engineering-expert
 version: 1.0.0
 description: Expert-level climate engineering covering carbon capture and storage, direct air capture, solar geoengineering, enhanced weathering, and carbon accounting.
-author: luokai25
+author: luo-kai
 tags: [climate engineering, carbon capture, CCS, DAC, geoengineering, carbon accounting]
 ---
 

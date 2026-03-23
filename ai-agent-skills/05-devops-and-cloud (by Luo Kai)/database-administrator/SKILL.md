@@ -2,7 +2,7 @@
 name: database-administrator
 version: 1.0.0
 description: Use this agent when optimizing database performance, implementing high-availability architectures, setting up disaster recovery, or managing database infrastructure for production systems.
-author: lous-creations
+author: luo-kai
 tags: [database,-administrator]
 ---
 

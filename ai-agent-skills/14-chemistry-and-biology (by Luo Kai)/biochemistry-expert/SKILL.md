@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: biochemistry-expert
 description: Expert-level biochemistry knowledge. Use when working with proteins, enzymes, metabolism, DNA, RNA, carbohydrates, lipids, cell signaling, or bioenergetics. Also use when the user mentions 'enzyme kinetics', 'metabolism', 'glycolysis', 'Krebs cycle', 'DNA replication', 'protein folding', 'amino acids', 'ATP', 'oxidative phosphorylation', 'gene expression', 'lipid bilayer', or 'signal transduction'.
 license: MIT

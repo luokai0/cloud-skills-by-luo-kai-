@@ -2,7 +2,7 @@
 name: startup-strategy-expert
 version: 1.0.0
 description: Launch and scale startups from zero. Covers idea validation, MVP scoping, market sizing, go-to-market, and fundraising strategy.
-author: lous-creations
+author: luo-kai
 tags: [startup, entrepreneurship, mvp, fundraising, gtm, validation]
 ---
 

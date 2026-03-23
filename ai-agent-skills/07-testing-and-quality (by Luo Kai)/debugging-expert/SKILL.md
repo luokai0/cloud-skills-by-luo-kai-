@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: debugging-expert
 description: Expert-level debugging. Use when debugging complex issues, GDB/lldb/DevTools, stack traces, heap dumps, performance profiles, or production incidents.
 license: MIT

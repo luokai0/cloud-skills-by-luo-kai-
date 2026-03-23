@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: php-expert
 description: Expert-level PHP programming. Use when writing PHP code, working with Composer, Laravel, Symfony, PSR standards, or modern PHP 8+ features.
 license: MIT

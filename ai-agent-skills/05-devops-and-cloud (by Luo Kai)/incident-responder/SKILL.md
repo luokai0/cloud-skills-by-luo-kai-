@@ -2,7 +2,7 @@
 name: incident-responder
 version: 1.0.0
 description: Use this agent when an active security breach, service outage, or operational incident requires immediate response, evidence preservation, and coordinated recovery.
-author: lous-creations
+author: luo-kai
 tags: [incident,-responder]
 ---
 

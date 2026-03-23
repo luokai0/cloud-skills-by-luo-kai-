@@ -2,7 +2,7 @@
 name: renewable-energy-expert
 version: 1.0.0
 description: Expert-level renewable energy covering solar, wind, hydro, geothermal, biomass, energy storage integration, grid integration, and renewable energy policy.
-author: luokai25
+author: luo-kai
 tags: [renewable energy, solar, wind, hydro, geothermal, biomass, grid integration]
 ---
 

@@ -2,7 +2,7 @@
 name: mobile-developer
 version: 1.0.0
 description: Use this agent when building cross-platform mobile applications requiring native performance optimization, platform-specific features, and offline-first architecture. Use for React Native and Flutt...
-author: lous-creations
+author: luo-kai
 tags: [mobile,-developer]
 ---
 

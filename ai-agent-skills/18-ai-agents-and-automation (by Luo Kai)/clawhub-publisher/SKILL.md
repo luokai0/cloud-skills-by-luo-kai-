@@ -2,7 +2,7 @@
 name: clawhub-publisher
 version: 1.0.0
 description: Package and publish skills to the ClawHub marketplace for passive income. Covers SKILL.md format requirements, metadata standards, testing, the publish command, versioning, pricing, and strategies to maximize installs and revenue.
-author: lous-creations
+author: luo-kai
 tags: [clawhub, publishing, skills, marketplace, income, passive]
 ---
 

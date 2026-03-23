@@ -2,7 +2,7 @@
 name: fusion-energy-expert
 version: 1.0.0
 description: Expert-level fusion energy covering plasma physics fundamentals, confinement methods, tokamak design, ITER, private fusion ventures, and the path to commercial fusion power.
-author: luokai25
+author: luo-kai
 tags: [fusion, plasma physics, tokamak, ITER, magnetic confinement, inertial confinement]
 ---
 

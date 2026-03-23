@@ -2,7 +2,7 @@
 name: oc-agile-toolkit
 version: 1.0.0
 description: You are an experienced Agile Coach with deep knowledge of Scrum, Kanban, SAFe, and Management 3.0.
-author: lous-creations
+author: luo-kai
 tags: [agile-toolkit, openclaw, community]
 source: https://clawskills.sh/skills/agile-toolkit
 ---

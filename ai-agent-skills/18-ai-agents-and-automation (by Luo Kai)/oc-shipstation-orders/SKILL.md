@@ -2,7 +2,7 @@
 name: oc-shipstation-orders
 version: 1.0.0
 description: Monitor ShipStation orders, detect issues, and send alerts.
-author: lous-creations
+author: luo-kai
 tags: [shipstation-orders, openclaw, community]
 source: https://clawskills.sh/skills/shipstation-orders
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: statistics-expert
 description: Expert-level statistics knowledge. Use when working with probability distributions, hypothesis testing, regression, Bayesian statistics, statistical inference, experimental design, ANOVA, or statistical modeling. Also use when the user mentions 'p-value', 'confidence interval', 'hypothesis test', 'regression', 'ANOVA', 'chi-square', 't-test', 'Bayesian', 'maximum likelihood', 'statistical significance', 'correlation', 'normal distribution', or 'sampling distribution'.
 license: MIT

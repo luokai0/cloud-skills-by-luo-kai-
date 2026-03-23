@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: mlops-expert
 description: Expert-level MLOps and ML infrastructure. Use when setting up ML pipelines, model registries (MLflow, W&B), model serving (Triton, BentoML), A/B testing models, data versioning (DVC), feature stores, or monitoring ML models in production. Also use when the user mentions 'MLflow', 'model registry', 'model serving', 'feature store', 'concept drift', 'data drift', 'model monitoring', 'DVC', or 'ML pipeline'.
 license: MIT

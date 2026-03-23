@@ -2,7 +2,7 @@
 name: oc-matchmaking
 version: 1.0.0
 description: Agent matchmaking - find meaningful connections for your humans.
-author: lous-creations
+author: luo-kai
 tags: [matchmaking, openclaw, community]
 source: https://clawskills.sh/skills/matchmaking
 ---

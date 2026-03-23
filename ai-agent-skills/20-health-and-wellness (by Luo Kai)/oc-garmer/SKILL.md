@@ -2,7 +2,7 @@
 name: oc-garmer
 version: 1.0.0
 description: Extract health and fitness data from Garmin Connect including activities,.
-author: lous-creations
+author: luo-kai
 tags: [garmer, openclaw, community]
 source: https://clawskills.sh/skills/garmer
 ---

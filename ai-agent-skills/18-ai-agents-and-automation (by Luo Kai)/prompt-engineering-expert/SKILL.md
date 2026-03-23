@@ -2,7 +2,7 @@
 name: prompt-engineering-expert
 version: 1.0.0
 description: Master prompt engineering for production AI systems. Covers system prompts, chain-of-thought, few-shot learning, structured outputs, and prompt optimization.
-author: lous-creations
+author: luo-kai
 tags: [prompt-engineering, llm, chain-of-thought, few-shot, system-prompts, structured-output]
 ---
 

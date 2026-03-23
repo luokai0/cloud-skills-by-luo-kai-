@@ -2,7 +2,7 @@
 name: oc-claude-usage-checker
 version: 1.0.0
 description: Check Claude Code / Claude Max usage limits.
-author: lous-creations
+author: luo-kai
 tags: [claude-usage-checker, openclaw, community]
 source: https://clawskills.sh/skills/claude-usage-checker
 ---

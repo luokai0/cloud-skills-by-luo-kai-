@@ -2,7 +2,7 @@
 name: oc-meeting-autopilot
 version: 1.0.0
 description: Turn meeting transcripts into operational outputs — action items, decisions, follow-up email drafts, and ticket.
-author: lous-creations
+author: luo-kai
 tags: [meeting-autopilot, openclaw, community]
 source: https://clawskills.sh/skills/meeting-autopilot
 ---

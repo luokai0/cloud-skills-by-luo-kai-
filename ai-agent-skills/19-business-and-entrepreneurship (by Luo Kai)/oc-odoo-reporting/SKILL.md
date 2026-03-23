@@ -2,7 +2,7 @@
 name: oc-odoo-reporting
 version: 1.0.0
 description: Query Odoo data including salesperson performance, customer analytics, orders, invoices, CRM, accounting, VAT.
-author: lous-creations
+author: luo-kai
 tags: [odoo-reporting, openclaw, community]
 source: https://clawskills.sh/skills/odoo-reporting
 ---

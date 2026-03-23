@@ -2,7 +2,7 @@
 name: payment-integration
 version: 1.0.0
 description: Use this agent when implementing payment systems, integrating payment gateways, or handling financial transactions that require PCI compliance, fraud prevention, and secure transaction processing.
-author: lous-creations
+author: luo-kai
 tags: [payment,-integration]
 ---
 

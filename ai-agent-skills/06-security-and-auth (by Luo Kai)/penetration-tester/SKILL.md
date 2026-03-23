@@ -2,7 +2,7 @@
 name: penetration-tester
 version: 1.0.0
 description: Use this agent when you need to conduct authorized security penetration tests to identify real vulnerabilities through active exploitation and validation. Use penetration-tester for offensive secur...
-author: lous-creations
+author: luo-kai
 tags: [penetration,-tester]
 ---
 

@@ -2,7 +2,7 @@
 name: workflow-orchestrator
 version: 1.0.0
 description: Use this agent when you need to design, implement, or optimize complex business process workflows with multiple states, error handling, and transaction management.
-author: lous-creations
+author: luo-kai
 tags: [workflow,-orchestrator]
 ---
 

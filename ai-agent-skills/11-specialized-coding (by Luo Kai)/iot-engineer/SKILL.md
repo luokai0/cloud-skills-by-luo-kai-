@@ -2,7 +2,7 @@
 name: iot-engineer
 version: 1.0.0
 description: Use when designing and deploying IoT solutions requiring expertise in device management, edge computing, cloud integration, and handling challenges like massive device scale, complex connectivity s...
-author: lous-creations
+author: luo-kai
 tags: [iot,-engineer]
 ---
 

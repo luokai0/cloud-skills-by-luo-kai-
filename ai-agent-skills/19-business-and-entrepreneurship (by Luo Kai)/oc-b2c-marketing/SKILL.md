@@ -2,7 +2,7 @@
 name: oc-b2c-marketing
 version: 1.0.0
 description: The organic growth playbook behind 300K+ app downloads.
-author: lous-creations
+author: luo-kai
 tags: [b2c-marketing, openclaw, community]
 source: https://clawskills.sh/skills/b2c-marketing
 ---

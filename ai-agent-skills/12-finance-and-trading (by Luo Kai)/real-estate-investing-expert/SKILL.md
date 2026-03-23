@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: real-estate-investing-expert
 description: Expert-level real estate investing knowledge. Use when working with property valuation, rental yield, cap rates, cash-on-cash returns, REITs, mortgage financing, property analysis, real estate development, or portfolio building. Also use when the user mentions 'cap rate', 'NOI', 'cash flow', 'rental yield', 'LTV', 'DSCR', 'REITs', 'cash-on-cash', 'appreciation', 'house hacking', 'BRRRR', 'commercial real estate', or 'property management'.
 license: MIT

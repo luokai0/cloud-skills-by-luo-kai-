@@ -2,7 +2,7 @@
 name: dependency-manager
 version: 1.0.0
 description: Use this agent when you need to audit dependencies for vulnerabilities, resolve version conflicts, optimize bundle sizes, or implement automated dependency updates.
-author: lous-creations
+author: luo-kai
 tags: [dependency,-manager]
 ---
 

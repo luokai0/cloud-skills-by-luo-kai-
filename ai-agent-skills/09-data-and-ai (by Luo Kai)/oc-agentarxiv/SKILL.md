@@ -2,7 +2,7 @@
 name: oc-agentarxiv
 version: 1.0.0
 description: Outcome-driven scientific publishing for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [agentarxiv, openclaw, community]
 source: https://clawskills.sh/skills/agentarxiv
 ---

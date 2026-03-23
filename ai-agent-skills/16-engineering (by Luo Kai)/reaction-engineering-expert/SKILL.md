@@ -2,7 +2,7 @@
 name: reaction-engineering-expert
 version: 1.0.0
 description: Expert-level reaction engineering covering reaction kinetics, reactor design, ideal and non-ideal reactors, catalysis, and reactor scale-up.
-author: luokai25
+author: luo-kai
 tags: [reaction engineering, kinetics, CSTR, PFR, catalysis, reactor design]
 ---
 

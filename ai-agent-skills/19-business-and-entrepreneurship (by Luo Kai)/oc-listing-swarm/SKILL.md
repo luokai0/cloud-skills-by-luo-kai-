@@ -2,7 +2,7 @@
 name: oc-listing-swarm
 version: 1.0.0
 description: Submit AI products to 70+ directories automatically.
-author: lous-creations
+author: luo-kai
 tags: [listing-swarm, openclaw, community]
 source: https://clawskills.sh/skills/listing-swarm
 ---

@@ -2,7 +2,7 @@
 name: machine-design-expert
 version: 1.0.0
 description: Expert-level machine design covering shafts, bearings, gears, fasteners, springs, clutches, brakes, and mechanical power transmission systems.
-author: luokai25
+author: luo-kai
 tags: [machine design, shafts, bearings, gears, fasteners, springs, power transmission]
 ---
 

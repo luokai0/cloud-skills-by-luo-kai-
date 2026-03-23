@@ -2,7 +2,7 @@
 name: oc-conversational-ai-assistant
 version: 1.0.0
 description: Natural language interface for querying Greek accounting data.
-author: lous-creations
+author: luo-kai
 tags: [conversational-ai-assistant, openclaw, community]
 source: https://clawskills.sh/skills/conversational-ai-assistant
 ---

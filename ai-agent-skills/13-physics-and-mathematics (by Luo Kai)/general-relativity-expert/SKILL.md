@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: general-relativity-expert
 description: Expert-level general relativity knowledge. Use when working with curved spacetime, Einstein field equations, geodesics, black holes, gravitational waves, cosmology, Schwarzschild metric, or tensor calculus. Also use when the user mentions 'Einstein field equations', 'curved spacetime', 'geodesic', 'black hole', 'event horizon', 'Schwarzschild', 'gravitational waves', 'spacetime curvature', 'Riemann tensor', 'metric tensor', 'cosmological constant', or 'gravitational lensing'.
 license: MIT

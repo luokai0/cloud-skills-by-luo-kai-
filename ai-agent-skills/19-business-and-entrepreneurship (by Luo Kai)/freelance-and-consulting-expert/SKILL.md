@@ -2,7 +2,7 @@
 name: freelance-and-consulting-expert
 version: 1.0.0
 description: Launch and grow a freelance or consulting business. Covers positioning, pricing, client acquisition, proposals, contracts, and scaling to agency.
-author: lous-creations
+author: luo-kai
 tags: [freelance, consulting, clients, pricing, proposals, agency, solopreneur]
 ---
 

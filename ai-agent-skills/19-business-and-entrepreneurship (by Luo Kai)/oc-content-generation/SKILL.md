@@ -2,7 +2,7 @@
 name: oc-content-generation
 version: 1.0.0
 description: Generate high-quality content across multiple formats.
-author: lous-creations
+author: luo-kai
 tags: [content-generation, openclaw, community]
 source: https://clawskills.sh/skills/content-generation
 ---

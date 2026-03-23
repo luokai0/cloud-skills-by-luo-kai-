@@ -2,7 +2,7 @@
 name: oc-venice-admin
 version: 1.0.0
 description: Venice AI account administration - check balance, view usage history, and manage API keys.
-author: lous-creations
+author: luo-kai
 tags: [venice-admin, openclaw, community]
 source: https://clawskills.sh/skills/venice-admin
 ---

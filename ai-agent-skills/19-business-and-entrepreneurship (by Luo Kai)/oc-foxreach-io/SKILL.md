@@ -2,7 +2,7 @@
 name: oc-foxreach-io
 version: 1.0.0
 description: Manage FoxReach cold email outreach — leads, campaigns, sequences, templates, email accounts, inbox, and analytics.
-author: lous-creations
+author: luo-kai
 tags: [foxreach-io, openclaw, community]
 source: https://clawskills.sh/skills/foxreach-io
 ---

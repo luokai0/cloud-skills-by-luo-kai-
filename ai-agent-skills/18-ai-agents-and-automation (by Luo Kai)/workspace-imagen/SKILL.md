@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: workspace-imagen
 description: |
   Generate images using Google Gemini's image generation capabilities.

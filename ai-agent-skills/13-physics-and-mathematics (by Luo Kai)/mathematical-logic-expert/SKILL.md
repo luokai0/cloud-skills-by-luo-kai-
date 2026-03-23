@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: mathematical-logic-expert
 description: Expert-level mathematical logic knowledge. Use when working with propositional logic, first-order logic, proof theory, model theory, computability theory, Godel incompleteness theorems, set theory, type theory, or formal verification. Also use when the user mentions 'formal proof', 'Godel', 'incompleteness', 'Turing machine', 'decidability', 'Zermelo-Fraenkel', 'axiom of choice', 'model theory', 'completeness theorem', 'computability', 'formal language', or 'type theory'.
 license: MIT

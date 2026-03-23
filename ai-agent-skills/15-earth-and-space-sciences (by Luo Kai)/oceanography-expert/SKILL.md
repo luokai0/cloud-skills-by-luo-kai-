@@ -2,7 +2,7 @@
 name: oceanography-expert
 version: 1.0.0
 description: Expert-level oceanography covering physical, chemical, biological, and geological oceanography, ocean circulation, thermohaline circulation, tides, and ocean-climate interactions.
-author: luokai25
+author: luo-kai
 tags: [oceanography, ocean circulation, thermohaline, tides, marine chemistry]
 ---
 

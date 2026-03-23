@@ -2,7 +2,7 @@
 name: oc-efka-api-integration
 version: 1.0.0
 description: Greek social security (EFKA) integration — employee records, contribution calculations, APD declarations.
-author: lous-creations
+author: luo-kai
 tags: [efka-api-integration, openclaw, community]
 source: https://clawskills.sh/skills/efka-api-integration
 ---

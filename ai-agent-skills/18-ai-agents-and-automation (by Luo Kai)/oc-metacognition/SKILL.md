@@ -2,7 +2,7 @@
 name: oc-metacognition
 version: 1.0.0
 description: Self-reflection engine for AI agents.
-author: lous-creations
+author: luo-kai
 tags: [metacognition, openclaw, community]
 source: https://clawskills.sh/skills/metacognition
 ---

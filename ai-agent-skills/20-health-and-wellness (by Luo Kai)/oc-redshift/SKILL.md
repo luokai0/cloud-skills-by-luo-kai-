@@ -2,7 +2,7 @@
 name: oc-redshift
 version: 1.0.0
 description: Manage application secrets with the Redshift CLI (https://redshiftapp.com) — decentralized, encrypted secret.
-author: lous-creations
+author: luo-kai
 tags: [redshift, openclaw, community]
 source: https://clawskills.sh/skills/redshift
 ---

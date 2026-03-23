@@ -2,7 +2,7 @@
 name: oc-1
 version: 1.0.0
 description: Personal knowledge base powered by Ensue for capturing and retrieving.
-author: lous-creations
+author: luo-kai
 tags: [1, openclaw, community]
 source: https://clawskills.sh/skills/1
 ---

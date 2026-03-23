@@ -2,7 +2,7 @@
 name: oc-music-generator
 version: 1.0.0
 description: Generates music from a structured Composition Plan.
-author: lous-creations
+author: luo-kai
 tags: [music-generator, openclaw, community]
 source: https://clawskills.sh/skills/music-generator
 ---

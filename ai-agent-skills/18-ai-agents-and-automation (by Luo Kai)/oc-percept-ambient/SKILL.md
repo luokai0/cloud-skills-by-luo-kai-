@@ -2,7 +2,7 @@
 name: oc-percept-ambient
 version: 1.0.0
 description: Ambient intelligence mode — continuous context awareness without explicit commands.
-author: lous-creations
+author: luo-kai
 tags: [percept-ambient, openclaw, community]
 source: https://clawskills.sh/skills/percept-ambient
 ---

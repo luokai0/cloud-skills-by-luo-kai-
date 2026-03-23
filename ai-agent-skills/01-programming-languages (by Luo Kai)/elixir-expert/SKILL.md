@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: elixir-expert
 description: Expert-level Elixir programming. Use when writing Elixir code, working with OTP, GenServer, Phoenix, Ecto, or building fault-tolerant distributed systems.
 license: MIT

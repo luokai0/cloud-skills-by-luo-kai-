@@ -2,7 +2,7 @@
 name: devops-engineer
 version: 1.0.0
 description: Use this agent when building or optimizing infrastructure automation, CI/CD pipelines, containerization strategies, and deployment workflows to accelerate software delivery while maintaining reliab...
-author: lous-creations
+author: luo-kai
 tags: [devops,-engineer]
 ---
 

@@ -2,7 +2,7 @@
 name: astrodynamics-expert
 version: 1.0.0
 description: Expert-level astrodynamics covering orbit determination, trajectory optimization, launch vehicle ascent, re-entry dynamics, and numerical methods for space mission analysis.
-author: luokai25
+author: luo-kai
 tags: [astrodynamics, orbit determination, trajectory optimization, re-entry, launch]
 ---
 

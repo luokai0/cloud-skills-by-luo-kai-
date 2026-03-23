@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: crypto-yield-opportunities
 description: Comprehensive tool for finding and analyzing DeFi yield opportunities across protocols, chains, and asset types. Use when users want to earn yield on crypto assets (staking, lending, liquidity farming, aggregators). Supports exhaustive parallel research using librarian agents, direct web searches, and GitHub repository analysis.
 ---

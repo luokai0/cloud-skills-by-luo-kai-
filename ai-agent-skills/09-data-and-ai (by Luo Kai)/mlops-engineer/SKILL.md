@@ -2,7 +2,7 @@
 name: mlops-engineer
 version: 1.0.0
 description: Use this agent when you need to design and implement ML infrastructure, set up CI/CD for machine learning models, establish model versioning systems, or optimize ML platforms for reliability and au...
-author: lous-creations
+author: luo-kai
 tags: [mlops,-engineer]
 ---
 

@@ -2,7 +2,7 @@
 name: machine-learning-engineer
 version: 1.0.0
 description: Use this agent when you need to deploy, optimize, or serve machine learning models at scale in production environments.
-author: lous-creations
+author: luo-kai
 tags: [machine,-learning,-engineer]
 ---
 

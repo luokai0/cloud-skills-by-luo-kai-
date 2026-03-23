@@ -2,7 +2,7 @@
 name: data-analyst
 version: 1.0.0
 description: Use when you need to extract insights from business data, create dashboards and reports, or perform statistical analysis to support decision-making.
-author: lous-creations
+author: luo-kai
 tags: [data,-analyst]
 ---
 

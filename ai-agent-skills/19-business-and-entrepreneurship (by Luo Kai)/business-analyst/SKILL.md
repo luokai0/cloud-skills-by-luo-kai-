@@ -2,7 +2,7 @@
 name: business-analyst
 version: 1.0.0
 description: Use when analyzing business processes, gathering requirements from stakeholders, or identifying process improvement opportunities to drive operational efficiency and measurable business value.
-author: lous-creations
+author: luo-kai
 tags: [business,-analyst]
 ---
 

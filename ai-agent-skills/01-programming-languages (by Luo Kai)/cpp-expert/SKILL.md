@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: cpp-expert
 description: Expert-level C++ programming. Use when writing C++ code, working with templates, RAII, smart pointers, STL, move semantics, multithreading, memory management, CMake, or modern C++20/23.
 license: MIT

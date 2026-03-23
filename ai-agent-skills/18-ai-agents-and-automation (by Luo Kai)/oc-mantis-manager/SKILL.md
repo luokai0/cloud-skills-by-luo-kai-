@@ -2,7 +2,7 @@
 name: oc-mantis-manager
 version: 1.0.0
 description: Manage Mantis Bug Tracker (issues, projects, users, filters, configs) via the official Mantis REST API.
-author: lous-creations
+author: luo-kai
 tags: [mantis-manager, openclaw, community]
 source: https://clawskills.sh/skills/mantis-manager
 ---

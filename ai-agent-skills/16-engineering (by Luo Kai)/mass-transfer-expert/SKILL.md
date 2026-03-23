@@ -2,7 +2,7 @@
 name: mass-transfer-expert
 version: 1.0.0
 description: Expert-level mass transfer covering molecular diffusion, convective mass transfer, interphase transfer, mass transfer coefficients, and design of mass transfer equipment.
-author: luokai25
+author: luo-kai
 tags: [mass transfer, diffusion, convective mass transfer, interphase, absorption, distillation]
 ---
 

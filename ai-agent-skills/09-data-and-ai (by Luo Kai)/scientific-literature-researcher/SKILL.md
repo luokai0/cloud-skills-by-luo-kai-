@@ -2,7 +2,7 @@
 name: scientific-literature-researcher
 version: 1.0.0
 description: Use when you need to search scientific literature and retrieve structured experimental data from published studies. Invoke this agent when the task requires evidence-grounded answers from full-text...
-author: lous-creations
+author: luo-kai
 tags: [scientific,-literature,-researcher]
 ---
 

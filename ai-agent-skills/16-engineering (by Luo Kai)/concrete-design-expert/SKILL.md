@@ -2,7 +2,7 @@
 name: concrete-design-expert
 version: 1.0.0
 description: Expert-level concrete design covering reinforced concrete beams, columns, slabs, footings, retaining walls, ACI 318 code provisions, and durability.
-author: luokai25
+author: luo-kai
 tags: [concrete design, reinforced concrete, ACI 318, beams, columns, slabs, footings]
 ---
 

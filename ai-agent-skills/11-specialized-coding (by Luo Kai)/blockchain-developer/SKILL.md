@@ -2,7 +2,7 @@
 name: blockchain-developer
 version: 1.0.0
 description: Use this agent when building smart contracts, DApps, and blockchain protocols that require expertise in Solidity, gas optimization, security auditing, and Web3 integration.
-author: lous-creations
+author: luo-kai
 tags: [blockchain,-developer]
 ---
 

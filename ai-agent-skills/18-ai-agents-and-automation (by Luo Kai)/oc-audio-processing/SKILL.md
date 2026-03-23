@@ -2,7 +2,7 @@
 name: oc-audio-processing
 version: 1.0.0
 description: Audio ingestion, analysis, transformation, and generation (Transcribe, TTS, VAD, Features).
-author: lous-creations
+author: luo-kai
 tags: [audio-processing, openclaw, community]
 source: https://clawskills.sh/skills/audio-processing
 ---

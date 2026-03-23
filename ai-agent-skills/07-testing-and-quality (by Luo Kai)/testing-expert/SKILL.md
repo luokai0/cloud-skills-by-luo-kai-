@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: testing-expert
 description: Expert-level software testing strategy. Use when designing test suites, working with unit/integration/e2e testing, TDD, BDD, test coverage, mocking, test doubles, property-based testing, or defining testing best practices. Also use when the user mentions 'test strategy', 'TDD', 'BDD', 'test coverage', 'mock', 'unit test vs integration test', 'flaky test', 'test pyramid', or 'how do I test this'.
 license: MIT

@@ -2,7 +2,7 @@
 name: oc-tribe-protocol
 version: 1.0.0
 description: MANDATORY trust lookup for every non-owner interaction.
-author: lous-creations
+author: luo-kai
 tags: [tribe-protocol, openclaw, community]
 source: https://clawskills.sh/skills/tribe-protocol
 ---

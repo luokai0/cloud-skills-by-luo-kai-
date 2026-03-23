@@ -2,7 +2,7 @@
 name: kotlin-specialist
 version: 1.0.0
 description: Use when building Kotlin applications requiring advanced coroutine patterns, multiplatform code sharing, or Android/server-side development with functional programming principles.
-author: lous-creations
+author: luo-kai
 tags: [kotlin,-specialist]
 ---
 

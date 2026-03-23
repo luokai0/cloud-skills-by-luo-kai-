@@ -2,7 +2,7 @@
 name: oc-groq
 version: 1.0.0
 description: To use this skill, say `Groq: <your prompt>`.
-author: lous-creations
+author: luo-kai
 tags: [groq, openclaw, community]
 source: https://clawskills.sh/skills/groq
 ---

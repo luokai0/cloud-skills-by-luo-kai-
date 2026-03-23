@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: accessibility-expert
 description: Expert-level web accessibility. Use when implementing WCAG compliance, ARIA attributes, keyboard navigation, screen reader support, or auditing accessibility issues.
 license: MIT

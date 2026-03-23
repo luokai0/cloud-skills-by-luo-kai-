@@ -2,7 +2,7 @@
 name: systems-biology-expert
 version: 1.0.0
 description: Expert-level systems biology covering network analysis, multi-omics integration, dynamic modeling, signaling pathway analysis, and emergent properties of biological systems.
-author: luokai25
+author: luo-kai
 tags: [systems biology, network analysis, multi-omics, signaling, emergent properties]
 ---
 

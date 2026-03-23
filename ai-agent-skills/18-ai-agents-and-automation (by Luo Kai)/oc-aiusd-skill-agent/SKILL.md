@@ -2,7 +2,7 @@
 name: oc-aiusd-skill-agent
 version: 1.0.0
 description: AIUSD trading and account management skill for cryptocurrency trading and account management.
-author: lous-creations
+author: luo-kai
 tags: [aiusd-skill-agent, openclaw, community]
 source: https://clawskills.sh/skills/aiusd-skill-agent
 ---

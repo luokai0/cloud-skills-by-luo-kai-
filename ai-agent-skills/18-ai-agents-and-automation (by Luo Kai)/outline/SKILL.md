@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: outline
 description: "Search, read, and manage Outline wiki documents. Use when: (1) searching wiki for documentation, (2) reading wiki pages or articles, (3) listing wiki collections or documents, (4) creating or updating wiki content, (5) exporting documents as markdown. Works with any Outline wiki instance (self-hosted or cloud)."
 license: Apache-2.0

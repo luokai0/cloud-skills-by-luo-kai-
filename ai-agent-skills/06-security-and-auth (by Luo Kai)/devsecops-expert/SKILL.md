@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: devsecops-expert
 description: Expert-level DevSecOps. Use when integrating security into CI/CD, SAST/DAST scanning, dependency scanning, container scanning, or shift-left security.
 license: MIT

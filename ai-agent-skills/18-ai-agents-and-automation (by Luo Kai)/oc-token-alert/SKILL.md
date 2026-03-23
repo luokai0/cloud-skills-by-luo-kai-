@@ -2,7 +2,7 @@
 name: oc-token-alert
 version: 1.0.0
 description: 🚨 **Monitor session tokens and get alerts at 75%/90%/95%**.
-author: lous-creations
+author: luo-kai
 tags: [token-alert, openclaw, community]
 source: https://clawskills.sh/skills/token-alert
 ---

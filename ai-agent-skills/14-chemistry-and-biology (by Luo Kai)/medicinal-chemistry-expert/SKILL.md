@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: medicinal-chemistry-expert
 description: Expert-level medicinal chemistry knowledge. Use when working with drug design, structure-activity relationships, ADMET properties, pharmacophores, lead optimization, target identification, drug metabolism, or pharmaceutical development. Also use when the user mentions 'SAR', 'drug design', 'pharmacophore', 'ADMET', 'lead compound', 'hit to lead', 'drug metabolism', 'bioavailability', 'selectivity', 'binding affinity', 'scaffold hopping', or 'bioisostere'.
 license: MIT

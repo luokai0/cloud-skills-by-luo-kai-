@@ -2,7 +2,7 @@
 name: oc-agentpulse
 version: 1.0.0
 description: Track LLM API costs, tokens, latency, and errors for your AI agent.
-author: lous-creations
+author: luo-kai
 tags: [agentpulse, openclaw, community]
 source: https://clawskills.sh/skills/agentpulse
 ---

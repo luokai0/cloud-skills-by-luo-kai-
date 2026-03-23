@@ -2,7 +2,7 @@
 name: oc-kameleondb
 version: 1.0.0
 description: Store and query structured data without planning schemas upfront.
-author: lous-creations
+author: luo-kai
 tags: [kameleondb, openclaw, community]
 source: https://clawskills.sh/skills/kameleondb
 ---

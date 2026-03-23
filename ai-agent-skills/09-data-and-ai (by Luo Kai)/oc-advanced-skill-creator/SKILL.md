@@ -2,7 +2,7 @@
 name: oc-advanced-skill-creator
 version: 1.0.0
 description: Advanced OpenClaw skill creation handler.
-author: lous-creations
+author: luo-kai
 tags: [advanced-skill-creator, openclaw, community]
 source: https://clawskills.sh/skills/advanced-skill-creator
 ---

@@ -2,7 +2,7 @@
 name: synthetic-biology-expert
 version: 1.0.0
 description: Expert-level synthetic biology covering genetic parts and devices, genetic circuit design, metabolic engineering, genome engineering, biosafety, and industrial applications.
-author: luokai25
+author: luo-kai
 tags: [synthetic biology, genetic circuits, metabolic engineering, CRISPR, biofoundry]
 ---
 

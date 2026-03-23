@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: code-review-expert
 description: Expert-level code review. Use when reviewing code quality, identifying code smells, refactoring, DRY/YAGNI/KISS principles, or writing review feedback.
 license: MIT

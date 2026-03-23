@@ -2,7 +2,7 @@
 name: dark-matter-expert
 version: 1.0.0
 description: Expert-level dark matter physics covering observational evidence, candidate particles, detection methods, structure formation, and alternative gravity theories.
-author: luokai25
+author: luo-kai
 tags: [dark matter, WIMPs, axions, direct detection, structure formation, gravitational lensing]
 ---
 

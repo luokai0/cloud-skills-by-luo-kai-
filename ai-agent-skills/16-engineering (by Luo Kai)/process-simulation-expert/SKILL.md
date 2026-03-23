@@ -2,7 +2,7 @@
 name: process-simulation-expert
 version: 1.0.0
 description: Expert-level process simulation covering Aspen Plus, HYSYS, steady state and dynamic simulation, thermodynamic model selection, and simulation troubleshooting.
-author: luokai25
+author: luo-kai
 tags: [process simulation, Aspen Plus, HYSYS, thermodynamics, steady state, dynamic simulation]
 ---
 

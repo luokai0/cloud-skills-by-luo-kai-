@@ -2,7 +2,7 @@
 name: oc-alibaba-supplier-outreach
 version: 1.0.0
 description: Find Alibaba suppliers via LaunchFast, contact them with optimized outreach messages, check their replies.
-author: lous-creations
+author: luo-kai
 tags: [alibaba-supplier-outreach, openclaw, community]
 source: https://clawskills.sh/skills/alibaba-supplier-outreach
 ---

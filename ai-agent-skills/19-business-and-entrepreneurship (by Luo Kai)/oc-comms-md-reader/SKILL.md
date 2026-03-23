@@ -2,7 +2,7 @@
 name: oc-comms-md-reader
 version: 1.0.0
 description: Read and adapt to someone's COMMS.md before contacting them.
-author: lous-creations
+author: luo-kai
 tags: [comms-md-reader, openclaw, community]
 source: https://clawskills.sh/skills/comms-md-reader
 ---

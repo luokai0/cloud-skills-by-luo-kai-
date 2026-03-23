@@ -2,7 +2,7 @@
 name: oc-taiwan-calendar
 version: 1.0.0
 description: Taiwan calendar query for accurate working day/holiday information.
-author: lous-creations
+author: luo-kai
 tags: [taiwan-calendar, openclaw, community]
 source: https://clawskills.sh/skills/taiwan-calendar
 ---

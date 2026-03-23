@@ -2,7 +2,7 @@
 name: oc-brevo
 version: 1.0.0
 description: Brevo (formerly Sendinblue) email marketing API for managing contacts, lists,.
-author: lous-creations
+author: luo-kai
 tags: [brevo, openclaw, community]
 source: https://clawskills.sh/skills/brevo
 ---

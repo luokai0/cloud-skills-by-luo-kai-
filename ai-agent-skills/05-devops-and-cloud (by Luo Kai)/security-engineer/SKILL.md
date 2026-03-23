@@ -2,7 +2,7 @@
 name: security-engineer
 version: 1.0.0
 description: Use this agent when implementing comprehensive security solutions across infrastructure, building automated security controls into CI/CD pipelines, or establishing compliance and vulnerability mana...
-author: lous-creations
+author: luo-kai
 tags: [security,-engineer]
 ---
 

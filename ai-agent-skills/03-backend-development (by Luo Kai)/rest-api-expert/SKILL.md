@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: rest-api-expert
 description: Expert-level REST API design. Use when designing RESTful APIs, HTTP methods, pagination, versioning, JWT/OAuth, rate limiting, or OpenAPI/Swagger.
 license: MIT

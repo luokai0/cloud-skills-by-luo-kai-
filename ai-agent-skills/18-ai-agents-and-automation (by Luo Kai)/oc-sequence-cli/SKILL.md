@@ -2,7 +2,7 @@
 name: oc-sequence-cli
 version: 1.0.0
 description: Manage Sequence smart wallets, projects, API keys, ERC20 transfers, and query blockchain data using the Sequence.
-author: lous-creations
+author: luo-kai
 tags: [sequence-cli, openclaw, community]
 source: https://clawskills.sh/skills/sequence-cli
 ---

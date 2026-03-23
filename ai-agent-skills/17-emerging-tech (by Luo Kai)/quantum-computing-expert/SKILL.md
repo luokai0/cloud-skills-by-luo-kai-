@@ -2,7 +2,7 @@
 name: quantum-computing-expert
 version: 1.0.0
 description: Expert-level quantum computing covering qubits, quantum gates, quantum algorithms, error correction, quantum hardware platforms, and near-term NISQ applications.
-author: luokai25
+author: luo-kai
 tags: [quantum computing, qubits, quantum gates, quantum algorithms, error correction]
 ---
 

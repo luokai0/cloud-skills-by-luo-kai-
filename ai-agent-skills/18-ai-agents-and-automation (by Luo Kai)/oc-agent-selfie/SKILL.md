@@ -2,7 +2,7 @@
 name: oc-agent-selfie
 version: 1.0.0
 description: AI agent self-portrait generator.
-author: lous-creations
+author: luo-kai
 tags: [agent-selfie, openclaw, community]
 source: https://clawskills.sh/skills/agent-selfie
 ---

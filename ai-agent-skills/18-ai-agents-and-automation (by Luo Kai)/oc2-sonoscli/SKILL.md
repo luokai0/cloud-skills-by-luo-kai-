@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: sonoscli
 description: Control Sonos speakers (discover/status/play/volume/group).
 homepage: https://sonoscli.sh

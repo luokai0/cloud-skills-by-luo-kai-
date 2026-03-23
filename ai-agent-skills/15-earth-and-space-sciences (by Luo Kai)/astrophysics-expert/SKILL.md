@@ -2,7 +2,7 @@
 name: astrophysics-expert
 version: 1.0.0
 description: Expert-level astrophysics covering stellar physics, galaxy formation, high-energy astrophysics, observational techniques, and the electromagnetic spectrum across wavelengths.
-author: luokai25
+author: luo-kai
 tags: [astrophysics, stars, galaxies, high-energy, telescopes, spectroscopy]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-moa
 version: 1.0.0
 description: Mixture of Agents: Make 3 frontier models argue, then synthesize their best insights into one superior answer.
-author: lous-creations
+author: luo-kai
 tags: [moa, openclaw, community]
 source: https://clawskills.sh/skills/moa
 ---

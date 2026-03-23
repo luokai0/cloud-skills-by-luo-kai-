@@ -2,7 +2,7 @@
 name: oc-apollo
 version: 1.0.0
 description: Interact with Apollo.io REST API (people/org enrichment, search, lists).
-author: lous-creations
+author: luo-kai
 tags: [apollo, openclaw, community]
 source: https://clawskills.sh/skills/apollo
 ---

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: api-design-expert
 description: Expert-level API design and developer experience. Use when designing REST APIs, versioning, backward compatibility, SDK design, error handling conventions, API documentation, or API governance. Also use when the user mentions 'API design', 'versioning', 'backward compatible', 'OpenAPI', 'SDK design', 'error format', 'pagination', 'rate limiting', 'API governance', or 'REST conventions'.
 license: MIT

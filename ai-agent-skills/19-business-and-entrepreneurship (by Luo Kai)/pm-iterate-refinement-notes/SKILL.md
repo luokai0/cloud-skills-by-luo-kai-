@@ -10,6 +10,7 @@ metadata:
   category: coordination
   frameworks: [triple-diamond, lean-startup, design-thinking]
   author: lous-creations
+author: luo-kai
 ---
 # Refinement Notes
 

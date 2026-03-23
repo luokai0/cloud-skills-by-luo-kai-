@@ -2,7 +2,7 @@
 name: control-systems-expert
 version: 1.0.0
 description: Expert-level control systems engineering covering feedback control, PID design, root locus, frequency domain methods, state-space design, and digital control.
-author: luokai25
+author: luo-kai
 tags: [control systems, PID, root locus, Bode, state-space, digital control]
 ---
 

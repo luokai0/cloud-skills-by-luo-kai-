@@ -2,7 +2,7 @@
 name: oc-opencal
 version: 1.0.0
 description: Log meals, check nutrition progress, and manage calorie goals in the OpenCal app — hands-free via your AI agent.
-author: lous-creations
+author: luo-kai
 tags: [opencal, openclaw, community]
 source: https://clawskills.sh/skills/opencal
 ---

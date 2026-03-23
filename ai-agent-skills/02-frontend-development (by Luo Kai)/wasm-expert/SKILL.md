@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: wasm-expert
 description: Expert-level WebAssembly. Use when compiling to WASM, Emscripten, wasm-bindgen, WASI, AssemblyScript, or integrating WASM into web apps.
 license: MIT

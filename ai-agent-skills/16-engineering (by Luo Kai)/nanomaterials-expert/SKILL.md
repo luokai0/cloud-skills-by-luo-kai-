@@ -2,7 +2,7 @@
 name: nanomaterials-engineering-expert
 version: 1.0.0
 description: Expert-level nanomaterials engineering covering synthesis, characterization, properties at nanoscale, nanocomposites, safety, and industrial applications of nanomaterials.
-author: luokai25
+author: luo-kai
 tags: [nanomaterials, nanoparticles, nanocomposites, carbon nanotubes, graphene, nanosafety]
 ---
 

@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: deno-bun-expert
 description: Expert-level Deno and Bun. Use when building with Deno 2, Bun native APIs, package managers, built-in test runners, or migrating from Node.js.
 license: MIT

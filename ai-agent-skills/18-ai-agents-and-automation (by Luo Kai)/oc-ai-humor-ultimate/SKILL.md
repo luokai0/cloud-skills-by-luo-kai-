@@ -2,7 +2,7 @@
 name: oc-ai-humor-ultimate
 version: 1.0.0
 description: Give your AI agent actual wit.
-author: lous-creations
+author: luo-kai
 tags: [ai-humor-ultimate, openclaw, community]
 source: https://clawskills.sh/skills/ai-humor-ultimate
 ---

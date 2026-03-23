@@ -2,7 +2,7 @@
 name: powershell-module-architect
 version: 1.0.0
 description: Use this agent when architecting and refactoring PowerShell modules, designing profile systems, or creating cross-version compatible automation libraries. Invoke it for module design reviews, profi...
-author: lous-creations
+author: luo-kai
 tags: [powershell,-module,-architect]
 ---
 

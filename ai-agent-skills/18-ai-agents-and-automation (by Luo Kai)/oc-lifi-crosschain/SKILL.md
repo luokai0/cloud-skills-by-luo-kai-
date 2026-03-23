@@ -2,7 +2,7 @@
 name: oc-lifi-crosschain
 version: 1.0.0
 description: Cross-chain token swaps and bridges via the LI.FI protocol.
-author: lous-creations
+author: luo-kai
 tags: [lifi-crosschain, openclaw, community]
 source: https://clawskills.sh/skills/lifi-crosschain
 ---

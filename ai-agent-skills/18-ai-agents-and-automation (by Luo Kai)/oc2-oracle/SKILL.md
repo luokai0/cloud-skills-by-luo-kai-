@@ -1,5 +1,5 @@
 ---
-author: lous-creations
+author: luo-kai
 name: oracle
 description: Best practices for using the oracle CLI (prompt + file bundling, engines, sessions, and file attachment patterns).
 homepage: https://askoracle.dev

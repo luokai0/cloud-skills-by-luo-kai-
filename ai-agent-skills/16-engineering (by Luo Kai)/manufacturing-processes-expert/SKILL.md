@@ -2,7 +2,7 @@
 name: manufacturing-processes-expert
 version: 1.0.0
 description: Expert-level manufacturing processes covering machining, casting, forming, welding, additive manufacturing, tolerances, and process selection.
-author: luokai25
+author: luo-kai
 tags: [manufacturing, machining, casting, forming, welding, additive manufacturing, tolerances]
 ---
 

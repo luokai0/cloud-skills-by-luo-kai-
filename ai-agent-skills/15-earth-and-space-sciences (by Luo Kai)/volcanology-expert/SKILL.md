@@ -2,7 +2,7 @@
 name: volcanology-expert
 version: 1.0.0
 description: Expert-level volcanology covering volcanic processes, eruption styles, volcano monitoring, volcanic hazards, igneous petrology, and volcanic contributions to climate.
-author: luokai25
+author: luo-kai
 tags: [volcanology, eruptions, magma, volcanic hazards, petrology, monitoring]
 ---
 

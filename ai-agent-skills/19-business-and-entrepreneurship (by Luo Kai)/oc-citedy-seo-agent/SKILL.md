@@ -2,7 +2,7 @@
 name: oc-citedy-seo-agent
 version: 1.0.0
 description: Connect your AI agent to Citedy's SEO content platform.
-author: lous-creations
+author: luo-kai
 tags: [citedy-seo-agent, openclaw, community]
 source: https://clawskills.sh/skills/citedy-seo-agent
 ---

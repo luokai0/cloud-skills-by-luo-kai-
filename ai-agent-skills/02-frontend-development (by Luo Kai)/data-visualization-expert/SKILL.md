@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: data-visualization
 description: Expert-level data visualization. Use when creating charts with D3.js, Plotly, Matplotlib, Seaborn, Recharts, or designing effective dashboards.
 license: MIT

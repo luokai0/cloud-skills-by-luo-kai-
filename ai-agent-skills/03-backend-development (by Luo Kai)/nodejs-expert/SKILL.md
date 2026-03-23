@@ -1,4 +1,5 @@
 ---
+author: luo-kai
 name: nodejs-expert
 description: Expert-level Node.js backend. Use when building Node.js servers, working with Express, Fastify, streams, worker threads, or Node.js performance.
 license: MIT

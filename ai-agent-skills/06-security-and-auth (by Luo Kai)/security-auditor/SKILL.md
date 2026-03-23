@@ -2,7 +2,7 @@
 name: security-auditor
 version: 1.0.0
 description: Use this agent when conducting comprehensive security audits, compliance assessments, or risk evaluations across systems, infrastructure, and processes. Invoke when you need systematic vulnerabilit...
-author: lous-creations
+author: luo-kai
 tags: [security,-auditor]
 ---
 

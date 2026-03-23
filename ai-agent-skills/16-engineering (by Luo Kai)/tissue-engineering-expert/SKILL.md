@@ -2,7 +2,7 @@
 name: tissue-engineering-expert
 version: 1.0.0
 description: Expert-level tissue engineering covering scaffold design, cell culture, bioreactors, stem cells, vascularization, and clinical translation of engineered tissues.
-author: luokai25
+author: luo-kai
 tags: [tissue engineering, scaffolds, bioreactors, stem cells, vascularization, regenerative medicine]
 ---
 

@@ -2,7 +2,7 @@
 name: oc-aap-passport
 version: 1.0.0
 description: Agent Attestation Protocol - The Reverse Turing Test.
-author: lous-creations
+author: luo-kai
 tags: [aap-passport, openclaw, community]
 source: https://clawskills.sh/skills/aap-passport
 ---

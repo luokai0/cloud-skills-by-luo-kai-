@@ -2,7 +2,7 @@
 name: oc-agent-lightning
 version: 1.0.0
 description: Microsoft Research's agent training framework.
-author: lous-creations
+author: luo-kai
 tags: [agent-lightning, openclaw, community]
 source: https://clawskills.sh/skills/agent-lightning
 ---

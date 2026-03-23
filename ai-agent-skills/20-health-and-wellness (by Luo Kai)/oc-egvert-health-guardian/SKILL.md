@@ -2,7 +2,7 @@
 name: oc-egvert-health-guardian
 version: 1.0.0
 description: Proactive health monitoring for AI.
-author: lous-creations
+author: luo-kai
 tags: [egvert-health-guardian, openclaw, community]
 source: https://clawskills.sh/skills/egvert-health-guardian
 ---

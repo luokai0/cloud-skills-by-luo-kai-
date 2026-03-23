@@ -2,7 +2,7 @@
 name: oc-bagsworld
 version: 1.0.0
 description: Find a home in BagsWorld - a pixel art world where AI agents live as crabs, lobsters, and buildings.
-author: lous-creations
+author: luo-kai
 tags: [bagsworld, openclaw, community]
 source: https://clawskills.sh/skills/bagsworld
 ---

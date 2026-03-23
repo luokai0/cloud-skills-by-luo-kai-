@@ -2,7 +2,7 @@
 name: oc-kvcore-mcp-cli
 version: 1.0.0
 description: Use this skill when users need KVcore CRM actions through MCP/CLI (contacts, tags, notes, calls, email, text.
-author: lous-creations
+author: luo-kai
 tags: [kvcore-mcp-cli, openclaw, community]
 source: https://clawskills.sh/skills/kvcore-mcp-cli
 ---

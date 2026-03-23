@@ -2,7 +2,7 @@
 name: oc-marketing-strategy-pmm
 version: 1.0.0
 description: Product marketing skill for positioning, GTM strategy, competitive intelligence, and product launches.
-author: lous-creations
+author: luo-kai
 tags: [marketing-strategy-pmm, openclaw, community]
 source: https://clawskills.sh/skills/marketing-strategy-pmm
 ---

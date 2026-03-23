@@ -2,7 +2,7 @@
 name: oc-auto-skill-hunter
 version: 1.0.0
 description: Proactively discovers, ranks, and installs high-value ClawHub skills by mining unresolved user needs and agent.
-author: lous-creations
+author: luo-kai
 tags: [auto-skill-hunter, openclaw, community]
 source: https://clawskills.sh/skills/auto-skill-hunter
 ---

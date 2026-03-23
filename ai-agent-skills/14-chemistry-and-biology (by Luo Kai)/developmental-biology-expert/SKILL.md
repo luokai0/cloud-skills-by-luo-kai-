@@ -2,7 +2,7 @@
 name: developmental-biology-expert
 version: 1.0.0
 description: Expert-level developmental biology covering embryogenesis, cell fate determination, morphogen gradients, organogenesis, stem cells, and regenerative medicine.
-author: luokai25
+author: luo-kai
 tags: [developmental biology, embryogenesis, stem cells, morphogens, organogenesis]
 ---
 
