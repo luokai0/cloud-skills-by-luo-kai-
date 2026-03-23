@@ -1,103 +1,133 @@
-# 🤖 AI Agent Skills by Luo Kai
+# 🧠 AI Agent Skills by Luo Kai
 
-> The largest open-source skill library for Claude and AI agents.
-> Drop any skill into your agent and it instantly becomes a domain expert.
+> **977 skills** across **20 categories** — the most comprehensive AI agent skill repository on GitHub.
 
-[![Skills](https://img.shields.io/badge/Total_Skills-296-blue)](https://github.com/luokai0/ai-agent-skills-by-luo-kai)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Contributors](https://img.shields.io/badge/Contributors-2-orange)](https://github.com/luokai0/ai-agent-skills-by-luo-kai/graphs/contributors)
-
----
-
-## 📁 Repository Structure
-
-All skills live inside the  root folder, organized into 18 categories:
-
-
+[![Skills Count](https://img.shields.io/badge/skills-977%2B-blue?style=for-the-badge)](https://github.com/luokai0/cloud-skills-by-luo-kai-)
+[![Categories](https://img.shields.io/badge/categories-20-green?style=for-the-badge)](https://github.com/luokai0/cloud-skills-by-luo-kai-)
+[![Author](https://img.shields.io/badge/author-Lous%20Creations-purple?style=for-the-badge)](https://github.com/luokai0)
+[![Updated](https://img.shields.io/badge/updated-March%2023%202026-orange?style=for-the-badge)](https://github.com/luokai0/cloud-skills-by-luo-kai-)
 
 ---
 
-## 📦 Skill Categories
+## 🚀 What Are Agent Skills?
 
-| # | Category | Skills | What is Inside |
-|---|---|---|---|
-| 01 | Programming Languages | 17 | Python, JavaScript, TypeScript, Rust, Go, Java, C++, C#, Swift, Kotlin, Ruby, PHP, Scala, Elixir, Haskell, Deno/Bun, Functional Programming |
-| 02 | Frontend Development | 11 | React, Next.js, Vue, Svelte, CSS, WebPerf, Accessibility, Three.js, Astro, Data Visualization, WebAssembly |
-| 03 | Backend Development | 11 | Node.js, FastAPI, Django, GraphQL, GraphQL Federation, REST, gRPC, WebSockets, Serverless, Event-Driven, Apache Kafka |
-| 04 | Databases and Storage | 12 | PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, SQLite, Prisma, Database Design, SQL Analytics, Vector DBs, Supabase, Stripe |
-| 05 | DevOps and Cloud | 11 | Docker, Kubernetes, AWS, GCP, Azure, Terraform, CI/CD, Linux, Nginx, Monitoring, Embedded |
-| 06 | Security and Auth | 5 | AppSec, Auth, Cryptography, Secrets Management, DevSecOps |
-| 07 | Testing and Quality | 7 | Testing Strategy, Pytest, Jest, Playwright, Cypress, Debugging, Code Review |
-| 08 | Architecture and Patterns | 8 | System Design, Microservices, DDD, Clean Architecture, Design Patterns, API Design, DevEx, Open Source |
-| 09 | Data and AI | 5 | Data Engineering, Machine Learning, Deep Learning, LLM Engineering, MLOps |
-| 10 | Mobile Development | 4 | iOS, Android, React Native, Flutter |
-| 11 | Specialized Coding | 9 | Algorithms, Concurrency, Compiler, CLI Tooling, Git, Blockchain, Game Dev, Regex, Performance Optimization |
-| 12 | Finance and Trading | 20 | Trading, Technical Analysis, Options, Crypto, Forex, Fundamental Analysis, Quant, Risk, Portfolio, Macro, Derivatives, Fixed Income, Behavioral Finance, Financial Modeling, Hedge Funds, Private Equity, Real Estate, Tax, Psychology, Financial Planning |
-| 13 | Physics and Mathematics | 28 | Classical Mechanics, Thermodynamics, Electromagnetism, Quantum Mechanics, Relativity, Optics, Nuclear, Particle, Condensed Matter, Plasma, Acoustics, Fluid Physics + 15 Mathematics skills |
-| 14 | Chemistry and Biology | 27 | 12 Chemistry skills (Organic, Inorganic, Physical, Analytical, Biochemistry, Polymer, Electrochemistry, Thermochemistry, Spectroscopy, Computational, Green, Medicinal) + 15 Biology skills |
-| 15 | Earth and Space Sciences | 16 | Geology, Geophysics, Meteorology, Oceanography, Climatology, Seismology, Volcanology, Hydrology, Astrophysics, Cosmology, Planetary Science, Stellar Physics, Black Holes, Dark Matter, Exoplanets, Radio Astronomy |
-| 16 | Engineering | 67 | Electrical (10), Mechanical (10), Civil (8), Chemical (8), Aerospace (7), Biomedical (6), Environmental (6), Materials (7), + cross-discipline engineering skills |
-| 17 | Emerging Tech | 34 | Energy (8), Robotics (8), Computer Science Theory (10), Interdisciplinary (8) |
-| 18 | AI Agents and Automation | 1 | deep-intel (more coming) |
-| | **TOTAL** | **287** | |
+Agent Skills are `SKILL.md` files that teach AI agents how to perform specific tasks. They load on demand, cost almost no context, and work across **25+ platforms**:
+
+**Claude Code · Claude.ai · Cursor · GitHub Copilot · Windsurf · OpenAI Codex · Gemini CLI · Cline · Amp · Manus · and more**
+
+Install any skill:
+```
+/learn @luokai0/<skill-name>
+```
 
 ---
 
-## 📦 Installation
+## 📁 Skill Categories
 
-Clone everything
-    git clone https://github.com/luokai0/ai-agent-skills-by-luo-kai.git
-    cp -r ai-agent-skills-by-luo-kai/ai-agent-skills/* .agents/skills/
-
-Git submodule
-    git submodule add https://github.com/luokai0/ai-agent-skills-by-luo-kai.git .agents/skills-luo-kai
-
-One category only
-    cp -r "ai-agent-skills-by-luo-kai/ai-agent-skills/12-finance-and-trading (by Luo Kai)"/* .agents/skills/
-
----
-
-## 🛠️ Usage
-
-Once installed, ask your AI agent anything in that domain:
-
-    Analyze this options trade using iron condor strategy
-    -> Uses: options-trading-expert
-
-    Help me design a Kubernetes deployment with auto-scaling
-    -> Uses: kubernetes-expert
-
-    Derive the Schrodinger equation from first principles
-    -> Uses: quantum-mechanics-expert
-
-    Research everything about OpenClaw for my situation
-    -> Uses: deep-intel
+| # | Category | Skills | Description |
+|---|----------|--------|-------------|
+| 01 | **Programming Languages** | 39 | Python, Rust, Go, TypeScript, Java, C++, PHP, Kotlin and more |
+| 02 | **Frontend Development** | 22 | React, Vue, Svelte, Next.js, CSS, WebAssembly, Three.js, accessibility |
+| 03 | **Backend Development** | 11 | Node.js, FastAPI, GraphQL, REST APIs, WebSockets, Kafka, gRPC |
+| 04 | **Databases And Storage** | 12 | PostgreSQL, MongoDB, Redis, MySQL, Supabase, vector DBs, Stripe |
+| 05 | **Devops And Cloud** | 26 | Docker, Kubernetes, Terraform, CI/CD, AWS, Azure, SRE, networking |
+| 06 | **Security And Auth** | 21 | Auth, cryptography, appsec, pentest, DevSecOps, code review |
+| 07 | **Testing And Quality** | 7 | Unit testing, integration, E2E, TDD, QA automation, coverage |
+| 08 | **Architecture And Patterns** | 8 | Clean architecture, SOLID, microservices, DDD, design patterns |
+| 09 | **Data And Ai** | 48 | ML, deep learning, MLOps, RAG systems, LLM engineering, data science |
+| 10 | **Mobile Development** | 4 | Android, iOS, React Native, Flutter cross-platform development |
+| 11 | **Specialized Coding** | 38 | CLI tools, MCP servers, game dev, blockchain, fintech, IoT, git |
+| 12 | **Finance And Trading** | 26 | Trading strategies, crypto, DeFi, quant analysis, financial data |
+| 13 | **Physics And Mathematics** | 28 | Calculus, linear algebra, statistics, quantum mechanics, simulations |
+| 14 | **Chemistry And Biology** | 26 | Organic chemistry, biochemistry, genomics, lab techniques |
+| 15 | **Earth And Space Sciences** | 16 | Geology, climatology, astrophysics, oceanography, GIS |
+| 16 | **Engineering** | 62 | Mechanical, civil, chemical, electrical, embedded, nanomaterials |
+| 17 | **Emerging Tech** | 41 | AR/VR, TTS, voice, video AI, smart home, IoT, spatial computing |
+| 18 | **Ai Agents And Automation** | 255 | Agent pipelines, MCP, multi-agent, workspace integrations, orchestration |
+| 19 | **Business And Entrepreneurship** | 205 | Startups, GTM, product management, marketing, PM skills, sales |
+| 20 | **Health And Wellness** | 82 | Health tracking, fitness, diet, medical tools, wearables integration |
 
 ---
 
-## 👥 Contributors
+## 📊 Stats
 
-| Account | Contribution |
-|---|---|
-| @luokai0 | Coding skills (01-11) + AI Agents (18) |
-| @luokai25 | Finance (12), Science (13-15), Engineering (16-17) |
-
----
-
-## 🗺️ Roadmap
-
-Done
-- 287 skills across 18 categories
-- Full reorganization into ai-agent-skills/ root
-
-Coming
-- 18-ai-agents-and-automation — 9 more skills
-- skills 0.4 Business and Entrepreneurship
-- skills 0.5 Health and Medicine
-- skills 0.6 Law and Legal
+- **Total Skills:** 977
+- **Categories:** 20
+- **Last Updated:** March 23, 2026
+- **Sources:** Lous Creations originals + VoltAgent · OpenClaw · agentskill.sh · GTM Skills · PM Skills · Crypto Skills · Google Gemini · HuggingFace
 
 ---
 
-## 📄 License
+## 🔧 How to Use
 
-MIT — use freely in any project, commercial or personal.
+### With Claude Code
+```bash
+cp -r <skill-folder> .claude/skills/
+# or globally
+cp -r <skill-folder> ~/.claude/skills/
+```
+
+### With Cursor
+```bash
+cp -r <skill-folder> .cursor/skills/
+```
+
+### With any compatible agent
+```
+/learn @luokai0/<skill-name>
+```
+
+---
+
+## ✨ Featured Skills
+
+| Skill | Category | What It Does |
+|-------|----------|--------------|
+| `agent-income-expert` | ai-agents | 6 proven income streams, zero budget |
+| `oc2-gh-issues` | specialized-coding | Auto-fix GitHub issues with sub-agents |
+| `gumloop-automation` | ai-agents | Daily content pipeline to Gumroad |
+| `rag-systems-expert` | data-ai | Production RAG with reranking |
+| `prompt-engineering-expert` | ai-agents | CoT, few-shot, structured outputs |
+| `gtm-positioning-icp` | business | ICP and go-to-market positioning |
+| `startup-strategy-expert` | business | Lean canvas and pitch deck framework |
+| `penetration-testing-expert` | security | OWASP, IDOR, JWT, bug bounty |
+| `crypto-trading-strategist` | finance | On-chain research to live trading |
+| `pm-deliver-prd` | business | Product Requirements Document |
+
+---
+
+## 🗂️ Skill Format
+
+```markdown
+---
+name: skill-name
+version: 1.0.0
+description: What this skill does. Use when...
+author: lous-creations
+tags: [tag1, tag2]
+---
+
+# Skill Title
+
+## Before Starting
+## Core Expertise Areas
+## Key Patterns
+## Best Practices
+## Common Pitfalls
+## Related Skills
+```
+
+---
+
+## 👤 Author
+
+**Luo Kai** · [Lous Creations](https://github.com/luokai0)
+
+> Building autonomous AI systems and the tools that power them.
+
+- Repo: [github.com/luokai0/cloud-skills-by-luo-kai-](https://github.com/luokai0/cloud-skills-by-luo-kai-)
+- New URL: [github.com/luokai0/ai-agent-skills-by-luo-kai](https://github.com/luokai0/ai-agent-skills-by-luo-kai)
+
+---
+
+MIT License · Free to use, modify, and distribute.
