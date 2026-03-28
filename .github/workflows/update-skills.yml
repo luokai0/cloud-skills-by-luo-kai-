@@ -1,0 +1,152 @@
+name: Update Skills Index & Bundle
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'ai-agent-skills/**'
+      - 'skills-index.json'
+      - '.github/workflows/update-skills.yml'
+  schedule:
+    - cron: '0 6 * * 1'   # Every Monday 06:00 UTC
+  workflow_dispatch:        # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate skills-index.json
+        run: |
+          python3 << 'SCRIPT'
+          import os, re, json
+
+          BASE = "ai-agent-skills"
+
+          ICONS = {
+            "01":"💻","02":"🎨","03":"⚙️","04":"🗄️","05":"☁️",
+            "06":"🔐","07":"🧪","08":"🏗️","09":"🤖","10":"📱",
+            "11":"🛠️","12":"💹","13":"🔬","14":"🧬","15":"🌍",
+            "16":"⚗️","17":"🚀","18":"🦾","19":"📈","20":"💪",
+          }
+          CATS = {
+            "01":"Programming Languages","02":"Frontend Dev","03":"Backend Dev",
+            "04":"Databases","05":"DevOps & Cloud","06":"Security","07":"Testing",
+            "08":"Architecture","09":"Data & AI","10":"Mobile","11":"Specialized Coding",
+            "12":"Finance","13":"Physics & Math","14":"Chemistry & Bio","15":"Earth & Space",
+            "16":"Engineering","17":"Emerging Tech","18":"AI Agents","19":"Business","20":"Health",
+          }
+
+          skills = []
+          for root, dirs, files in os.walk(BASE):
+              dirs[:] = sorted([d for d in dirs if d != ".git"])
+              if "SKILL.md" not in files:
+                  continue
+              path = os.path.join(root, "SKILL.md").replace("\\", "/")
+              parts = root.replace("\\", "/").split("/")
+              cat_raw = parts[1] if len(parts) > 1 else ""
+              skill_name = parts[-1]
+              num = cat_raw.split("-")[0] if cat_raw else "00"
+              try:
+                  with open(path, "r", errors="replace") as f:
+                      content = f.read(500)
+              except Exception:
+                  continue
+              desc = ""
+              dm = re.search(r"^description:\s*(.+)$", content, re.MULTILINE)
+              if dm:
+                  desc = dm.group(1).strip()[:80]
+              skills.append({"n": skill_name, "p": path, "c": num, "d": desc})
+
+          result = {"total": len(skills), "cats": CATS, "icons": ICONS, "skills": skills}
+          with open("skills-index.json", "w") as f:
+              json.dump(result, f, separators=(",", ":"))
+
+          print(f"skills-index.json: {len(skills)} skills | {os.path.getsize('skills-index.json')//1024}KB")
+          SCRIPT
+
+      - name: Bundle all skills into ZIP
+        run: |
+          python3 << 'SCRIPT'
+          import os, zipfile
+
+          BASE = "ai-agent-skills"
+          output = "skills-bundle.zip"
+          count = 0
+
+          with zipfile.ZipFile(output, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=6) as zf:
+              for root, dirs, files in os.walk(BASE):
+                  dirs[:] = [d for d in dirs if d != ".git"]
+                  for fname in files:
+                      fpath = os.path.join(root, fname)
+                      arcname = fpath.replace("\\", "/")
+                      zf.write(fpath, arcname)
+                      if fname == "SKILL.md":
+                          count += 1
+
+          size_mb = os.path.getsize(output) / (1024 * 1024)
+          print(f"skills-bundle.zip: {count} skills | {size_mb:.1f}MB")
+          SCRIPT
+
+      - name: Commit updated index
+        run: |
+          git config user.name "luo-kai[bot]"
+          git config user.email "luokai0@users.noreply.github.com"
+          git add skills-index.json
+          # Only commit if changed
+          if git diff --staged --quiet; then
+            echo "skills-index.json unchanged, skipping commit"
+          else
+            TOTAL=$(python3 -c "import json; d=json.load(open('skills-index.json')); print(d['total'])")
+            git commit -m "Auto-update: skills-index.json (${TOTAL} skills) [skip ci]"
+            git push
+          fi
+
+      - name: Create/Update GitHub Release with ZIP
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "Latest Skills Bundle"
+          body: |
+            ## AI Agent Skills Bundle — by Luo Kai (Lous Creations)
+
+            Auto-generated on every push. Contains all skill files from this repository.
+
+            **Download and use:**
+            ```bash
+            curl -L https://github.com/luokai0/ai-agent-skills-by-luo-kai/releases/latest/download/skills-bundle.zip -o skills.zip
+            unzip skills.zip
+            ```
+
+            See [README](https://github.com/luokai0/ai-agent-skills-by-luo-kai#readme) for usage.
+          files: skills-bundle.zip
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Summary
+        run: |
+          TOTAL=$(python3 -c "import json; d=json.load(open('skills-index.json')); print(d['total'])")
+          ZIP_MB=$(python3 -c "import os; print(f'{os.path.getsize(\"skills-bundle.zip\")/1024/1024:.1f}')")
+          echo "## ✅ Skills Update Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Metric | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|--------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| Total Skills | **${TOTAL}** |" >> $GITHUB_STEP_SUMMARY
+          echo "| Bundle Size | **${ZIP_MB} MB** |" >> $GITHUB_STEP_SUMMARY
+          echo "| Index Updated | **Yes** |" >> $GITHUB_STEP_SUMMARY
+          echo "| Release Updated | **Yes** |" >> $GITHUB_STEP_SUMMARY
